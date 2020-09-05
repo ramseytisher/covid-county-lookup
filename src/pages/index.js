@@ -46,7 +46,7 @@ const IndexPage = () => {
       <Select
         showSearch
         size="large"
-        style={{ width: '80vw' }}
+        style={{ width: "80vw", margin: `0 auto` }}
         placeholder="Select a county"
         onChange={value => setValue(value)}
       >
@@ -54,11 +54,7 @@ const IndexPage = () => {
           <Option value={County}>{County}</Option>
         ))}
       </Select>
-      {detail ? (
-        <Detail detail={detail} />
-      ) : (
-        <p>Select a county to begin</p>
-      )}
+      {detail && <Detail detail={detail} />}
     </Layout>
   )
 }
