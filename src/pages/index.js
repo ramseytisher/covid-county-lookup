@@ -3,6 +3,7 @@ import { useStaticQuery, graphql } from "gatsby"
 
 import { Select } from "antd"
 import Layout from "../components/layout"
+import Detail from "../components/detail"
 
 const { Option } = Select
 
@@ -45,7 +46,7 @@ const IndexPage = () => {
       <Select
         showSearch
         size="large"
-        style={{ width: 500 }}
+        style={{ width: '80vw' }}
         placeholder="Select a county"
         onChange={value => setValue(value)}
       >
@@ -54,7 +55,7 @@ const IndexPage = () => {
         ))}
       </Select>
       {detail ? (
-        <pre>{JSON.stringify(detail, null, 2)}</pre>
+        <Detail detail={detail} />
       ) : (
         <p>Select a county to begin</p>
       )}
