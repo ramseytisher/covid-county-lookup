@@ -7,7 +7,10 @@ const Detail = ({ detail }) => (
     <Row gutter={[8, 8]}>
       <Col span={24}>
         <Card>
-          <Statistic title="Classification" value={detail.Test_Positivity_Classification} />
+          <Statistic
+            title="Classification"
+            value={detail.Test_Positivity_Classification}
+          />
         </Card>
       </Col>
       <Col span={12}>
@@ -24,7 +27,9 @@ const Detail = ({ detail }) => (
         <Card>
           <Statistic
             title="% Positive Prior 7 Days"
-            value={detail.Percent_Positive_in_prior_7_days}
+            value={detail.Percent_Positive_in_prior_7_days * 100}
+            precision={2}
+            suffix="%"
           />
         </Card>
       </Col>
