@@ -1,0 +1,3143 @@
+County,FIPS code,State,FEMA region,Population,Percent Positive in prior 7 days,Test Positivity Classification
+"Aleutians East Borough, AK",2013,AK,10,3337,<10 tests,Green
+"Aleutians West Census Area, AK",2016,AK,10,5634,0.016,Green
+"Anchorage Municipality, AK",2020,AK,10,288000,0.024,Green
+"Bethel Census Area, AK",2050,AK,10,18386,0.006,Green
+"Bristol Bay Borough, AK",2060,AK,10,836,<10 tests,Green
+"Denali Borough, AK",2068,AK,10,2097,0.029,Green
+"Dillingham Census Area, AK",2070,AK,10,4916,0,Green
+"Fairbanks North Star Borough, AK",2090,AK,10,96849,0.026,Green
+"Haines Borough, AK",2100,AK,10,2530,0,Green
+"Hoonah-Angoon Census Area, AK",2105,AK,10,2148,0.103,Red
+"Juneau City and Borough, AK",2110,AK,10,31974,0.022,Green
+"Kenai Peninsula Borough, AK",2122,AK,10,58708,0.016,Green
+"Ketchikan Gateway Borough, AK",2130,AK,10,13901,0.002,Green
+"Kodiak Island Borough, AK",2150,AK,10,12998,0,Green
+"Kusilvak Census Area, AK",2158,AK,10,8314,0.008,Green
+"Lake and Peninsula Borough, AK",2164,AK,10,1592,<10 tests,Green
+"Matanuska-Susitna Borough, AK",2170,AK,10,108317,0.027,Green
+"Nome Census Area, AK",2180,AK,10,10004,0.004,Green
+"North Slope Borough, AK",2185,AK,10,9832,<10 tests,Green
+"Northwest Arctic Borough, AK",2188,AK,10,7621,0,Green
+"Petersburg Borough, AK",2195,AK,10,3266,0,Green
+"Prince of Wales-Hyder Census Area, AK",2198,AK,10,6203,0,Green
+"Sitka City and Borough, AK",2220,AK,10,8493,0.004,Green
+"Skagway Municipality, AK",2230,AK,10,1183,0,Green
+"Southeast Fairbanks Census Area, AK",2240,AK,10,6893,0,Green
+"Valdez-Cordova Census Area, AK",2261,AK,10,9202,0.059,Yellow
+"Wrangell City and Borough, AK",2275,AK,10,2502,0,Green
+"Yakutat City and Borough, AK",2282,AK,10,579,0,Green
+"Yukon-Koyukuk Census Area, AK",2290,AK,10,5230,0,Green
+"Autauga County, AL",1001,AL,4,55869,0.121,Red
+"Baldwin County, AL",1003,AL,4,223234,0.078,Yellow
+"Barbour County, AL",1005,AL,4,24686,0.091,Yellow
+"Bibb County, AL",1007,AL,4,22394,0.091,Yellow
+"Blount County, AL",1009,AL,4,57826,0.132,Red
+"Bullock County, AL",1011,AL,4,10101,0.11,Red
+"Butler County, AL",1013,AL,4,19448,0.062,Yellow
+"Calhoun County, AL",1015,AL,4,113605,0.117,Red
+"Chambers County, AL",1017,AL,4,33254,0.088,Yellow
+"Cherokee County, AL",1019,AL,4,26196,0.176,Red
+"Chilton County, AL",1021,AL,4,44428,0.157,Red
+"Choctaw County, AL",1023,AL,4,12589,0.099,Yellow
+"Clarke County, AL",1025,AL,4,23622,0.105,Red
+"Clay County, AL",1027,AL,4,13235,0.029,Green
+"Cleburne County, AL",1029,AL,4,14910,0.143,Red
+"Coffee County, AL",1031,AL,4,52342,0.06,Yellow
+"Colbert County, AL",1033,AL,4,55241,0.094,Yellow
+"Conecuh County, AL",1035,AL,4,12067,0.154,Red
+"Coosa County, AL",1037,AL,4,10663,0.18,Red
+"Covington County, AL",1039,AL,4,37049,0.057,Yellow
+"Crenshaw County, AL",1041,AL,4,13772,0.122,Red
+"Cullman County, AL",1043,AL,4,83768,0.06,Yellow
+"Dale County, AL",1045,AL,4,49172,0.109,Red
+"Dallas County, AL",1047,AL,4,37196,0.083,Yellow
+"DeKalb County, AL",1049,AL,4,71513,0.097,Yellow
+"Elmore County, AL",1051,AL,4,81209,0.059,Yellow
+"Escambia County, AL",1053,AL,4,36633,0.139,Red
+"Etowah County, AL",1055,AL,4,102268,0.108,Red
+"Fayette County, AL",1057,AL,4,16302,0.214,Red
+"Franklin County, AL",1059,AL,4,31362,0.094,Yellow
+"Geneva County, AL",1061,AL,4,26271,0.082,Yellow
+"Greene County, AL",1063,AL,4,8111,0.058,Yellow
+"Hale County, AL",1065,AL,4,14651,0.076,Yellow
+"Henry County, AL",1067,AL,4,17205,0.084,Yellow
+"Houston County, AL",1069,AL,4,105882,0.091,Yellow
+"Jackson County, AL",1071,AL,4,51626,0.094,Yellow
+"Jefferson County, AL",1073,AL,4,658573,0.068,Yellow
+"Lamar County, AL",1075,AL,4,13805,0.036,Green
+"Lauderdale County, AL",1077,AL,4,92729,0.071,Yellow
+"Lawrence County, AL",1079,AL,4,32924,0.216,Red
+"Lee County, AL",1081,AL,4,164542,0.118,Red
+"Limestone County, AL",1083,AL,4,98915,0.086,Yellow
+"Lowndes County, AL",1085,AL,4,9726,0.145,Red
+"Macon County, AL",1087,AL,4,18068,0.077,Yellow
+"Madison County, AL",1089,AL,4,372909,0.065,Yellow
+"Marengo County, AL",1091,AL,4,18863,0.053,Yellow
+"Marion County, AL",1093,AL,4,29709,0.124,Red
+"Marshall County, AL",1095,AL,4,96774,0.109,Red
+"Mobile County, AL",1097,AL,4,413210,0.078,Yellow
+"Monroe County, AL",1099,AL,4,20733,0.099,Yellow
+"Montgomery County, AL",1101,AL,4,226486,0.104,Red
+"Morgan County, AL",1103,AL,4,119679,0.084,Yellow
+"Perry County, AL",1105,AL,4,8923,0.126,Red
+"Pickens County, AL",1107,AL,4,19930,0.08,Yellow
+"Pike County, AL",1109,AL,4,33114,0.085,Yellow
+"Randolph County, AL",1111,AL,4,22722,0.151,Red
+"Russell County, AL",1113,AL,4,57961,0.098,Yellow
+"Shelby County, AL",1117,AL,4,217702,0.076,Yellow
+"St. Clair County, AL",1115,AL,4,89512,0.126,Red
+"Sumter County, AL",1119,AL,4,12427,0.032,Green
+"Talladega County, AL",1121,AL,4,79978,0.122,Red
+"Tallapoosa County, AL",1123,AL,4,40367,0.062,Yellow
+"Tuscaloosa County, AL",1125,AL,4,209355,0.098,Yellow
+"Walker County, AL",1127,AL,4,63521,0.102,Red
+"Washington County, AL",1129,AL,4,16326,0.061,Yellow
+"Wilcox County, AL",1131,AL,4,10373,0.13,Red
+"Winston County, AL",1133,AL,4,23629,0.102,Red
+"Arkansas County, AR",5001,AR,6,17486,0.151,Red
+"Ashley County, AR",5003,AR,6,19657,0.096,Yellow
+"Baxter County, AR",5005,AR,6,41932,0.069,Yellow
+"Benton County, AR",5007,AR,6,279141,0.065,Yellow
+"Boone County, AR",5009,AR,6,37432,0.091,Yellow
+"Bradley County, AR",5011,AR,6,10763,0.151,Red
+"Calhoun County, AR",5013,AR,6,5189,0.028,Green
+"Carroll County, AR",5015,AR,6,28380,0.122,Red
+"Chicot County, AR",5017,AR,6,10118,0.112,Red
+"Clark County, AR",5019,AR,6,22320,0.139,Red
+"Clay County, AR",5021,AR,6,14551,0.089,Yellow
+"Cleburne County, AR",5023,AR,6,24919,0.098,Yellow
+"Cleveland County, AR",5025,AR,6,7956,0.104,Red
+"Columbia County, AR",5027,AR,6,23457,0.074,Yellow
+"Conway County, AR",5029,AR,6,20846,0.082,Yellow
+"Craighead County, AR",5031,AR,6,110332,0.092,Yellow
+"Crawford County, AR",5033,AR,6,63257,0.155,Red
+"Crittenden County, AR",5035,AR,6,47955,0.1,Yellow
+"Cross County, AR",5037,AR,6,16419,0.111,Red
+"Dallas County, AR",5039,AR,6,7009,0.135,Red
+"Desha County, AR",5041,AR,6,11361,0.169,Red
+"Drew County, AR",5043,AR,6,18219,0.061,Yellow
+"Faulkner County, AR",5045,AR,6,126007,0.087,Yellow
+"Franklin County, AR",5047,AR,6,17715,0.056,Yellow
+"Fulton County, AR",5049,AR,6,12477,0.11,Red
+"Garland County, AR",5051,AR,6,99386,0.137,Red
+"Grant County, AR",5053,AR,6,18265,0.145,Red
+"Greene County, AR",5055,AR,6,45325,0.081,Yellow
+"Hempstead County, AR",5057,AR,6,21532,0.156,Red
+"Hot Spring County, AR",5059,AR,6,33771,0.115,Red
+"Howard County, AR",5061,AR,6,13202,0.201,Red
+"Independence County, AR",5063,AR,6,37825,0.055,Yellow
+"Izard County, AR",5065,AR,6,13629,0.085,Yellow
+"Jackson County, AR",5067,AR,6,16719,0.025,Green
+"Jefferson County, AR",5069,AR,6,66824,0.137,Red
+"Johnson County, AR",5071,AR,6,26578,0.053,Yellow
+"Lafayette County, AR",5073,AR,6,6624,0,Green
+"Lawrence County, AR",5075,AR,6,16406,0.063,Yellow
+"Lee County, AR",5077,AR,6,8857,0.107,Red
+"Lincoln County, AR",5079,AR,6,13024,0.235,Red
+"Little River County, AR",5081,AR,6,12259,0.098,Yellow
+"Logan County, AR",5083,AR,6,21466,0.066,Yellow
+"Lonoke County, AR",5085,AR,6,73309,0.08,Yellow
+"Madison County, AR",5087,AR,6,16576,0.032,Green
+"Marion County, AR",5089,AR,6,16694,0.065,Yellow
+"Miller County, AR",5091,AR,6,43257,0.034,Green
+"Mississippi County, AR",5093,AR,6,40651,0.14,Red
+"Monroe County, AR",5095,AR,6,6701,0.089,Yellow
+"Montgomery County, AR",5097,AR,6,8986,0.182,Red
+"Nevada County, AR",5099,AR,6,8252,0.082,Yellow
+"Newton County, AR",5101,AR,6,7753,0.093,Yellow
+"Ouachita County, AR",5103,AR,6,23382,0.075,Yellow
+"Perry County, AR",5105,AR,6,10455,0.085,Yellow
+"Phillips County, AR",5107,AR,6,17782,0.085,Yellow
+"Pike County, AR",5109,AR,6,10718,0.164,Red
+"Poinsett County, AR",5111,AR,6,23528,0.14,Red
+"Polk County, AR",5113,AR,6,19964,0.124,Red
+"Pope County, AR",5115,AR,6,64072,0.127,Red
+"Prairie County, AR",5117,AR,6,8062,0.028,Green
+"Pulaski County, AR",5119,AR,6,391911,0.094,Yellow
+"Randolph County, AR",5121,AR,6,17958,0.075,Yellow
+"Saline County, AR",5125,AR,6,122437,0.096,Yellow
+"Scott County, AR",5127,AR,6,10281,0.024,Green
+"Searcy County, AR",5129,AR,6,7881,0.134,Red
+"Sebastian County, AR",5131,AR,6,127827,0.125,Red
+"Sevier County, AR",5133,AR,6,17007,0.108,Red
+"Sharp County, AR",5135,AR,6,17442,0.09,Yellow
+"St. Francis County, AR",5123,AR,6,24994,0.06,Yellow
+"Stone County, AR",5137,AR,6,12506,0.143,Red
+"Union County, AR",5139,AR,6,38682,0.095,Yellow
+"Van Buren County, AR",5141,AR,6,16545,0.171,Red
+"Washington County, AR",5143,AR,6,239187,0.059,Yellow
+"White County, AR",5145,AR,6,78753,0.216,Red
+"Woodruff County, AR",5147,AR,6,6320,0.066,Yellow
+"Yell County, AR",5149,AR,6,21341,0.109,Red
+"Apache County, AZ",4001,AZ,9,71887,0.034,Green
+"Cochise County, AZ",4003,AZ,9,125922,0.048,Green
+"Coconino County, AZ",4005,AZ,9,143476,0.031,Green
+"Gila County, AZ",4007,AZ,9,54018,0.063,Yellow
+"Graham County, AZ",4009,AZ,9,38837,0.186,Red
+"Greenlee County, AZ",4011,AZ,9,9498,0,Green
+"La Paz County, AZ",4012,AZ,9,21108,0.059,Yellow
+"Maricopa County, AZ",4013,AZ,9,4485414,0.049,Green
+"Mohave County, AZ",4015,AZ,9,212181,0.096,Yellow
+"Navajo County, AZ",4017,AZ,9,110924,0.059,Yellow
+"Pima County, AZ",4019,AZ,9,1047279,0.078,Yellow
+"Pinal County, AZ",4021,AZ,9,462789,0.03,Green
+"Santa Cruz County, AZ",4023,AZ,9,46498,0.057,Yellow
+"Yavapai County, AZ",4025,AZ,9,235099,0.035,Green
+"Yuma County, AZ",4027,AZ,9,213787,0.058,Yellow
+"Alameda County, CA",6001,CA,9,1671329,0.056,Yellow
+"Alpine County, CA",6003,CA,9,1129,0,Green
+"Amador County, CA",6005,CA,9,39752,0.018,Green
+"Butte County, CA",6007,CA,9,219186,0.051,Yellow
+"Calaveras County, CA",6009,CA,9,45905,0.035,Green
+"Colusa County, CA",6011,CA,9,21547,0.12,Red
+"Contra Costa County, CA",6013,CA,9,1153526,0.067,Yellow
+"Del Norte County, CA",6015,CA,9,27812,0.02,Green
+"El Dorado County, CA",6017,CA,9,192843,0.036,Green
+"Fresno County, CA",6019,CA,9,999101,0.112,Red
+"Glenn County, CA",6021,CA,9,28393,0.045,Green
+"Humboldt County, CA",6023,CA,9,135558,0.012,Green
+"Imperial County, CA",6025,CA,9,181215,0.112,Red
+"Inyo County, CA",6027,CA,9,18039,0.072,Yellow
+"Kern County, CA",6029,CA,9,900202,0.111,Red
+"Kings County, CA",6031,CA,9,152940,0.097,Yellow
+"Lake County, CA",6033,CA,9,64386,0.05,Yellow
+"Lassen County, CA",6035,CA,9,30573,0.008,Green
+"Los Angeles County, CA",6037,CA,9,10039107,0.036,Green
+"Madera County, CA",6039,CA,9,157327,0.08,Yellow
+"Marin County, CA",6041,CA,9,258826,0.027,Green
+"Mariposa County, CA",6043,CA,9,17203,0.007,Green
+"Mendocino County, CA",6045,CA,9,86749,0.046,Green
+"Merced County, CA",6047,CA,9,277680,0.115,Red
+"Modoc County, CA",6049,CA,9,8841,0,Green
+"Mono County, CA",6051,CA,9,14444,0.011,Green
+"Monterey County, CA",6053,CA,9,434061,0.129,Red
+"Napa County, CA",6055,CA,9,137744,0.036,Green
+"Nevada County, CA",6057,CA,9,99755,0.026,Green
+"Orange County, CA",6059,CA,9,3175692,0.05,Yellow
+"Placer County, CA",6061,CA,9,398329,0.051,Yellow
+"Plumas County, CA",6063,CA,9,18807,0.008,Green
+"Riverside County, CA",6065,CA,9,2470546,0.101,Red
+"Sacramento County, CA",6067,CA,9,1552058,0.086,Yellow
+"San Benito County, CA",6069,CA,9,62808,0.097,Yellow
+"San Bernardino County, CA",6071,CA,9,2180085,0.097,Yellow
+"San Diego County, CA",6073,CA,9,3338330,0.043,Green
+"San Francisco County, CA",6075,CA,9,881549,0.052,Yellow
+"San Joaquin County, CA",6077,CA,9,762148,0.1,Yellow
+"San Luis Obispo County, CA",6079,CA,9,283111,0.02,Green
+"San Mateo County, CA",6081,CA,9,766573,0.047,Green
+"Santa Barbara County, CA",6083,CA,9,446499,0.058,Yellow
+"Santa Clara County, CA",6085,CA,9,1927852,0.033,Green
+"Santa Cruz County, CA",6087,CA,9,273213,0.056,Yellow
+"Shasta County, CA",6089,CA,9,180080,0.015,Green
+"Sierra County, CA",6091,CA,9,3005,0,Green
+"Siskiyou County, CA",6093,CA,9,43539,0.013,Green
+"Solano County, CA",6095,CA,9,447643,0.047,Green
+"Sonoma County, CA",6097,CA,9,494336,0.078,Yellow
+"Stanislaus County, CA",6099,CA,9,550660,0.128,Red
+"Sutter County, CA",6101,CA,9,96971,0.09,Yellow
+"Tehama County, CA",6103,CA,9,65084,0.056,Yellow
+"Trinity County, CA",6105,CA,9,12285,0.009,Green
+"Tulare County, CA",6107,CA,9,466195,0.138,Red
+"Tuolumne County, CA",6109,CA,9,54478,0.013,Green
+"Ventura County, CA",6111,CA,9,846006,0.062,Yellow
+"Yolo County, CA",6113,CA,9,220500,0.059,Yellow
+"Yuba County, CA",6115,CA,9,78668,0.082,Yellow
+"Adams County, CO",8001,CO,8,517421,0.047,Green
+"Alamosa County, CO",8003,CO,8,16233,0.034,Green
+"Arapahoe County, CO",8005,CO,8,656590,0.05,Yellow
+"Archuleta County, CO",8007,CO,8,14029,0.018,Green
+"Baca County, CO",8009,CO,8,3581,0,Green
+"Bent County, CO",8011,CO,8,5577,0,Green
+"Boulder County, CO",8013,CO,8,326196,0.015,Green
+"Broomfield County, CO",8014,CO,8,70465,0.016,Green
+"Chaffee County, CO",8015,CO,8,20356,0.013,Green
+"Cheyenne County, CO",8017,CO,8,1831,0.03,Green
+"Clear Creek County, CO",8019,CO,8,9700,0.073,Yellow
+"Conejos County, CO",8021,CO,8,8205,0,Green
+"Costilla County, CO",8023,CO,8,3887,<10 tests,Green
+"Crowley County, CO",8025,CO,8,6061,0,Green
+"Custer County, CO",8027,CO,8,5068,0,Green
+"Delta County, CO",8029,CO,8,31162,0.025,Green
+"Denver County, CO",8031,CO,8,727211,0.03,Green
+"Dolores County, CO",8033,CO,8,2055,<10 tests,Green
+"Douglas County, CO",8035,CO,8,351154,0.024,Green
+"Eagle County, CO",8037,CO,8,55127,0.03,Green
+"El Paso County, CO",8041,CO,8,720403,0.035,Green
+"Elbert County, CO",8039,CO,8,26729,0,Green
+"Fremont County, CO",8043,CO,8,47839,0.004,Green
+"Garfield County, CO",8045,CO,8,60061,0.06,Yellow
+"Gilpin County, CO",8047,CO,8,6243,0,Green
+"Grand County, CO",8049,CO,8,15734,0,Green
+"Gunnison County, CO",8051,CO,8,17462,0.107,Red
+"Hinsdale County, CO",8053,CO,8,820,<10 tests,Green
+"Huerfano County, CO",8055,CO,8,6897,0,Green
+"Jackson County, CO",8057,CO,8,1392,<10 tests,Green
+"Jefferson County, CO",8059,CO,8,582881,0.032,Green
+"Kiowa County, CO",8061,CO,8,1406,0,Green
+"Kit Carson County, CO",8063,CO,8,7097,0,Green
+"La Plata County, CO",8067,CO,8,56221,0.009,Green
+"Lake County, CO",8065,CO,8,8127,0.025,Green
+"Larimer County, CO",8069,CO,8,356899,0.031,Green
+"Las Animas County, CO",8071,CO,8,14506,0,Green
+"Lincoln County, CO",8073,CO,8,5701,0,Green
+"Logan County, CO",8075,CO,8,22409,0.036,Green
+"Mesa County, CO",8077,CO,8,154210,0.011,Green
+"Mineral County, CO",8079,CO,8,769,<10 tests,Green
+"Moffat County, CO",8081,CO,8,13283,0.022,Green
+"Montezuma County, CO",8083,CO,8,26183,0.014,Green
+"Montrose County, CO",8085,CO,8,42758,0.062,Yellow
+"Morgan County, CO",8087,CO,8,29068,0.021,Green
+"Otero County, CO",8089,CO,8,18278,0.01,Green
+"Ouray County, CO",8091,CO,8,4952,0.14,Red
+"Park County, CO",8093,CO,8,18845,0.014,Green
+"Phillips County, CO",8095,CO,8,4265,0,Green
+"Pitkin County, CO",8097,CO,8,17767,0.043,Green
+"Prowers County, CO",8099,CO,8,12172,0.022,Green
+"Pueblo County, CO",8101,CO,8,168424,0.037,Green
+"Rio Blanco County, CO",8103,CO,8,6324,0.031,Green
+"Rio Grande County, CO",8105,CO,8,11267,0,Green
+"Routt County, CO",8107,CO,8,25638,0.003,Green
+"Saguache County, CO",8109,CO,8,6824,<10 tests,Green
+"San Juan County, CO",8111,CO,8,728,<10 tests,Green
+"San Miguel County, CO",8113,CO,8,8179,0.045,Green
+"Sedgwick County, CO",8115,CO,8,2248,0.083,Yellow
+"Summit County, CO",8117,CO,8,31011,0.012,Green
+"Teller County, CO",8119,CO,8,25388,0.029,Green
+"Washington County, CO",8121,CO,8,4908,0,Green
+"Weld County, CO",8123,CO,8,324492,0.035,Green
+"Yuma County, CO",8125,CO,8,10019,0.022,Green
+"Fairfield County, CT",9001,CT,1,943332,0.018,Green
+"Hartford County, CT",9003,CT,1,891720,0.018,Green
+"Litchfield County, CT",9005,CT,1,180333,0.009,Green
+"Middlesex County, CT",9007,CT,1,162436,0.004,Green
+"New Haven County, CT",9009,CT,1,854757,0.009,Green
+"New London County, CT",9011,CT,1,265206,0.003,Green
+"Tolland County, CT",9013,CT,1,150721,0.008,Green
+"Windham County, CT",9015,CT,1,116782,0.008,Green
+"District of Columbia, DC",11001,DC,3,705749,0.04,Green
+"Kent County, DE",10001,DE,3,180786,0.035,Green
+"New Castle County, DE",10003,DE,3,558753,0.032,Green
+"Sussex County, DE",10005,DE,3,234225,0.038,Green
+"Alachua County, FL",12001,FL,4,269043,0.051,Yellow
+"Baker County, FL",12003,FL,4,29210,0.098,Yellow
+"Bay County, FL",12005,FL,4,174705,0.092,Yellow
+"Bradford County, FL",12007,FL,4,28201,0.129,Red
+"Brevard County, FL",12009,FL,4,601942,0.039,Green
+"Broward County, FL",12011,FL,4,1952778,0.138,Red
+"Calhoun County, FL",12013,FL,4,14105,0.05,Yellow
+"Charlotte County, FL",12015,FL,4,188910,0.095,Yellow
+"Citrus County, FL",12017,FL,4,149657,0.072,Yellow
+"Clay County, FL",12019,FL,4,219252,0.067,Yellow
+"Collier County, FL",12021,FL,4,384902,0.067,Yellow
+"Columbia County, FL",12023,FL,4,71686,0.103,Red
+"DeSoto County, FL",12027,FL,4,38001,0.081,Yellow
+"Dixie County, FL",12029,FL,4,16826,0.125,Red
+"Duval County, FL",12031,FL,4,957755,0.066,Yellow
+"Escambia County, FL",12033,FL,4,318316,0.106,Red
+"Flagler County, FL",12035,FL,4,115081,0.039,Green
+"Franklin County, FL",12037,FL,4,12125,0.084,Yellow
+"Gadsden County, FL",12039,FL,4,45660,0.125,Red
+"Gilchrist County, FL",12041,FL,4,18582,0.08,Yellow
+"Glades County, FL",12043,FL,4,13811,0.182,Red
+"Gulf County, FL",12045,FL,4,13639,0.151,Red
+"Hamilton County, FL",12047,FL,4,14428,0.122,Red
+"Hardee County, FL",12049,FL,4,26937,0.098,Yellow
+"Hendry County, FL",12051,FL,4,42022,0.109,Red
+"Hernando County, FL",12053,FL,4,193920,0.076,Yellow
+"Highlands County, FL",12055,FL,4,106221,0.075,Yellow
+"Hillsborough County, FL",12057,FL,4,1471968,0.061,Yellow
+"Holmes County, FL",12059,FL,4,19617,0.054,Yellow
+"Indian River County, FL",12061,FL,4,159923,0.059,Yellow
+"Jackson County, FL",12063,FL,4,46414,0.064,Yellow
+"Jefferson County, FL",12065,FL,4,14246,0.07,Yellow
+"Lafayette County, FL",12067,FL,4,8422,0.228,Red
+"Lake County, FL",12069,FL,4,367118,0.058,Yellow
+"Lee County, FL",12071,FL,4,770577,0.075,Yellow
+"Leon County, FL",12073,FL,4,293582,0.063,Yellow
+"Levy County, FL",12075,FL,4,41503,0.09,Yellow
+"Liberty County, FL",12077,FL,4,8354,0.185,Red
+"Madison County, FL",12079,FL,4,18493,0.159,Red
+"Manatee County, FL",12081,FL,4,403253,0.046,Green
+"Marion County, FL",12083,FL,4,365579,0.098,Yellow
+"Martin County, FL",12085,FL,4,161000,0.069,Yellow
+"Miami-Dade County, FL",12086,FL,4,2716940,0.125,Red
+"Monroe County, FL",12087,FL,4,74228,0.053,Yellow
+"Nassau County, FL",12089,FL,4,88625,0.102,Red
+"Okaloosa County, FL",12091,FL,4,210738,0.068,Yellow
+"Okeechobee County, FL",12093,FL,4,42168,0.095,Yellow
+"Orange County, FL",12095,FL,4,1393452,0.059,Yellow
+"Osceola County, FL",12097,FL,4,375751,0.083,Yellow
+"Palm Beach County, FL",12099,FL,4,1496770,0.07,Yellow
+"Pasco County, FL",12101,FL,4,553947,0.048,Green
+"Pinellas County, FL",12103,FL,4,974996,0.045,Green
+"Polk County, FL",12105,FL,4,724777,0.085,Yellow
+"Putnam County, FL",12107,FL,4,74521,0.084,Yellow
+"Santa Rosa County, FL",12113,FL,4,184313,0.115,Red
+"Sarasota County, FL",12115,FL,4,433742,0.038,Green
+"Seminole County, FL",12117,FL,4,471826,0.06,Yellow
+"St. Johns County, FL",12109,FL,4,264672,0.044,Green
+"St. Lucie County, FL",12111,FL,4,328297,0.088,Yellow
+"Sumter County, FL",12119,FL,4,132420,0.057,Yellow
+"Suwannee County, FL",12121,FL,4,44417,0.137,Red
+"Taylor County, FL",12123,FL,4,21569,0.147,Red
+"Union County, FL",12125,FL,4,15237,0.155,Red
+"Volusia County, FL",12127,FL,4,553284,0.056,Yellow
+"Wakulla County, FL",12129,FL,4,33739,0.092,Yellow
+"Walton County, FL",12131,FL,4,74071,0.084,Yellow
+"Washington County, FL",12133,FL,4,25473,0.103,Red
+"Appling County, GA",13001,GA,4,18386,0.119,Red
+"Atkinson County, GA",13003,GA,4,8165,0.057,Yellow
+"Bacon County, GA",13005,GA,4,11164,0.121,Red
+"Baker County, GA",13007,GA,4,3038,0.143,Red
+"Baldwin County, GA",13009,GA,4,44890,0.114,Red
+"Banks County, GA",13011,GA,4,19234,0.176,Red
+"Barrow County, GA",13013,GA,4,83240,0.102,Red
+"Bartow County, GA",13015,GA,4,107738,0.11,Red
+"Ben Hill County, GA",13017,GA,4,16700,0.173,Red
+"Berrien County, GA",13019,GA,4,19397,0.136,Red
+"Bibb County, GA",13021,GA,4,153159,0.117,Red
+"Bleckley County, GA",13023,GA,4,12873,0.083,Yellow
+"Brantley County, GA",13025,GA,4,19109,0.058,Yellow
+"Brooks County, GA",13027,GA,4,15457,0.278,Red
+"Bryan County, GA",13029,GA,4,39627,0.084,Yellow
+"Bulloch County, GA",13031,GA,4,79608,0.186,Red
+"Burke County, GA",13033,GA,4,22383,0.117,Red
+"Butts County, GA",13035,GA,4,24936,0.152,Red
+"Calhoun County, GA",13037,GA,4,6189,0.214,Red
+"Camden County, GA",13039,GA,4,54666,0.055,Yellow
+"Candler County, GA",13043,GA,4,10803,0.206,Red
+"Carroll County, GA",13045,GA,4,119992,0.156,Red
+"Catoosa County, GA",13047,GA,4,67580,0.103,Red
+"Charlton County, GA",13049,GA,4,13392,0.07,Yellow
+"Chatham County, GA",13051,GA,4,289430,0.119,Red
+"Chattahoochee County, GA",13053,GA,4,10907,0.1,Yellow
+"Chattooga County, GA",13055,GA,4,24789,0.205,Red
+"Cherokee County, GA",13057,GA,4,258773,0.069,Yellow
+"Clarke County, GA",13059,GA,4,128331,0.112,Red
+"Clay County, GA",13061,GA,4,2834,<10 tests,Green
+"Clayton County, GA",13063,GA,4,292256,0.098,Yellow
+"Clinch County, GA",13065,GA,4,6618,0.155,Red
+"Cobb County, GA",13067,GA,4,760141,0.057,Yellow
+"Coffee County, GA",13069,GA,4,43273,0.186,Red
+"Colquitt County, GA",13071,GA,4,45600,0.075,Yellow
+"Columbia County, GA",13073,GA,4,156714,0.108,Red
+"Cook County, GA",13075,GA,4,17270,0.101,Red
+"Coweta County, GA",13077,GA,4,148509,0.152,Red
+"Crawford County, GA",13079,GA,4,12404,0.149,Red
+"Crisp County, GA",13081,GA,4,22372,0.115,Red
+"Dade County, GA",13083,GA,4,16116,0.111,Red
+"Dawson County, GA",13085,GA,4,26108,0.08,Yellow
+"Decatur County, GA",13087,GA,4,26404,0.181,Red
+"DeKalb County, GA",13089,GA,4,759297,0.057,Yellow
+"Dodge County, GA",13091,GA,4,20605,0.162,Red
+"Dooly County, GA",13093,GA,4,13390,0.094,Yellow
+"Dougherty County, GA",13095,GA,4,87956,0.061,Yellow
+"Douglas County, GA",13097,GA,4,146343,0.082,Yellow
+"Early County, GA",13099,GA,4,10190,0.123,Red
+"Echols County, GA",13101,GA,4,4006,<10 tests,Green
+"Effingham County, GA",13103,GA,4,64296,0.134,Red
+"Elbert County, GA",13105,GA,4,19194,0.064,Yellow
+"Emanuel County, GA",13107,GA,4,22646,0.141,Red
+"Evans County, GA",13109,GA,4,10654,0.125,Red
+"Fannin County, GA",13111,GA,4,26188,0.048,Green
+"Fayette County, GA",13113,GA,4,114421,0.067,Yellow
+"Floyd County, GA",13115,GA,4,98498,0.066,Yellow
+"Forsyth County, GA",13117,GA,4,244252,0.067,Yellow
+"Franklin County, GA",13119,GA,4,23349,0.169,Red
+"Fulton County, GA",13121,GA,4,1063937,0.07,Yellow
+"Gilmer County, GA",13123,GA,4,31369,0.066,Yellow
+"Glascock County, GA",13125,GA,4,2971,0.105,Red
+"Glynn County, GA",13127,GA,4,85292,0.098,Yellow
+"Gordon County, GA",13129,GA,4,57963,0.072,Yellow
+"Grady County, GA",13131,GA,4,24633,0.182,Red
+"Greene County, GA",13133,GA,4,18324,0.121,Red
+"Gwinnett County, GA",13135,GA,4,936250,0.072,Yellow
+"Habersham County, GA",13137,GA,4,45328,0.073,Yellow
+"Hall County, GA",13139,GA,4,204441,0.07,Yellow
+"Hancock County, GA",13141,GA,4,8457,0.111,Red
+"Haralson County, GA",13143,GA,4,29792,0.196,Red
+"Harris County, GA",13145,GA,4,35236,0.057,Yellow
+"Hart County, GA",13147,GA,4,26205,0.116,Red
+"Heard County, GA",13149,GA,4,11923,0.11,Red
+"Henry County, GA",13151,GA,4,234561,0.117,Red
+"Houston County, GA",13153,GA,4,157863,0.099,Yellow
+"Irwin County, GA",13155,GA,4,9416,0.024,Green
+"Jackson County, GA",13157,GA,4,72977,0.069,Yellow
+"Jasper County, GA",13159,GA,4,14219,0.138,Red
+"Jeff Davis County, GA",13161,GA,4,15115,0.156,Red
+"Jefferson County, GA",13163,GA,4,15362,0.147,Red
+"Jenkins County, GA",13165,GA,4,8676,0.136,Red
+"Johnson County, GA",13167,GA,4,9643,0.178,Red
+"Jones County, GA",13169,GA,4,28735,0.142,Red
+"Lamar County, GA",13171,GA,4,19077,0.049,Green
+"Lanier County, GA",13173,GA,4,10423,0.07,Yellow
+"Laurens County, GA",13175,GA,4,47546,0.118,Red
+"Lee County, GA",13177,GA,4,29992,0.078,Yellow
+"Liberty County, GA",13179,GA,4,61435,0.119,Red
+"Lincoln County, GA",13181,GA,4,7921,0.113,Red
+"Long County, GA",13183,GA,4,19559,0.14,Red
+"Lowndes County, GA",13185,GA,4,117406,0.079,Yellow
+"Lumpkin County, GA",13187,GA,4,33610,0.065,Yellow
+"Macon County, GA",13193,GA,4,12947,0.054,Yellow
+"Madison County, GA",13195,GA,4,29880,0.11,Red
+"Marion County, GA",13197,GA,4,8359,0.074,Yellow
+"McDuffie County, GA",13189,GA,4,21312,0.136,Red
+"McIntosh County, GA",13191,GA,4,14378,0.15,Red
+"Meriwether County, GA",13199,GA,4,21167,0.091,Yellow
+"Miller County, GA",13201,GA,4,5718,0.149,Red
+"Mitchell County, GA",13205,GA,4,21863,0.158,Red
+"Monroe County, GA",13207,GA,4,27578,0.136,Red
+"Montgomery County, GA",13209,GA,4,9172,0.122,Red
+"Morgan County, GA",13211,GA,4,19276,0.144,Red
+"Murray County, GA",13213,GA,4,40096,0.094,Yellow
+"Muscogee County, GA",13215,GA,4,195769,0.078,Yellow
+"Newton County, GA",13217,GA,4,111744,0.098,Yellow
+"Oconee County, GA",13219,GA,4,40280,0.064,Yellow
+"Oglethorpe County, GA",13221,GA,4,15259,0.033,Green
+"Paulding County, GA",13223,GA,4,168667,0.101,Red
+"Peach County, GA",13225,GA,4,27546,0.115,Red
+"Pickens County, GA",13227,GA,4,32591,0.082,Yellow
+"Pierce County, GA",13229,GA,4,19465,0.08,Yellow
+"Pike County, GA",13231,GA,4,18962,0.079,Yellow
+"Polk County, GA",13233,GA,4,42613,0.149,Red
+"Pulaski County, GA",13235,GA,4,11137,0.512,Red
+"Putnam County, GA",13237,GA,4,22119,0.088,Yellow
+"Quitman County, GA",13239,GA,4,2299,<10 tests,Green
+"Rabun County, GA",13241,GA,4,17137,0.048,Green
+"Randolph County, GA",13243,GA,4,6778,0.191,Red
+"Richmond County, GA",13245,GA,4,202518,0.143,Red
+"Rockdale County, GA",13247,GA,4,90896,0.068,Yellow
+"Schley County, GA",13249,GA,4,5257,0.12,Red
+"Screven County, GA",13251,GA,4,13966,0.111,Red
+"Seminole County, GA",13253,GA,4,8090,0.103,Red
+"Spalding County, GA",13255,GA,4,66703,0.093,Yellow
+"Stephens County, GA",13257,GA,4,25925,0.119,Red
+"Stewart County, GA",13259,GA,4,6621,0.053,Yellow
+"Sumter County, GA",13261,GA,4,29524,0.097,Yellow
+"Talbot County, GA",13263,GA,4,6195,0.048,Green
+"Taliaferro County, GA",13265,GA,4,1537,<10 tests,Green
+"Tattnall County, GA",13267,GA,4,25286,0.113,Red
+"Taylor County, GA",13269,GA,4,8020,0.196,Red
+"Telfair County, GA",13271,GA,4,15860,0.048,Green
+"Terrell County, GA",13273,GA,4,8531,0.068,Yellow
+"Thomas County, GA",13275,GA,4,44451,0.155,Red
+"Tift County, GA",13277,GA,4,40644,0.108,Red
+"Toombs County, GA",13279,GA,4,26830,0.181,Red
+"Towns County, GA",13281,GA,4,12037,0.286,Red
+"Treutlen County, GA",13283,GA,4,6901,0.222,Red
+"Troup County, GA",13285,GA,4,69922,0.073,Yellow
+"Turner County, GA",13287,GA,4,7985,0.007,Green
+"Twiggs County, GA",13289,GA,4,8120,0.149,Red
+"Union County, GA",13291,GA,4,24511,0.044,Green
+"Upson County, GA",13293,GA,4,26320,0.108,Red
+"Walker County, GA",13295,GA,4,69761,0.04,Green
+"Walton County, GA",13297,GA,4,94593,0.087,Yellow
+"Ware County, GA",13299,GA,4,35734,0.044,Green
+"Warren County, GA",13301,GA,4,5254,0.1,Yellow
+"Washington County, GA",13303,GA,4,20374,0.09,Yellow
+"Wayne County, GA",13305,GA,4,29927,0.184,Red
+"Webster County, GA",13307,GA,4,2607,0.091,Yellow
+"Wheeler County, GA",13309,GA,4,7855,0.444,Red
+"White County, GA",13311,GA,4,30798,0.014,Green
+"Whitfield County, GA",13313,GA,4,104628,0.104,Red
+"Wilcox County, GA",13315,GA,4,8635,0.118,Red
+"Wilkes County, GA",13317,GA,4,9777,0.091,Yellow
+"Wilkinson County, GA",13319,GA,4,8954,0.148,Red
+"Worth County, GA",13321,GA,4,20247,0.053,Yellow
+"Hawaii County, HI",15001,HI,9,201513,0.027,Green
+"Honolulu County, HI",15003,HI,9,974563,0.098,Yellow
+"Kalawao County, HI",15005,HI,9,86,<10 tests,Green
+"Kauai County, HI",15007,HI,9,72293,0.009,Green
+"Maui County, HI",15009,HI,9,167417,0.021,Green
+"Adair County, IA",19001,IA,7,7152,0.05,Yellow
+"Adams County, IA",19003,IA,7,3602,0.023,Green
+"Allamakee County, IA",19005,IA,7,13687,0.053,Yellow
+"Appanoose County, IA",19007,IA,7,12426,0.079,Yellow
+"Audubon County, IA",19009,IA,7,5496,0.06,Yellow
+"Benton County, IA",19011,IA,7,25645,0.035,Green
+"Black Hawk County, IA",19013,IA,7,131228,0.094,Yellow
+"Boone County, IA",19015,IA,7,26234,0.103,Red
+"Bremer County, IA",19017,IA,7,25062,0.079,Yellow
+"Buchanan County, IA",19019,IA,7,21175,0.053,Yellow
+"Buena Vista County, IA",19021,IA,7,19620,0.044,Green
+"Butler County, IA",19023,IA,7,14439,0.159,Red
+"Calhoun County, IA",19025,IA,7,9668,0.124,Red
+"Carroll County, IA",19027,IA,7,20165,0.132,Red
+"Cass County, IA",19029,IA,7,12836,0.044,Green
+"Cedar County, IA",19031,IA,7,18627,0.032,Green
+"Cerro Gordo County, IA",19033,IA,7,42450,0.056,Yellow
+"Cherokee County, IA",19035,IA,7,11235,0.098,Yellow
+"Chickasaw County, IA",19037,IA,7,11933,0.096,Yellow
+"Clarke County, IA",19039,IA,7,9395,0.126,Red
+"Clay County, IA",19041,IA,7,16016,0.045,Green
+"Clayton County, IA",19043,IA,7,17549,0.104,Red
+"Clinton County, IA",19045,IA,7,46429,0.125,Red
+"Crawford County, IA",19047,IA,7,16820,0.137,Red
+"Dallas County, IA",19049,IA,7,93453,0.1,Yellow
+"Davis County, IA",19051,IA,7,9000,0.034,Green
+"Decatur County, IA",19053,IA,7,7870,0.043,Green
+"Delaware County, IA",19055,IA,7,17011,0.132,Red
+"Des Moines County, IA",19057,IA,7,38967,0.111,Red
+"Dickinson County, IA",19059,IA,7,17258,0.063,Yellow
+"Dubuque County, IA",19061,IA,7,97311,0.069,Yellow
+"Emmet County, IA",19063,IA,7,9208,0.071,Yellow
+"Fayette County, IA",19065,IA,7,19650,0.026,Green
+"Floyd County, IA",19067,IA,7,15642,0.04,Green
+"Franklin County, IA",19069,IA,7,10070,0.096,Yellow
+"Fremont County, IA",19071,IA,7,6960,0.115,Red
+"Greene County, IA",19073,IA,7,8888,0.061,Yellow
+"Grundy County, IA",19075,IA,7,12232,0.108,Red
+"Guthrie County, IA",19077,IA,7,10689,0.053,Yellow
+"Hamilton County, IA",19079,IA,7,14773,0.043,Green
+"Hancock County, IA",19081,IA,7,10630,0.067,Yellow
+"Hardin County, IA",19083,IA,7,16846,0.085,Yellow
+"Harrison County, IA",19085,IA,7,14049,0.115,Red
+"Henry County, IA",19087,IA,7,19954,0.104,Red
+"Howard County, IA",19089,IA,7,9158,0.216,Red
+"Humboldt County, IA",19091,IA,7,9558,0.077,Yellow
+"Ida County, IA",19093,IA,7,6860,0.076,Yellow
+"Iowa County, IA",19095,IA,7,16184,0.038,Green
+"Jackson County, IA",19097,IA,7,19439,0.092,Yellow
+"Jasper County, IA",19099,IA,7,37185,0.058,Yellow
+"Jefferson County, IA",19101,IA,7,18295,0.106,Red
+"Johnson County, IA",19103,IA,7,151140,0.196,Red
+"Jones County, IA",19105,IA,7,20681,0.084,Yellow
+"Keokuk County, IA",19107,IA,7,10246,0.075,Yellow
+"Kossuth County, IA",19109,IA,7,14813,0.042,Green
+"Lee County, IA",19111,IA,7,33657,0.177,Red
+"Linn County, IA",19113,IA,7,226706,0.053,Yellow
+"Louisa County, IA",19115,IA,7,11035,0.058,Yellow
+"Lucas County, IA",19117,IA,7,8600,0.09,Yellow
+"Lyon County, IA",19119,IA,7,11755,0.091,Yellow
+"Madison County, IA",19121,IA,7,16338,0.076,Yellow
+"Mahaska County, IA",19123,IA,7,22095,0.052,Yellow
+"Marion County, IA",19125,IA,7,33253,0.183,Red
+"Marshall County, IA",19127,IA,7,39369,0.132,Red
+"Mills County, IA",19129,IA,7,15109,0.061,Yellow
+"Mitchell County, IA",19131,IA,7,10586,0.057,Yellow
+"Monona County, IA",19133,IA,7,8615,0.112,Red
+"Monroe County, IA",19135,IA,7,7707,0.087,Yellow
+"Montgomery County, IA",19137,IA,7,9917,0.071,Yellow
+"Muscatine County, IA",19139,IA,7,42664,0.06,Yellow
+"O'Brien County, IA",19141,IA,7,13753,0.149,Red
+"Osceola County, IA",19143,IA,7,5958,0.114,Red
+"Page County, IA",19145,IA,7,15107,0.033,Green
+"Palo Alto County, IA",19147,IA,7,8886,0.024,Green
+"Plymouth County, IA",19149,IA,7,25177,0.23,Red
+"Pocahontas County, IA",19151,IA,7,6619,0.047,Green
+"Polk County, IA",19153,IA,7,490161,0.113,Red
+"Pottawattamie County, IA",19155,IA,7,93206,0.081,Yellow
+"Poweshiek County, IA",19157,IA,7,18504,0.032,Green
+"Ringgold County, IA",19159,IA,7,4894,0.041,Green
+"Sac County, IA",19161,IA,7,9721,0.035,Green
+"Scott County, IA",19163,IA,7,172943,0.073,Yellow
+"Shelby County, IA",19165,IA,7,11454,0.126,Red
+"Sioux County, IA",19167,IA,7,34855,0.246,Red
+"Story County, IA",19169,IA,7,97117,0.143,Red
+"Tama County, IA",19171,IA,7,16854,0.125,Red
+"Taylor County, IA",19173,IA,7,6121,0.042,Green
+"Union County, IA",19175,IA,7,12241,0.022,Green
+"Van Buren County, IA",19177,IA,7,7044,0.108,Red
+"Wapello County, IA",19179,IA,7,34969,0.144,Red
+"Warren County, IA",19181,IA,7,51466,0.105,Red
+"Washington County, IA",19183,IA,7,21965,0.03,Green
+"Wayne County, IA",19185,IA,7,6441,0.127,Red
+"Webster County, IA",19187,IA,7,35904,0.067,Yellow
+"Winnebago County, IA",19189,IA,7,10354,0.091,Yellow
+"Winneshiek County, IA",19191,IA,7,19991,0.139,Red
+"Woodbury County, IA",19193,IA,7,103107,0.096,Yellow
+"Worth County, IA",19195,IA,7,7381,0.058,Yellow
+"Wright County, IA",19197,IA,7,12562,0.028,Green
+"Ada County, ID",16001,ID,10,481587,0.092,Yellow
+"Adams County, ID",16003,ID,10,4294,0.077,Yellow
+"Bannock County, ID",16005,ID,10,87808,0.133,Red
+"Bear Lake County, ID",16007,ID,10,6125,0.132,Red
+"Benewah County, ID",16009,ID,10,9298,0.186,Red
+"Bingham County, ID",16011,ID,10,46811,0.282,Red
+"Blaine County, ID",16013,ID,10,23021,0.033,Green
+"Boise County, ID",16015,ID,10,7831,0.038,Green
+"Bonner County, ID",16017,ID,10,45739,0.04,Green
+"Bonneville County, ID",16019,ID,10,119062,0.171,Red
+"Boundary County, ID",16021,ID,10,12245,0.054,Yellow
+"Butte County, ID",16023,ID,10,2597,<10 tests,Green
+"Camas County, ID",16025,ID,10,1106,0,Green
+"Canyon County, ID",16027,ID,10,229849,0.163,Red
+"Caribou County, ID",16029,ID,10,7155,0.071,Yellow
+"Cassia County, ID",16031,ID,10,24030,0.047,Green
+"Clark County, ID",16033,ID,10,845,<10 tests,Green
+"Clearwater County, ID",16035,ID,10,8756,0.012,Green
+"Custer County, ID",16037,ID,10,4315,0,Green
+"Elmore County, ID",16039,ID,10,27511,0.06,Yellow
+"Franklin County, ID",16041,ID,10,13876,0.05,Yellow
+"Fremont County, ID",16043,ID,10,13099,0.069,Yellow
+"Gem County, ID",16045,ID,10,18112,0.062,Yellow
+"Gooding County, ID",16047,ID,10,15179,0.118,Red
+"Idaho County, ID",16049,ID,10,16667,0.041,Green
+"Jefferson County, ID",16051,ID,10,29871,0.105,Red
+"Jerome County, ID",16053,ID,10,24412,0.185,Red
+"Kootenai County, ID",16055,ID,10,165697,0.093,Yellow
+"Latah County, ID",16057,ID,10,40108,0.049,Green
+"Lemhi County, ID",16059,ID,10,8027,0.065,Yellow
+"Lewis County, ID",16061,ID,10,3838,0.028,Green
+"Lincoln County, ID",16063,ID,10,5366,0.08,Yellow
+"Madison County, ID",16065,ID,10,39907,0.127,Red
+"Minidoka County, ID",16067,ID,10,21039,0.019,Green
+"Nez Perce County, ID",16069,ID,10,40408,0.086,Yellow
+"Oneida County, ID",16071,ID,10,4531,0.227,Red
+"Owyhee County, ID",16073,ID,10,11823,0.078,Yellow
+"Payette County, ID",16075,ID,10,23951,0.259,Red
+"Power County, ID",16077,ID,10,7681,0.444,Red
+"Shoshone County, ID",16079,ID,10,12882,0.082,Yellow
+"Teton County, ID",16081,ID,10,12142,0.135,Red
+"Twin Falls County, ID",16083,ID,10,86878,0.096,Yellow
+"Valley County, ID",16085,ID,10,11392,0.013,Green
+"Washington County, ID",16087,ID,10,10194,0.097,Yellow
+"Adams County, IL",17001,IL,5,65435,0.028,Green
+"Alexander County, IL",17003,IL,5,5761,0.125,Red
+"Bond County, IL",17005,IL,5,16426,0.085,Yellow
+"Boone County, IL",17007,IL,5,53544,0.066,Yellow
+"Brown County, IL",17009,IL,5,6578,0.025,Green
+"Bureau County, IL",17011,IL,5,32628,0.106,Red
+"Calhoun County, IL",17013,IL,5,4739,0.043,Green
+"Carroll County, IL",17015,IL,5,14305,0.065,Yellow
+"Cass County, IL",17017,IL,5,12147,0.097,Yellow
+"Champaign County, IL",17019,IL,5,209689,0.007,Green
+"Christian County, IL",17021,IL,5,32304,0.034,Green
+"Clark County, IL",17023,IL,5,15441,0.044,Green
+"Clay County, IL",17025,IL,5,13184,0.085,Yellow
+"Clinton County, IL",17027,IL,5,37562,0.171,Red
+"Coles County, IL",17029,IL,5,50621,0.077,Yellow
+"Cook County, IL",17031,IL,5,5150233,0.059,Yellow
+"Crawford County, IL",17033,IL,5,18667,0.06,Yellow
+"Cumberland County, IL",17035,IL,5,10766,0.084,Yellow
+"De Witt County, IL",17039,IL,5,15638,0.012,Green
+"DeKalb County, IL",17037,IL,5,104897,0.041,Green
+"Douglas County, IL",17041,IL,5,19465,0.037,Green
+"DuPage County, IL",17043,IL,5,922921,0.049,Green
+"Edgar County, IL",17045,IL,5,17161,0.1,Yellow
+"Edwards County, IL",17047,IL,5,6395,0.105,Red
+"Effingham County, IL",17049,IL,5,34008,0.137,Red
+"Fayette County, IL",17051,IL,5,21336,0.109,Red
+"Ford County, IL",17053,IL,5,12961,0.011,Green
+"Franklin County, IL",17055,IL,5,38469,0.045,Green
+"Fulton County, IL",17057,IL,5,34340,0.03,Green
+"Gallatin County, IL",17059,IL,5,4828,0.122,Red
+"Greene County, IL",17061,IL,5,12969,0.071,Yellow
+"Grundy County, IL",17063,IL,5,51054,0.081,Yellow
+"Hamilton County, IL",17065,IL,5,8116,0,Green
+"Hancock County, IL",17067,IL,5,17708,0.059,Yellow
+"Hardin County, IL",17069,IL,5,3821,0,Green
+"Henderson County, IL",17071,IL,5,6646,0.186,Red
+"Henry County, IL",17073,IL,5,48913,0.093,Yellow
+"Iroquois County, IL",17075,IL,5,27114,0.021,Green
+"Jackson County, IL",17077,IL,5,56750,0.068,Yellow
+"Jasper County, IL",17079,IL,5,9610,0.162,Red
+"Jefferson County, IL",17081,IL,5,37684,0.074,Yellow
+"Jersey County, IL",17083,IL,5,21773,0.083,Yellow
+"Jo Daviess County, IL",17085,IL,5,21235,0.079,Yellow
+"Johnson County, IL",17087,IL,5,12417,0.08,Yellow
+"Kane County, IL",17089,IL,5,532403,0.063,Yellow
+"Kankakee County, IL",17091,IL,5,109862,0.066,Yellow
+"Kendall County, IL",17093,IL,5,128990,0.052,Yellow
+"Knox County, IL",17095,IL,5,49699,0.043,Green
+"Lake County, IL",17097,IL,5,696535,0.055,Yellow
+"LaSalle County, IL",17099,IL,5,108669,0.06,Yellow
+"Lawrence County, IL",17101,IL,5,15678,0.141,Red
+"Lee County, IL",17103,IL,5,34096,0.047,Green
+"Livingston County, IL",17105,IL,5,35648,0.016,Green
+"Logan County, IL",17107,IL,5,28618,0.036,Green
+"Macon County, IL",17115,IL,5,104009,0.041,Green
+"Macoupin County, IL",17117,IL,5,44926,0.067,Yellow
+"Madison County, IL",17119,IL,5,262966,0.1,Yellow
+"Marion County, IL",17121,IL,5,37205,0.057,Yellow
+"Marshall County, IL",17123,IL,5,11438,0.052,Yellow
+"Mason County, IL",17125,IL,5,13359,0.042,Green
+"Massac County, IL",17127,IL,5,13772,0.092,Yellow
+"McDonough County, IL",17109,IL,5,29682,0.046,Green
+"McHenry County, IL",17111,IL,5,307774,0.067,Yellow
+"McLean County, IL",17113,IL,5,171517,0.094,Yellow
+"Menard County, IL",17129,IL,5,12196,0.041,Green
+"Mercer County, IL",17131,IL,5,15437,0.055,Yellow
+"Monroe County, IL",17133,IL,5,34637,0.181,Red
+"Montgomery County, IL",17135,IL,5,28414,0.071,Yellow
+"Morgan County, IL",17137,IL,5,33658,0.065,Yellow
+"Moultrie County, IL",17139,IL,5,14501,0.055,Yellow
+"Ogle County, IL",17141,IL,5,50643,0.028,Green
+"Peoria County, IL",17143,IL,5,179179,0.054,Yellow
+"Perry County, IL",17145,IL,5,20916,0.082,Yellow
+"Piatt County, IL",17147,IL,5,16344,0.024,Green
+"Pike County, IL",17149,IL,5,15561,0.063,Yellow
+"Pope County, IL",17151,IL,5,4177,0.083,Yellow
+"Pulaski County, IL",17153,IL,5,5335,0.198,Red
+"Putnam County, IL",17155,IL,5,5739,0.013,Green
+"Randolph County, IL",17157,IL,5,31782,0.129,Red
+"Richland County, IL",17159,IL,5,15513,0.06,Yellow
+"Rock Island County, IL",17161,IL,5,141879,0.075,Yellow
+"Saline County, IL",17165,IL,5,23491,0.027,Green
+"Sangamon County, IL",17167,IL,5,194672,0.052,Yellow
+"Schuyler County, IL",17169,IL,5,6768,0.017,Green
+"Scott County, IL",17171,IL,5,4951,0.081,Yellow
+"Shelby County, IL",17173,IL,5,21634,0.109,Red
+"St. Clair County, IL",17163,IL,5,259686,0.09,Yellow
+"Stark County, IL",17175,IL,5,5342,0.085,Yellow
+"Stephenson County, IL",17177,IL,5,44498,0.034,Green
+"Tazewell County, IL",17179,IL,5,131803,0.054,Yellow
+"Union County, IL",17181,IL,5,16653,0.108,Red
+"Vermilion County, IL",17183,IL,5,75758,0.028,Green
+"Wabash County, IL",17185,IL,5,11520,0.026,Green
+"Warren County, IL",17187,IL,5,16844,0.111,Red
+"Washington County, IL",17189,IL,5,13887,0.069,Yellow
+"Wayne County, IL",17191,IL,5,16215,0.032,Green
+"White County, IL",17193,IL,5,13537,0.081,Yellow
+"Whiteside County, IL",17195,IL,5,55175,0.061,Yellow
+"Will County, IL",17197,IL,5,690743,0.092,Yellow
+"Williamson County, IL",17199,IL,5,66597,0.096,Yellow
+"Winnebago County, IL",17201,IL,5,282572,0.052,Yellow
+"Woodford County, IL",17203,IL,5,38459,0.052,Yellow
+"Adams County, IN",18001,IN,5,35777,0.098,Yellow
+"Allen County, IN",18003,IN,5,379299,0.075,Yellow
+"Bartholomew County, IN",18005,IN,5,83779,0.053,Yellow
+"Benton County, IN",18007,IN,5,8748,0.025,Green
+"Blackford County, IN",18009,IN,5,11758,0.037,Green
+"Boone County, IN",18011,IN,5,67843,0.049,Green
+"Brown County, IN",18013,IN,5,15092,0.05,Yellow
+"Carroll County, IN",18015,IN,5,20257,0.045,Green
+"Cass County, IN",18017,IN,5,37689,0.043,Green
+"Clark County, IN",18019,IN,5,118302,0.071,Yellow
+"Clay County, IN",18021,IN,5,26225,0.081,Yellow
+"Clinton County, IN",18023,IN,5,32399,0.065,Yellow
+"Crawford County, IN",18025,IN,5,10577,0.039,Green
+"Daviess County, IN",18027,IN,5,33351,0.101,Red
+"Dearborn County, IN",18029,IN,5,49458,0.035,Green
+"Decatur County, IN",18031,IN,5,26559,0.052,Yellow
+"DeKalb County, IN",18033,IN,5,43475,0.083,Yellow
+"Delaware County, IN",18035,IN,5,114135,0.06,Yellow
+"Dubois County, IN",18037,IN,5,42736,0.083,Yellow
+"Elkhart County, IN",18039,IN,5,206341,0.187,Red
+"Fayette County, IN",18041,IN,5,23102,0.087,Yellow
+"Floyd County, IN",18043,IN,5,78522,0.083,Yellow
+"Fountain County, IN",18045,IN,5,16346,0.038,Green
+"Franklin County, IN",18047,IN,5,22758,0.095,Yellow
+"Fulton County, IN",18049,IN,5,19974,0.043,Green
+"Gibson County, IN",18051,IN,5,33659,0.047,Green
+"Grant County, IN",18053,IN,5,65769,0.056,Yellow
+"Greene County, IN",18055,IN,5,31922,0.092,Yellow
+"Hamilton County, IN",18057,IN,5,338011,0.048,Green
+"Hancock County, IN",18059,IN,5,78168,0.044,Green
+"Harrison County, IN",18061,IN,5,40515,0.07,Yellow
+"Hendricks County, IN",18063,IN,5,170311,0.057,Yellow
+"Henry County, IN",18065,IN,5,47972,0.046,Green
+"Howard County, IN",18067,IN,5,82544,0.043,Green
+"Huntington County, IN",18069,IN,5,36520,0.056,Yellow
+"Jackson County, IN",18071,IN,5,44231,0.031,Green
+"Jasper County, IN",18073,IN,5,33562,0.058,Yellow
+"Jay County, IN",18075,IN,5,20436,0.077,Yellow
+"Jefferson County, IN",18077,IN,5,32308,0.029,Green
+"Jennings County, IN",18079,IN,5,27735,0.04,Green
+"Johnson County, IN",18081,IN,5,158167,0.046,Green
+"Knox County, IN",18083,IN,5,36594,0.041,Green
+"Kosciusko County, IN",18085,IN,5,79456,0.065,Yellow
+"LaGrange County, IN",18087,IN,5,39614,0.067,Yellow
+"Lake County, IN",18089,IN,5,485493,0.081,Yellow
+"LaPorte County, IN",18091,IN,5,109888,0.068,Yellow
+"Lawrence County, IN",18093,IN,5,45370,0.073,Yellow
+"Madison County, IN",18095,IN,5,129569,0.046,Green
+"Marion County, IN",18097,IN,5,964582,0.055,Yellow
+"Marshall County, IN",18099,IN,5,46258,0.025,Green
+"Martin County, IN",18101,IN,5,10255,0.151,Red
+"Miami County, IN",18103,IN,5,35516,0.026,Green
+"Monroe County, IN",18105,IN,5,148431,0.056,Yellow
+"Montgomery County, IN",18107,IN,5,38338,0.028,Green
+"Morgan County, IN",18109,IN,5,70489,0.053,Yellow
+"Newton County, IN",18111,IN,5,13984,0.133,Red
+"Noble County, IN",18113,IN,5,47744,0.097,Yellow
+"Ohio County, IN",18115,IN,5,5875,0.025,Green
+"Orange County, IN",18117,IN,5,19646,0.11,Red
+"Owen County, IN",18119,IN,5,20799,0.045,Green
+"Parke County, IN",18121,IN,5,16937,0.037,Green
+"Perry County, IN",18123,IN,5,19169,0.024,Green
+"Pike County, IN",18125,IN,5,12389,0.035,Green
+"Porter County, IN",18127,IN,5,170389,0.068,Yellow
+"Posey County, IN",18129,IN,5,25427,0.026,Green
+"Pulaski County, IN",18131,IN,5,12353,0.021,Green
+"Putnam County, IN",18133,IN,5,37576,0.045,Green
+"Randolph County, IN",18135,IN,5,24665,0.078,Yellow
+"Ripley County, IN",18137,IN,5,28324,0.038,Green
+"Rush County, IN",18139,IN,5,16581,0.039,Green
+"Scott County, IN",18143,IN,5,23873,0.02,Green
+"Shelby County, IN",18145,IN,5,44729,0.037,Green
+"Spencer County, IN",18147,IN,5,20277,0.052,Yellow
+"St. Joseph County, IN",18141,IN,5,271826,0.209,Red
+"Starke County, IN",18149,IN,5,22995,0.082,Yellow
+"Steuben County, IN",18151,IN,5,34594,0.058,Yellow
+"Sullivan County, IN",18153,IN,5,20669,0.137,Red
+"Switzerland County, IN",18155,IN,5,10751,0.009,Green
+"Tippecanoe County, IN",18157,IN,5,195732,0.042,Green
+"Tipton County, IN",18159,IN,5,15148,0.047,Green
+"Union County, IN",18161,IN,5,7054,0.055,Yellow
+"Vanderburgh County, IN",18163,IN,5,181451,0.068,Yellow
+"Vermillion County, IN",18165,IN,5,15498,0.069,Yellow
+"Vigo County, IN",18167,IN,5,107038,0.082,Yellow
+"Wabash County, IN",18169,IN,5,30996,0.034,Green
+"Warren County, IN",18171,IN,5,8265,0.023,Green
+"Warrick County, IN",18173,IN,5,62998,0.07,Yellow
+"Washington County, IN",18175,IN,5,28036,0.091,Yellow
+"Wayne County, IN",18177,IN,5,65884,0.046,Green
+"Wells County, IN",18179,IN,5,28296,0.03,Green
+"White County, IN",18181,IN,5,24102,0.05,Yellow
+"Whitley County, IN",18183,IN,5,33964,0.052,Yellow
+"Allen County, KS",20001,KS,7,12369,0.016,Green
+"Anderson County, KS",20003,KS,7,7858,0,Green
+"Atchison County, KS",20005,KS,7,16073,0.23,Red
+"Barber County, KS",20007,KS,7,4427,0.091,Yellow
+"Barton County, KS",20009,KS,7,25779,0.099,Yellow
+"Bourbon County, KS",20011,KS,7,14534,0.093,Yellow
+"Brown County, KS",20013,KS,7,9564,0.066,Yellow
+"Butler County, KS",20015,KS,7,66911,0.1,Yellow
+"Chase County, KS",20017,KS,7,2648,0.133,Red
+"Chautauqua County, KS",20019,KS,7,3250,<10 tests,Green
+"Cherokee County, KS",20021,KS,7,19939,0.104,Red
+"Cheyenne County, KS",20023,KS,7,2657,<10 tests,Green
+"Clark County, KS",20025,KS,7,1994,<10 tests,Green
+"Clay County, KS",20027,KS,7,8002,0.077,Yellow
+"Cloud County, KS",20029,KS,7,8786,0.078,Yellow
+"Coffey County, KS",20031,KS,7,8179,0.081,Yellow
+"Comanche County, KS",20033,KS,7,1700,<10 tests,Green
+"Cowley County, KS",20035,KS,7,34908,0.112,Red
+"Crawford County, KS",20037,KS,7,38818,0.24,Red
+"Decatur County, KS",20039,KS,7,2827,<10 tests,Green
+"Dickinson County, KS",20041,KS,7,18466,0.095,Yellow
+"Doniphan County, KS",20043,KS,7,7600,0.097,Yellow
+"Douglas County, KS",20045,KS,7,122259,0.043,Green
+"Edwards County, KS",20047,KS,7,2798,0.167,Red
+"Elk County, KS",20049,KS,7,2530,0,Green
+"Ellis County, KS",20051,KS,7,28553,0.245,Red
+"Ellsworth County, KS",20053,KS,7,6102,0.111,Red
+"Finney County, KS",20055,KS,7,36467,0.147,Red
+"Ford County, KS",20057,KS,7,33619,0.221,Red
+"Franklin County, KS",20059,KS,7,25544,0.046,Green
+"Geary County, KS",20061,KS,7,31670,0.105,Red
+"Gove County, KS",20063,KS,7,2636,0.316,Red
+"Graham County, KS",20065,KS,7,2482,0.043,Green
+"Grant County, KS",20067,KS,7,7150,0.231,Red
+"Gray County, KS",20069,KS,7,5988,0.217,Red
+"Greeley County, KS",20071,KS,7,1232,<10 tests,Green
+"Greenwood County, KS",20073,KS,7,5982,0.083,Yellow
+"Hamilton County, KS",20075,KS,7,2539,<10 tests,Green
+"Harper County, KS",20077,KS,7,5436,0.491,Red
+"Harvey County, KS",20079,KS,7,34429,0.069,Yellow
+"Haskell County, KS",20081,KS,7,3968,0.25,Red
+"Hodgeman County, KS",20083,KS,7,1794,0.034,Green
+"Jackson County, KS",20085,KS,7,13171,0.124,Red
+"Jefferson County, KS",20087,KS,7,19043,0.089,Yellow
+"Jewell County, KS",20089,KS,7,2879,<10 tests,Green
+"Johnson County, KS",20091,KS,7,602401,0.079,Yellow
+"Kearny County, KS",20093,KS,7,3838,0.067,Yellow
+"Kingman County, KS",20095,KS,7,7152,0.06,Yellow
+"Kiowa County, KS",20097,KS,7,2475,<10 tests,Green
+"Labette County, KS",20099,KS,7,19618,0.113,Red
+"Lane County, KS",20101,KS,7,1535,0.091,Yellow
+"Leavenworth County, KS",20103,KS,7,81758,0.064,Yellow
+"Lincoln County, KS",20105,KS,7,2962,<10 tests,Green
+"Linn County, KS",20107,KS,7,9703,0.074,Yellow
+"Logan County, KS",20109,KS,7,2794,0.095,Yellow
+"Lyon County, KS",20111,KS,7,33195,0.138,Red
+"Marion County, KS",20115,KS,7,11884,0.088,Yellow
+"Marshall County, KS",20117,KS,7,9707,0.045,Green
+"McPherson County, KS",20113,KS,7,28542,0.104,Red
+"Meade County, KS",20119,KS,7,4033,0.079,Yellow
+"Miami County, KS",20121,KS,7,34237,0.071,Yellow
+"Mitchell County, KS",20123,KS,7,5979,0.214,Red
+"Montgomery County, KS",20125,KS,7,31829,0.133,Red
+"Morris County, KS",20127,KS,7,5620,0.08,Yellow
+"Morton County, KS",20129,KS,7,2587,<10 tests,Green
+"Nemaha County, KS",20131,KS,7,10231,0.005,Green
+"Neosho County, KS",20133,KS,7,16007,0.113,Red
+"Ness County, KS",20135,KS,7,2750,0.147,Red
+"Norton County, KS",20137,KS,7,5361,0.091,Yellow
+"Osage County, KS",20139,KS,7,15949,0.047,Green
+"Osborne County, KS",20141,KS,7,3421,0,Green
+"Ottawa County, KS",20143,KS,7,5704,0,Green
+"Pawnee County, KS",20145,KS,7,6414,0.055,Yellow
+"Phillips County, KS",20147,KS,7,5234,0.1,Yellow
+"Pottawatomie County, KS",20149,KS,7,24383,0.026,Green
+"Pratt County, KS",20151,KS,7,9164,0.058,Yellow
+"Rawlins County, KS",20153,KS,7,2530,<10 tests,Green
+"Reno County, KS",20155,KS,7,61998,0.132,Red
+"Republic County, KS",20157,KS,7,4636,0.167,Red
+"Rice County, KS",20159,KS,7,9537,0.049,Green
+"Riley County, KS",20161,KS,7,74232,0.123,Red
+"Rooks County, KS",20163,KS,7,4920,0.065,Yellow
+"Rush County, KS",20165,KS,7,3036,0.044,Green
+"Russell County, KS",20167,KS,7,6856,0.057,Yellow
+"Saline County, KS",20169,KS,7,54224,0.158,Red
+"Scott County, KS",20171,KS,7,4823,0.159,Red
+"Sedgwick County, KS",20173,KS,7,516042,0.131,Red
+"Seward County, KS",20175,KS,7,21428,0.244,Red
+"Shawnee County, KS",20177,KS,7,176875,0.076,Yellow
+"Sheridan County, KS",20179,KS,7,2521,0,Green
+"Sherman County, KS",20181,KS,7,5917,0.083,Yellow
+"Smith County, KS",20183,KS,7,3583,0,Green
+"Stafford County, KS",20185,KS,7,4156,0.25,Red
+"Stanton County, KS",20187,KS,7,2006,0,Green
+"Stevens County, KS",20189,KS,7,5485,0.583,Red
+"Sumner County, KS",20191,KS,7,22836,0.054,Yellow
+"Thomas County, KS",20193,KS,7,7777,0.024,Green
+"Trego County, KS",20195,KS,7,2803,0.026,Green
+"Wabaunsee County, KS",20197,KS,7,6931,0.099,Yellow
+"Wallace County, KS",20199,KS,7,1518,<10 tests,Green
+"Washington County, KS",20201,KS,7,5406,0.111,Red
+"Wichita County, KS",20203,KS,7,2119,<10 tests,Green
+"Wilson County, KS",20205,KS,7,8525,0.333,Red
+"Woodson County, KS",20207,KS,7,3138,<10 tests,Green
+"Wyandotte County, KS",20209,KS,7,165429,0.117,Red
+"Adair County, KY",21001,KY,4,19202,0.037,Green
+"Allen County, KY",21003,KY,4,21315,0.151,Red
+"Anderson County, KY",21005,KY,4,22747,0.055,Yellow
+"Ballard County, KY",21007,KY,4,7888,0.05,Yellow
+"Barren County, KY",21009,KY,4,44249,0.078,Yellow
+"Bath County, KY",21011,KY,4,12500,0.07,Yellow
+"Bell County, KY",21013,KY,4,26032,0.136,Red
+"Boone County, KY",21015,KY,4,133581,0.066,Yellow
+"Bourbon County, KY",21017,KY,4,19788,0.111,Red
+"Boyd County, KY",21019,KY,4,46718,0.032,Green
+"Boyle County, KY",21021,KY,4,30060,0.043,Green
+"Bracken County, KY",21023,KY,4,8303,0,Green
+"Breathitt County, KY",21025,KY,4,12630,0.136,Red
+"Breckinridge County, KY",21027,KY,4,20477,0.035,Green
+"Bullitt County, KY",21029,KY,4,81676,0.112,Red
+"Butler County, KY",21031,KY,4,12879,0.123,Red
+"Caldwell County, KY",21033,KY,4,12747,0.024,Green
+"Calloway County, KY",21035,KY,4,39001,0.312,Red
+"Campbell County, KY",21037,KY,4,93584,0.045,Green
+"Carlisle County, KY",21039,KY,4,4760,0.148,Red
+"Carroll County, KY",21041,KY,4,10631,0.115,Red
+"Carter County, KY",21043,KY,4,26797,0.016,Green
+"Casey County, KY",21045,KY,4,16159,0.094,Yellow
+"Christian County, KY",21047,KY,4,70461,0.174,Red
+"Clark County, KY",21049,KY,4,36263,0.063,Yellow
+"Clay County, KY",21051,KY,4,19901,0.072,Yellow
+"Clinton County, KY",21053,KY,4,10218,0.055,Yellow
+"Crittenden County, KY",21055,KY,4,8806,0.066,Yellow
+"Cumberland County, KY",21057,KY,4,6614,0.1,Yellow
+"Daviess County, KY",21059,KY,4,101511,0.07,Yellow
+"Edmonson County, KY",21061,KY,4,12150,0.075,Yellow
+"Elliott County, KY",21063,KY,4,7517,0,Green
+"Estill County, KY",21065,KY,4,14106,0.075,Yellow
+"Fayette County, KY",21067,KY,4,323152,0.079,Yellow
+"Fleming County, KY",21069,KY,4,14581,0.047,Green
+"Floyd County, KY",21071,KY,4,35589,0.038,Green
+"Franklin County, KY",21073,KY,4,50991,0.061,Yellow
+"Fulton County, KY",21075,KY,4,5969,0.158,Red
+"Gallatin County, KY",21077,KY,4,8869,0.028,Green
+"Garrard County, KY",21079,KY,4,17666,0.044,Green
+"Grant County, KY",21081,KY,4,25069,0.038,Green
+"Graves County, KY",21083,KY,4,37266,0.101,Red
+"Grayson County, KY",21085,KY,4,26427,0.111,Red
+"Green County, KY",21087,KY,4,10941,0.267,Red
+"Greenup County, KY",21089,KY,4,35098,0.06,Yellow
+"Hancock County, KY",21091,KY,4,8722,0.038,Green
+"Hardin County, KY",21093,KY,4,110958,0.079,Yellow
+"Harlan County, KY",21095,KY,4,26010,0.058,Yellow
+"Harrison County, KY",21097,KY,4,18886,0.086,Yellow
+"Hart County, KY",21099,KY,4,19035,0.038,Green
+"Henderson County, KY",21101,KY,4,45210,0.121,Red
+"Henry County, KY",21103,KY,4,16126,0.093,Yellow
+"Hickman County, KY",21105,KY,4,4380,0.133,Red
+"Hopkins County, KY",21107,KY,4,44686,0.058,Yellow
+"Jackson County, KY",21109,KY,4,13329,0.024,Green
+"Jefferson County, KY",21111,KY,4,766757,0.085,Yellow
+"Jessamine County, KY",21113,KY,4,54115,0.084,Yellow
+"Johnson County, KY",21115,KY,4,22188,0.036,Green
+"Kenton County, KY",21117,KY,4,166998,0.069,Yellow
+"Knott County, KY",21119,KY,4,14806,0.052,Yellow
+"Knox County, KY",21121,KY,4,31145,0.15,Red
+"Larue County, KY",21123,KY,4,14398,0.075,Yellow
+"Laurel County, KY",21125,KY,4,60813,0.103,Red
+"Lawrence County, KY",21127,KY,4,15317,0,Green
+"Lee County, KY",21129,KY,4,7403,0.068,Yellow
+"Leslie County, KY",21131,KY,4,9877,0.043,Green
+"Letcher County, KY",21133,KY,4,21553,0.015,Green
+"Lewis County, KY",21135,KY,4,13275,0.016,Green
+"Lincoln County, KY",21137,KY,4,24549,0.039,Green
+"Livingston County, KY",21139,KY,4,9194,0.051,Yellow
+"Logan County, KY",21141,KY,4,27102,0.184,Red
+"Lyon County, KY",21143,KY,4,8210,0.052,Yellow
+"Madison County, KY",21151,KY,4,92987,0.078,Yellow
+"Magoffin County, KY",21153,KY,4,12161,0.034,Green
+"Marion County, KY",21155,KY,4,19273,0.122,Red
+"Marshall County, KY",21157,KY,4,31100,0.06,Yellow
+"Martin County, KY",21159,KY,4,11195,0.049,Green
+"Mason County, KY",21161,KY,4,17070,0.164,Red
+"McCracken County, KY",21145,KY,4,65418,0.045,Green
+"McCreary County, KY",21147,KY,4,17231,0.085,Yellow
+"McLean County, KY",21149,KY,4,9207,0.04,Green
+"Meade County, KY",21163,KY,4,28572,0.072,Yellow
+"Menifee County, KY",21165,KY,4,6489,0,Green
+"Mercer County, KY",21167,KY,4,21933,0.028,Green
+"Metcalfe County, KY",21169,KY,4,10071,0.04,Green
+"Monroe County, KY",21171,KY,4,10650,0.258,Red
+"Montgomery County, KY",21173,KY,4,28157,0.037,Green
+"Morgan County, KY",21175,KY,4,13309,0.01,Green
+"Muhlenberg County, KY",21177,KY,4,30622,0.07,Yellow
+"Nelson County, KY",21179,KY,4,46233,0.063,Yellow
+"Nicholas County, KY",21181,KY,4,7269,0.1,Yellow
+"Ohio County, KY",21183,KY,4,23994,0.102,Red
+"Oldham County, KY",21185,KY,4,66799,0.06,Yellow
+"Owen County, KY",21187,KY,4,10901,0.057,Yellow
+"Owsley County, KY",21189,KY,4,4415,0.121,Red
+"Pendleton County, KY",21191,KY,4,14590,0.019,Green
+"Perry County, KY",21193,KY,4,25758,0.031,Green
+"Pike County, KY",21195,KY,4,57876,0.014,Green
+"Powell County, KY",21197,KY,4,12359,0.016,Green
+"Pulaski County, KY",21199,KY,4,64979,0.083,Yellow
+"Robertson County, KY",21201,KY,4,2108,<10 tests,Green
+"Rockcastle County, KY",21203,KY,4,16695,0.044,Green
+"Rowan County, KY",21205,KY,4,24460,0.221,Red
+"Russell County, KY",21207,KY,4,17923,0.188,Red
+"Scott County, KY",21209,KY,4,57004,0.106,Red
+"Shelby County, KY",21211,KY,4,49024,0.104,Red
+"Simpson County, KY",21213,KY,4,18572,0.152,Red
+"Spencer County, KY",21215,KY,4,19351,0.107,Red
+"Taylor County, KY",21217,KY,4,25769,0.077,Yellow
+"Todd County, KY",21219,KY,4,12294,0.163,Red
+"Trigg County, KY",21221,KY,4,14651,0.094,Yellow
+"Trimble County, KY",21223,KY,4,8471,0.2,Red
+"Union County, KY",21225,KY,4,14381,0.064,Yellow
+"Warren County, KY",21227,KY,4,132896,0.227,Red
+"Washington County, KY",21229,KY,4,12095,0.04,Green
+"Wayne County, KY",21231,KY,4,20333,0.087,Yellow
+"Webster County, KY",21233,KY,4,12942,0.023,Green
+"Whitley County, KY",21235,KY,4,36264,0.077,Yellow
+"Wolfe County, KY",21237,KY,4,7157,0.098,Yellow
+"Woodford County, KY",21239,KY,4,26734,0.035,Green
+"Acadia Parish, LA",22001,LA,6,62045,0.061,Yellow
+"Allen Parish, LA",22003,LA,6,25627,0.039,Green
+"Ascension Parish, LA",22005,LA,6,126604,0.104,Red
+"Assumption Parish, LA",22007,LA,6,21891,0.083,Yellow
+"Avoyelles Parish, LA",22009,LA,6,40144,0.054,Yellow
+"Beauregard Parish, LA",22011,LA,6,37497,0.091,Yellow
+"Bienville Parish, LA",22013,LA,6,13241,0.046,Green
+"Bossier Parish, LA",22015,LA,6,127039,0.064,Yellow
+"Caddo Parish, LA",22017,LA,6,240204,0.062,Yellow
+"Calcasieu Parish, LA",22019,LA,6,203436,0.062,Yellow
+"Caldwell Parish, LA",22021,LA,6,9918,0.188,Red
+"Cameron Parish, LA",22023,LA,6,6973,0.118,Red
+"Catahoula Parish, LA",22025,LA,6,9494,0.138,Red
+"Claiborne Parish, LA",22027,LA,6,15670,0.142,Red
+"Concordia Parish, LA",22029,LA,6,19259,0.074,Yellow
+"De Soto Parish, LA",22031,LA,6,27463,0.034,Green
+"East Baton Rouge Parish, LA",22033,LA,6,440059,0.086,Yellow
+"East Carroll Parish, LA",22035,LA,6,6861,0.049,Green
+"East Feliciana Parish, LA",22037,LA,6,19135,0.243,Red
+"Evangeline Parish, LA",22039,LA,6,33395,0.086,Yellow
+"Franklin Parish, LA",22041,LA,6,20015,0.068,Yellow
+"Grant Parish, LA",22043,LA,6,22389,0.062,Yellow
+"Iberia Parish, LA",22045,LA,6,69830,0.057,Yellow
+"Iberville Parish, LA",22047,LA,6,32511,0.108,Red
+"Jackson Parish, LA",22049,LA,6,15744,0.115,Red
+"Jefferson Davis Parish, LA",22053,LA,6,31368,0.041,Green
+"Jefferson Parish, LA",22051,LA,6,432493,0.055,Yellow
+"Lafayette Parish, LA",22055,LA,6,244390,0.062,Yellow
+"Lafourche Parish, LA",22057,LA,6,97614,0.072,Yellow
+"LaSalle Parish, LA",22059,LA,6,14892,0.067,Yellow
+"Lincoln Parish, LA",22061,LA,6,46742,0.059,Yellow
+"Livingston Parish, LA",22063,LA,6,140789,0.086,Yellow
+"Madison Parish, LA",22065,LA,6,10951,0.194,Red
+"Morehouse Parish, LA",22067,LA,6,24874,0.028,Green
+"Natchitoches Parish, LA",22069,LA,6,38158,0.084,Yellow
+"Orleans Parish, LA",22071,LA,6,390144,0.029,Green
+"Ouachita Parish, LA",22073,LA,6,153279,0.094,Yellow
+"Plaquemines Parish, LA",22075,LA,6,23197,0.034,Green
+"Pointe Coupee Parish, LA",22077,LA,6,21730,0.122,Red
+"Rapides Parish, LA",22079,LA,6,129648,0.067,Yellow
+"Red River Parish, LA",22081,LA,6,8442,0.202,Red
+"Richland Parish, LA",22083,LA,6,20122,0.116,Red
+"Sabine Parish, LA",22085,LA,6,23884,0.042,Green
+"St. Bernard Parish, LA",22087,LA,6,47244,0.074,Yellow
+"St. Charles Parish, LA",22089,LA,6,53100,0.044,Green
+"St. Helena Parish, LA",22091,LA,6,10132,0.084,Yellow
+"St. James Parish, LA",22093,LA,6,21096,0.093,Yellow
+"St. John the Baptist Parish, LA",22095,LA,6,42837,0.038,Green
+"St. Landry Parish, LA",22097,LA,6,82124,0.055,Yellow
+"St. Martin Parish, LA",22099,LA,6,53431,0.105,Red
+"St. Mary Parish, LA",22101,LA,6,49348,0.113,Red
+"St. Tammany Parish, LA",22103,LA,6,260419,0.057,Yellow
+"Tangipahoa Parish, LA",22105,LA,6,134758,0.075,Yellow
+"Tensas Parish, LA",22107,LA,6,4334,0.092,Yellow
+"Terrebonne Parish, LA",22109,LA,6,110461,0.095,Yellow
+"Union Parish, LA",22111,LA,6,22108,0.104,Red
+"Vermilion Parish, LA",22113,LA,6,59511,0.09,Yellow
+"Vernon Parish, LA",22115,LA,6,47429,0.132,Red
+"Washington Parish, LA",22117,LA,6,46194,0.092,Yellow
+"Webster Parish, LA",22119,LA,6,38340,0.091,Yellow
+"West Baton Rouge Parish, LA",22121,LA,6,26465,0.203,Red
+"West Carroll Parish, LA",22123,LA,6,10830,0.04,Green
+"West Feliciana Parish, LA",22125,LA,6,15568,0.145,Red
+"Winn Parish, LA",22127,LA,6,13904,0.064,Yellow
+"Barnstable County, MA",25001,MA,1,212990,0.006,Green
+"Berkshire County, MA",25003,MA,1,124944,0.005,Green
+"Bristol County, MA",25005,MA,1,565217,0.011,Green
+"Dukes County, MA",25007,MA,1,17332,0.004,Green
+"Essex County, MA",25009,MA,1,789034,0.02,Green
+"Franklin County, MA",25011,MA,1,70180,0.003,Green
+"Hampden County, MA",25013,MA,1,466372,0.011,Green
+"Hampshire County, MA",25015,MA,1,160830,0.003,Green
+"Middlesex County, MA",25017,MA,1,1611699,0.009,Green
+"Nantucket County, MA",25019,MA,1,11399,0.015,Green
+"Norfolk County, MA",25021,MA,1,706775,0.007,Green
+"Plymouth County, MA",25023,MA,1,521202,0.015,Green
+"Suffolk County, MA",25025,MA,1,803907,0.022,Green
+"Worcester County, MA",25027,MA,1,830622,0.007,Green
+"Allegany County, MD",24001,MD,3,70416,0.023,Green
+"Anne Arundel County, MD",24003,MD,3,579234,0.039,Green
+"Baltimore City, MD",24510,MD,3,593490,0.035,Green
+"Baltimore County, MD",24005,MD,3,827370,0.039,Green
+"Calvert County, MD",24009,MD,3,92525,0.021,Green
+"Caroline County, MD",24011,MD,3,33406,0.037,Green
+"Carroll County, MD",24013,MD,3,168447,0.02,Green
+"Cecil County, MD",24015,MD,3,102855,0.022,Green
+"Charles County, MD",24017,MD,3,163257,0.042,Green
+"Dorchester County, MD",24019,MD,3,31929,0.039,Green
+"Frederick County, MD",24021,MD,3,259547,0.035,Green
+"Garrett County, MD",24023,MD,3,29014,0.005,Green
+"Harford County, MD",24025,MD,3,255441,0.045,Green
+"Howard County, MD",24027,MD,3,325690,0.024,Green
+"Kent County, MD",24029,MD,3,19422,0.032,Green
+"Montgomery County, MD",24031,MD,3,1050688,0.035,Green
+"Prince George's County, MD",24033,MD,3,909327,0.047,Green
+"Queen Anne's County, MD",24035,MD,3,50381,0.038,Green
+"Somerset County, MD",24039,MD,3,25616,0.06,Yellow
+"St. Mary's County, MD",24037,MD,3,113510,0.012,Green
+"Talbot County, MD",24041,MD,3,37181,0.049,Green
+"Washington County, MD",24043,MD,3,151049,0.029,Green
+"Wicomico County, MD",24045,MD,3,103609,0.045,Green
+"Worcester County, MD",24047,MD,3,52276,0.07,Yellow
+"Androscoggin County, ME",23001,ME,1,108277,0.011,Green
+"Aroostook County, ME",23003,ME,1,67055,0,Green
+"Cumberland County, ME",23005,ME,1,295003,0.008,Green
+"Franklin County, ME",23007,ME,1,30199,0.023,Green
+"Hancock County, ME",23009,ME,1,54987,0,Green
+"Kennebec County, ME",23011,ME,1,122302,0.002,Green
+"Knox County, ME",23013,ME,1,39772,0,Green
+"Lincoln County, ME",23015,ME,1,34634,0,Green
+"Oxford County, ME",23017,ME,1,57975,0.005,Green
+"Penobscot County, ME",23019,ME,1,152148,0.009,Green
+"Piscataquis County, ME",23021,ME,1,16785,0,Green
+"Sagadahoc County, ME",23023,ME,1,35856,0,Green
+"Somerset County, ME",23025,ME,1,50484,0.04,Green
+"Waldo County, ME",23027,ME,1,39715,0.006,Green
+"Washington County, ME",23029,ME,1,31379,0,Green
+"York County, ME",23031,ME,1,207641,0.007,Green
+"Alcona County, MI",26001,MI,5,10405,0.011,Green
+"Alger County, MI",26003,MI,5,9108,0.014,Green
+"Allegan County, MI",26005,MI,5,118081,0.019,Green
+"Alpena County, MI",26007,MI,5,28405,0,Green
+"Antrim County, MI",26009,MI,5,23324,0.005,Green
+"Arenac County, MI",26011,MI,5,14883,0.035,Green
+"Baraga County, MI",26013,MI,5,8209,0.001,Green
+"Barry County, MI",26015,MI,5,61550,0.006,Green
+"Bay County, MI",26017,MI,5,103126,0.026,Green
+"Benzie County, MI",26019,MI,5,17766,0.019,Green
+"Berrien County, MI",26021,MI,5,153401,0.034,Green
+"Branch County, MI",26023,MI,5,43517,0.038,Green
+"Calhoun County, MI",26025,MI,5,134159,0.021,Green
+"Cass County, MI",26027,MI,5,51787,0.017,Green
+"Charlevoix County, MI",26029,MI,5,26143,0.019,Green
+"Cheboygan County, MI",26031,MI,5,25276,0.023,Green
+"Chippewa County, MI",26033,MI,5,37349,0.013,Green
+"Clare County, MI",26035,MI,5,30950,0.025,Green
+"Clinton County, MI",26037,MI,5,79595,0.018,Green
+"Crawford County, MI",26039,MI,5,14029,0.011,Green
+"Delta County, MI",26041,MI,5,35784,0.02,Green
+"Dickinson County, MI",26043,MI,5,25239,0.026,Green
+"Eaton County, MI",26045,MI,5,110268,0.011,Green
+"Emmet County, MI",26047,MI,5,33415,0.023,Green
+"Genesee County, MI",26049,MI,5,405813,0.023,Green
+"Gladwin County, MI",26051,MI,5,25449,0,Green
+"Gogebic County, MI",26053,MI,5,13975,0.02,Green
+"Grand Traverse County, MI",26055,MI,5,93088,0.057,Yellow
+"Gratiot County, MI",26057,MI,5,40711,0.009,Green
+"Hillsdale County, MI",26059,MI,5,45605,0.03,Green
+"Houghton County, MI",26061,MI,5,35684,0.006,Green
+"Huron County, MI",26063,MI,5,30981,0.012,Green
+"Ingham County, MI",26065,MI,5,292406,0.013,Green
+"Ionia County, MI",26067,MI,5,64697,0.012,Green
+"Iosco County, MI",26069,MI,5,25127,0.009,Green
+"Iron County, MI",26071,MI,5,11066,0.013,Green
+"Isabella County, MI",26073,MI,5,69872,0.096,Yellow
+"Jackson County, MI",26075,MI,5,158510,0.017,Green
+"Kalamazoo County, MI",26077,MI,5,265066,0.028,Green
+"Kalkaska County, MI",26079,MI,5,18038,0.015,Green
+"Kent County, MI",26081,MI,5,656955,0.023,Green
+"Keweenaw County, MI",26083,MI,5,2116,0,Green
+"Lake County, MI",26085,MI,5,11853,0,Green
+"Lapeer County, MI",26087,MI,5,87607,0.036,Green
+"Leelanau County, MI",26089,MI,5,21761,0.007,Green
+"Lenawee County, MI",26091,MI,5,98451,0.037,Green
+"Livingston County, MI",26093,MI,5,191995,0.029,Green
+"Luce County, MI",26095,MI,5,6229,0.062,Yellow
+"Mackinac County, MI",26097,MI,5,10799,0,Green
+"Macomb County, MI",26099,MI,5,873972,0.072,Yellow
+"Manistee County, MI",26101,MI,5,24558,0.024,Green
+"Marquette County, MI",26103,MI,5,66699,0.014,Green
+"Mason County, MI",26105,MI,5,29144,0.01,Green
+"Mecosta County, MI",26107,MI,5,43453,0.014,Green
+"Menominee County, MI",26109,MI,5,22780,0.017,Green
+"Midland County, MI",26111,MI,5,83156,0.03,Green
+"Missaukee County, MI",26113,MI,5,15118,0.013,Green
+"Monroe County, MI",26115,MI,5,150500,0.05,Yellow
+"Montcalm County, MI",26117,MI,5,63888,0.01,Green
+"Montmorency County, MI",26119,MI,5,9328,0.014,Green
+"Muskegon County, MI",26121,MI,5,173566,0.071,Yellow
+"Newaygo County, MI",26123,MI,5,48980,0.011,Green
+"Oakland County, MI",26125,MI,5,1257584,0.044,Green
+"Oceana County, MI",26127,MI,5,26467,0.01,Green
+"Ogemaw County, MI",26129,MI,5,20997,0.008,Green
+"Ontonagon County, MI",26131,MI,5,5720,0.07,Yellow
+"Osceola County, MI",26133,MI,5,23460,0.002,Green
+"Oscoda County, MI",26135,MI,5,8241,0,Green
+"Otsego County, MI",26137,MI,5,24668,0.026,Green
+"Ottawa County, MI",26139,MI,5,291830,0.014,Green
+"Presque Isle County, MI",26141,MI,5,12592,0,Green
+"Roscommon County, MI",26143,MI,5,24019,0.022,Green
+"Saginaw County, MI",26145,MI,5,190539,0.052,Yellow
+"Sanilac County, MI",26151,MI,5,41170,0.009,Green
+"Schoolcraft County, MI",26153,MI,5,8094,0,Green
+"Shiawassee County, MI",26155,MI,5,68122,0.046,Green
+"St. Clair County, MI",26147,MI,5,159128,0.033,Green
+"St. Joseph County, MI",26149,MI,5,60964,0.016,Green
+"Tuscola County, MI",26157,MI,5,52245,0.04,Green
+"Van Buren County, MI",26159,MI,5,75677,0.04,Green
+"Washtenaw County, MI",26161,MI,5,367601,0.021,Green
+"Wayne County, MI",26163,MI,5,1749343,0.036,Green
+"Wexford County, MI",26165,MI,5,33631,0.031,Green
+"Aitkin County, MN",27001,MN,5,15886,0.043,Green
+"Anoka County, MN",27003,MN,5,356921,0.079,Yellow
+"Becker County, MN",27005,MN,5,34423,0.016,Green
+"Beltrami County, MN",27007,MN,5,47188,0.046,Green
+"Benton County, MN",27009,MN,5,40889,0.058,Yellow
+"Big Stone County, MN",27011,MN,5,4991,0.091,Yellow
+"Blue Earth County, MN",27013,MN,5,67653,0.099,Yellow
+"Brown County, MN",27015,MN,5,25008,0.021,Green
+"Carlton County, MN",27017,MN,5,35871,0.037,Green
+"Carver County, MN",27019,MN,5,105089,0.083,Yellow
+"Cass County, MN",27021,MN,5,29779,0.051,Yellow
+"Chippewa County, MN",27023,MN,5,11800,0.022,Green
+"Chisago County, MN",27025,MN,5,56579,0.056,Yellow
+"Clay County, MN",27027,MN,5,64222,0.054,Yellow
+"Clearwater County, MN",27029,MN,5,8818,0.045,Green
+"Cook County, MN",27031,MN,5,5463,0.011,Green
+"Cottonwood County, MN",27033,MN,5,11196,0.016,Green
+"Crow Wing County, MN",27035,MN,5,65055,0.043,Green
+"Dakota County, MN",27037,MN,5,429021,0.086,Yellow
+"Dodge County, MN",27039,MN,5,20934,0.055,Yellow
+"Douglas County, MN",27041,MN,5,38141,0.033,Green
+"Faribault County, MN",27043,MN,5,13653,0.056,Yellow
+"Fillmore County, MN",27045,MN,5,21067,0.036,Green
+"Freeborn County, MN",27047,MN,5,30281,0.038,Green
+"Goodhue County, MN",27049,MN,5,46340,0.033,Green
+"Grant County, MN",27051,MN,5,5972,0,Green
+"Hennepin County, MN",27053,MN,5,1265843,0.069,Yellow
+"Houston County, MN",27055,MN,5,18600,0.016,Green
+"Hubbard County, MN",27057,MN,5,21491,0.011,Green
+"Isanti County, MN",27059,MN,5,40596,0.04,Green
+"Itasca County, MN",27061,MN,5,45130,0.038,Green
+"Jackson County, MN",27063,MN,5,9846,0.051,Yellow
+"Kanabec County, MN",27065,MN,5,16337,0.052,Yellow
+"Kandiyohi County, MN",27067,MN,5,43199,0.046,Green
+"Kittson County, MN",27069,MN,5,4298,0.077,Yellow
+"Koochiching County, MN",27071,MN,5,12229,0.04,Green
+"Lac qui Parle County, MN",27073,MN,5,6623,0.054,Yellow
+"Lake County, MN",27075,MN,5,10641,0.049,Green
+"Lake of the Woods County, MN",27077,MN,5,3740,0,Green
+"Le Sueur County, MN",27079,MN,5,28887,0.144,Red
+"Lincoln County, MN",27081,MN,5,5639,0.024,Green
+"Lyon County, MN",27083,MN,5,25474,0.146,Red
+"Mahnomen County, MN",27087,MN,5,5527,0.029,Green
+"Marshall County, MN",27089,MN,5,9336,0.049,Green
+"Martin County, MN",27091,MN,5,19683,0.044,Green
+"McLeod County, MN",27085,MN,5,35893,0.092,Yellow
+"Meeker County, MN",27093,MN,5,23222,0.05,Yellow
+"Mille Lacs County, MN",27095,MN,5,26277,0.03,Green
+"Morrison County, MN",27097,MN,5,33386,0.022,Green
+"Mower County, MN",27099,MN,5,40062,0.048,Green
+"Murray County, MN",27101,MN,5,8194,0.098,Yellow
+"Nicollet County, MN",27103,MN,5,34274,0.057,Yellow
+"Nobles County, MN",27105,MN,5,21629,0.131,Red
+"Norman County, MN",27107,MN,5,6375,0.03,Green
+"Olmsted County, MN",27109,MN,5,158293,0.048,Green
+"Otter Tail County, MN",27111,MN,5,58746,0.038,Green
+"Pennington County, MN",27113,MN,5,14119,0.155,Red
+"Pine County, MN",27115,MN,5,29579,0.032,Green
+"Pipestone County, MN",27117,MN,5,9126,0.093,Yellow
+"Polk County, MN",27119,MN,5,31364,0.027,Green
+"Pope County, MN",27121,MN,5,11249,0.033,Green
+"Ramsey County, MN",27123,MN,5,550321,0.068,Yellow
+"Red Lake County, MN",27125,MN,5,4055,0,Green
+"Redwood County, MN",27127,MN,5,15170,0.044,Green
+"Renville County, MN",27129,MN,5,14548,0.074,Yellow
+"Rice County, MN",27131,MN,5,66972,0.042,Green
+"Rock County, MN",27133,MN,5,9315,0.083,Yellow
+"Roseau County, MN",27135,MN,5,15165,0.106,Red
+"Scott County, MN",27139,MN,5,149013,0.072,Yellow
+"Sherburne County, MN",27141,MN,5,97238,0.045,Green
+"Sibley County, MN",27143,MN,5,14865,0.154,Red
+"St. Louis County, MN",27137,MN,5,199070,0.032,Green
+"Stearns County, MN",27145,MN,5,161075,0.08,Yellow
+"Steele County, MN",27147,MN,5,36649,0.072,Yellow
+"Stevens County, MN",27149,MN,5,9805,0.149,Red
+"Swift County, MN",27151,MN,5,9266,0.014,Green
+"Todd County, MN",27153,MN,5,24664,0.034,Green
+"Traverse County, MN",27155,MN,5,3259,0.034,Green
+"Wabasha County, MN",27157,MN,5,21627,0.049,Green
+"Wadena County, MN",27159,MN,5,13682,0.106,Red
+"Waseca County, MN",27161,MN,5,18612,0.117,Red
+"Washington County, MN",27163,MN,5,262440,0.072,Yellow
+"Watonwan County, MN",27165,MN,5,10897,0.121,Red
+"Wilkin County, MN",27167,MN,5,6207,0.085,Yellow
+"Winona County, MN",27169,MN,5,50484,0.124,Red
+"Wright County, MN",27171,MN,5,138377,0.099,Yellow
+"Yellow Medicine County, MN",27173,MN,5,9709,0.071,Yellow
+"Adair County, MO",29001,MO,7,25343,0.035,Green
+"Andrew County, MO",29003,MO,7,17712,0.162,Red
+"Atchison County, MO",29005,MO,7,5143,<10 tests,Green
+"Audrain County, MO",29007,MO,7,25388,0.09,Yellow
+"Barry County, MO",29009,MO,7,35789,0,Green
+"Barton County, MO",29011,MO,7,11754,<10 tests,Green
+"Bates County, MO",29013,MO,7,16172,0.028,Green
+"Benton County, MO",29015,MO,7,19443,0.093,Yellow
+"Bollinger County, MO",29017,MO,7,12133,0.197,Red
+"Boone County, MO",29019,MO,7,180463,0.118,Red
+"Buchanan County, MO",29021,MO,7,87364,0.078,Yellow
+"Butler County, MO",29023,MO,7,42478,0.148,Red
+"Caldwell County, MO",29025,MO,7,9020,0.043,Green
+"Callaway County, MO",29027,MO,7,44743,0.079,Yellow
+"Camden County, MO",29029,MO,7,46305,0.114,Red
+"Cape Girardeau County, MO",29031,MO,7,78871,0.096,Yellow
+"Carroll County, MO",29033,MO,7,8679,0,Green
+"Carter County, MO",29035,MO,7,5982,0.182,Red
+"Cass County, MO",29037,MO,7,105780,0.114,Red
+"Cedar County, MO",29039,MO,7,14349,0.02,Green
+"Chariton County, MO",29041,MO,7,7426,<10 tests,Green
+"Christian County, MO",29043,MO,7,88595,0.076,Yellow
+"Clark County, MO",29045,MO,7,6797,0.286,Red
+"Clay County, MO",29047,MO,7,249948,0.136,Red
+"Clinton County, MO",29049,MO,7,20387,0.061,Yellow
+"Cole County, MO",29051,MO,7,76745,0.099,Yellow
+"Cooper County, MO",29053,MO,7,17709,0.1,Yellow
+"Crawford County, MO",29055,MO,7,23920,0.204,Red
+"Dade County, MO",29057,MO,7,7561,0.118,Red
+"Dallas County, MO",29059,MO,7,16878,0.068,Yellow
+"Daviess County, MO",29061,MO,7,8278,0.049,Green
+"DeKalb County, MO",29063,MO,7,12547,0.096,Yellow
+"Dent County, MO",29065,MO,7,15573,0.071,Yellow
+"Douglas County, MO",29067,MO,7,13185,<10 tests,Green
+"Dunklin County, MO",29069,MO,7,29131,0.089,Yellow
+"Franklin County, MO",29071,MO,7,103967,0.138,Red
+"Gasconade County, MO",29073,MO,7,14706,0.158,Red
+"Gentry County, MO",29075,MO,7,6571,0,Green
+"Greene County, MO",29077,MO,7,293086,0.134,Red
+"Grundy County, MO",29079,MO,7,9850,0.111,Red
+"Harrison County, MO",29081,MO,7,8352,0.052,Yellow
+"Henry County, MO",29083,MO,7,21824,0.085,Yellow
+"Hickory County, MO",29085,MO,7,9544,0.233,Red
+"Holt County, MO",29087,MO,7,4403,0.056,Yellow
+"Howard County, MO",29089,MO,7,10001,<10 tests,Green
+"Howell County, MO",29091,MO,7,40117,0.083,Yellow
+"Iron County, MO",29093,MO,7,10125,0.067,Yellow
+"Jackson County, MO",29095,MO,7,703011,0.081,Yellow
+"Jasper County, MO",29097,MO,7,121328,0.088,Yellow
+"Jefferson County, MO",29099,MO,7,225081,0.11,Red
+"Johnson County, MO",29101,MO,7,54062,0.086,Yellow
+"Knox County, MO",29103,MO,7,3959,0,Green
+"Laclede County, MO",29105,MO,7,35723,0.049,Green
+"Lafayette County, MO",29107,MO,7,32708,0.056,Yellow
+"Lawrence County, MO",29109,MO,7,38355,0.078,Yellow
+"Lewis County, MO",29111,MO,7,9776,<10 tests,Green
+"Lincoln County, MO",29113,MO,7,59013,0.131,Red
+"Linn County, MO",29115,MO,7,11920,<10 tests,Green
+"Livingston County, MO",29117,MO,7,15227,0.067,Yellow
+"Macon County, MO",29121,MO,7,15117,0.053,Yellow
+"Madison County, MO",29123,MO,7,12088,0.22,Red
+"Maries County, MO",29125,MO,7,8697,0.143,Red
+"Marion County, MO",29127,MO,7,28530,0.178,Red
+"McDonald County, MO",29119,MO,7,22837,0.043,Green
+"Mercer County, MO",29129,MO,7,3617,<10 tests,Green
+"Miller County, MO",29131,MO,7,25619,0.158,Red
+"Mississippi County, MO",29133,MO,7,13180,0.204,Red
+"Moniteau County, MO",29135,MO,7,16132,0.149,Red
+"Monroe County, MO",29137,MO,7,8644,0.31,Red
+"Montgomery County, MO",29139,MO,7,11551,0.062,Yellow
+"Morgan County, MO",29141,MO,7,20627,0.071,Yellow
+"New Madrid County, MO",29143,MO,7,17076,0.261,Red
+"Newton County, MO",29145,MO,7,58236,0.167,Red
+"Nodaway County, MO",29147,MO,7,22092,0.14,Red
+"Oregon County, MO",29149,MO,7,10529,0.2,Red
+"Osage County, MO",29151,MO,7,13615,0.061,Yellow
+"Ozark County, MO",29153,MO,7,9174,<10 tests,Green
+"Pemiscot County, MO",29155,MO,7,15805,0.228,Red
+"Perry County, MO",29157,MO,7,19136,0.278,Red
+"Pettis County, MO",29159,MO,7,42339,0.065,Yellow
+"Phelps County, MO",29161,MO,7,44573,0.076,Yellow
+"Pike County, MO",29163,MO,7,18302,0.171,Red
+"Platte County, MO",29165,MO,7,104418,0.085,Yellow
+"Polk County, MO",29167,MO,7,32149,0.097,Yellow
+"Pulaski County, MO",29169,MO,7,52607,0.084,Yellow
+"Putnam County, MO",29171,MO,7,4696,0.158,Red
+"Ralls County, MO",29173,MO,7,10309,0.22,Red
+"Randolph County, MO",29175,MO,7,24748,0.153,Red
+"Ray County, MO",29177,MO,7,23018,0.023,Green
+"Reynolds County, MO",29179,MO,7,6270,0.088,Yellow
+"Ripley County, MO",29181,MO,7,13288,0.067,Yellow
+"Saline County, MO",29195,MO,7,22761,0.131,Red
+"Schuyler County, MO",29197,MO,7,4660,<10 tests,Green
+"Scotland County, MO",29199,MO,7,4902,<10 tests,Green
+"Scott County, MO",29201,MO,7,38280,0.172,Red
+"Shannon County, MO",29203,MO,7,8166,0.083,Yellow
+"Shelby County, MO",29205,MO,7,5930,<10 tests,Green
+"St. Charles County, MO",29183,MO,7,402022,0.097,Yellow
+"St. Clair County, MO",29185,MO,7,9397,0,Green
+"St. Francois County, MO",29187,MO,7,67215,0.084,Yellow
+"St. Louis City, MO",29510,MO,7,300576,0.064,Yellow
+"St. Louis County, MO",29189,MO,7,994205,0.085,Yellow
+"Ste. Genevieve County, MO",29186,MO,7,17894,0.109,Red
+"Stoddard County, MO",29207,MO,7,29025,0.172,Red
+"Stone County, MO",29209,MO,7,31952,0.093,Yellow
+"Sullivan County, MO",29211,MO,7,6089,0.172,Red
+"Taney County, MO",29213,MO,7,55928,0.11,Red
+"Texas County, MO",29215,MO,7,25398,0.076,Yellow
+"Vernon County, MO",29217,MO,7,20563,0.026,Green
+"Warren County, MO",29219,MO,7,35649,0.084,Yellow
+"Washington County, MO",29221,MO,7,24730,0.173,Red
+"Wayne County, MO",29223,MO,7,12873,0.143,Red
+"Webster County, MO",29225,MO,7,39592,0.079,Yellow
+"Worth County, MO",29227,MO,7,2013,0,Green
+"Wright County, MO",29229,MO,7,18289,0.081,Yellow
+"Adams County, MS",28001,MS,4,30693,0.152,Red
+"Alcorn County, MS",28003,MS,4,36953,0.135,Red
+"Amite County, MS",28005,MS,4,12297,0.065,Yellow
+"Attala County, MS",28007,MS,4,18174,0.064,Yellow
+"Benton County, MS",28009,MS,4,8259,0.17,Red
+"Bolivar County, MS",28011,MS,4,30628,0.157,Red
+"Calhoun County, MS",28013,MS,4,14361,0.051,Yellow
+"Carroll County, MS",28015,MS,4,9947,0.053,Yellow
+"Chickasaw County, MS",28017,MS,4,17103,0.086,Yellow
+"Choctaw County, MS",28019,MS,4,8210,0.059,Yellow
+"Claiborne County, MS",28021,MS,4,8988,0.077,Yellow
+"Clarke County, MS",28023,MS,4,15541,0.2,Red
+"Clay County, MS",28025,MS,4,19316,0.018,Green
+"Coahoma County, MS",28027,MS,4,22124,0.151,Red
+"Copiah County, MS",28029,MS,4,28065,0.072,Yellow
+"Covington County, MS",28031,MS,4,18636,0.087,Yellow
+"DeSoto County, MS",28033,MS,4,184945,0.114,Red
+"Forrest County, MS",28035,MS,4,74897,0.089,Yellow
+"Franklin County, MS",28037,MS,4,7713,0.167,Red
+"George County, MS",28039,MS,4,24500,0.084,Yellow
+"Greene County, MS",28041,MS,4,13586,0.034,Green
+"Grenada County, MS",28043,MS,4,20758,0.082,Yellow
+"Hancock County, MS",28045,MS,4,47632,0.055,Yellow
+"Harrison County, MS",28047,MS,4,208080,0.115,Red
+"Hinds County, MS",28049,MS,4,231840,0.1,Yellow
+"Holmes County, MS",28051,MS,4,17010,0.16,Red
+"Humphreys County, MS",28053,MS,4,8064,0.19,Red
+"Issaquena County, MS",28055,MS,4,1327,0.223,Red
+"Itawamba County, MS",28057,MS,4,23390,0.098,Yellow
+"Jackson County, MS",28059,MS,4,143617,0.139,Red
+"Jasper County, MS",28061,MS,4,16383,0.063,Yellow
+"Jefferson County, MS",28063,MS,4,6990,0.043,Green
+"Jefferson Davis County, MS",28065,MS,4,11128,0.122,Red
+"Jones County, MS",28067,MS,4,68098,0.048,Green
+"Kemper County, MS",28069,MS,4,9742,0.067,Yellow
+"Lafayette County, MS",28071,MS,4,54019,0.087,Yellow
+"Lamar County, MS",28073,MS,4,63343,0.082,Yellow
+"Lauderdale County, MS",28075,MS,4,74125,0.105,Red
+"Lawrence County, MS",28077,MS,4,12586,0.172,Red
+"Leake County, MS",28079,MS,4,22786,0.062,Yellow
+"Lee County, MS",28081,MS,4,85436,0.036,Green
+"Leflore County, MS",28083,MS,4,28183,0.108,Red
+"Lincoln County, MS",28085,MS,4,34153,0.058,Yellow
+"Lowndes County, MS",28087,MS,4,58595,0.026,Green
+"Madison County, MS",28089,MS,4,106272,0.064,Yellow
+"Marion County, MS",28091,MS,4,24573,0.091,Yellow
+"Marshall County, MS",28093,MS,4,35294,0.062,Yellow
+"Monroe County, MS",28095,MS,4,35252,0.109,Red
+"Montgomery County, MS",28097,MS,4,9775,0,Green
+"Neshoba County, MS",28099,MS,4,29118,0.055,Yellow
+"Newton County, MS",28101,MS,4,21018,0.024,Green
+"Noxubee County, MS",28103,MS,4,10417,0.05,Yellow
+"Oktibbeha County, MS",28105,MS,4,49587,0.061,Yellow
+"Panola County, MS",28107,MS,4,34192,0.087,Yellow
+"Pearl River County, MS",28109,MS,4,55535,0.084,Yellow
+"Perry County, MS",28111,MS,4,11973,0.072,Yellow
+"Pike County, MS",28113,MS,4,39288,0.139,Red
+"Pontotoc County, MS",28115,MS,4,32174,0.128,Red
+"Prentiss County, MS",28117,MS,4,25126,0.074,Yellow
+"Quitman County, MS",28119,MS,4,6792,0.203,Red
+"Rankin County, MS",28121,MS,4,155271,0.132,Red
+"Scott County, MS",28123,MS,4,28124,0.098,Yellow
+"Sharkey County, MS",28125,MS,4,4321,0.167,Red
+"Simpson County, MS",28127,MS,4,26658,0.144,Red
+"Smith County, MS",28129,MS,4,15916,0.045,Green
+"Stone County, MS",28131,MS,4,18336,0.169,Red
+"Sunflower County, MS",28133,MS,4,25110,0.156,Red
+"Tallahatchie County, MS",28135,MS,4,13809,0.158,Red
+"Tate County, MS",28137,MS,4,28321,0.073,Yellow
+"Tippah County, MS",28139,MS,4,22015,0.122,Red
+"Tishomingo County, MS",28141,MS,4,19383,0,Green
+"Tunica County, MS",28143,MS,4,9632,0.098,Yellow
+"Union County, MS",28145,MS,4,28815,0.107,Red
+"Walthall County, MS",28147,MS,4,14286,0.077,Yellow
+"Warren County, MS",28149,MS,4,45381,0.203,Red
+"Washington County, MS",28151,MS,4,43909,0.177,Red
+"Wayne County, MS",28153,MS,4,20183,0.095,Yellow
+"Webster County, MS",28155,MS,4,9689,0.07,Yellow
+"Wilkinson County, MS",28157,MS,4,8630,0,Green
+"Winston County, MS",28159,MS,4,17955,0.068,Yellow
+"Yalobusha County, MS",28161,MS,4,12108,0.091,Yellow
+"Yazoo County, MS",28163,MS,4,29690,0.086,Yellow
+"Beaverhead County, MT",30001,MT,8,9453,0.052,Yellow
+"Big Horn County, MT",30003,MT,8,13319,0.159,Red
+"Blaine County, MT",30005,MT,8,6681,0,Green
+"Broadwater County, MT",30007,MT,8,6237,0.143,Red
+"Carbon County, MT",30009,MT,8,10725,0.091,Yellow
+"Carter County, MT",30011,MT,8,1252,<10 tests,Green
+"Cascade County, MT",30013,MT,8,81366,0.113,Red
+"Chouteau County, MT",30015,MT,8,5635,0.083,Yellow
+"Custer County, MT",30017,MT,8,11402,0.021,Green
+"Daniels County, MT",30019,MT,8,1690,<10 tests,Green
+"Dawson County, MT",30021,MT,8,8613,0.047,Green
+"Deer Lodge County, MT",30023,MT,8,9140,0.015,Green
+"Fallon County, MT",30025,MT,8,2846,0.098,Yellow
+"Fergus County, MT",30027,MT,8,11050,0.046,Green
+"Flathead County, MT",30029,MT,8,103806,0.141,Red
+"Gallatin County, MT",30031,MT,8,114434,0.042,Green
+"Garfield County, MT",30033,MT,8,1258,<10 tests,Green
+"Glacier County, MT",30035,MT,8,13753,0.262,Red
+"Golden Valley County, MT",30037,MT,8,821,<10 tests,Green
+"Granite County, MT",30039,MT,8,3379,0,Green
+"Hill County, MT",30041,MT,8,16484,0.248,Red
+"Jefferson County, MT",30043,MT,8,12221,0.115,Red
+"Judith Basin County, MT",30045,MT,8,2007,<10 tests,Green
+"Lake County, MT",30047,MT,8,30458,0.064,Yellow
+"Lewis and Clark County, MT",30049,MT,8,69432,0.014,Green
+"Liberty County, MT",30051,MT,8,2337,0.06,Yellow
+"Lincoln County, MT",30053,MT,8,19980,0.043,Green
+"Madison County, MT",30057,MT,8,8600,0.094,Yellow
+"McCone County, MT",30055,MT,8,1664,0.154,Red
+"Meagher County, MT",30059,MT,8,1862,0,Green
+"Mineral County, MT",30061,MT,8,4397,0,Green
+"Missoula County, MT",30063,MT,8,119600,0.034,Green
+"Musselshell County, MT",30065,MT,8,4633,0.081,Yellow
+"Park County, MT",30067,MT,8,16606,0.022,Green
+"Petroleum County, MT",30069,MT,8,487,<10 tests,Green
+"Phillips County, MT",30071,MT,8,3954,0.059,Yellow
+"Pondera County, MT",30073,MT,8,5911,0.091,Yellow
+"Powder River County, MT",30075,MT,8,1682,<10 tests,Green
+"Powell County, MT",30077,MT,8,6890,0.099,Yellow
+"Prairie County, MT",30079,MT,8,1077,<10 tests,Green
+"Ravalli County, MT",30081,MT,8,43806,0.07,Yellow
+"Richland County, MT",30083,MT,8,10803,0.161,Red
+"Roosevelt County, MT",30085,MT,8,11004,0.079,Yellow
+"Rosebud County, MT",30087,MT,8,8937,0.247,Red
+"Sanders County, MT",30089,MT,8,12113,0.023,Green
+"Sheridan County, MT",30091,MT,8,3309,0,Green
+"Silver Bow County, MT",30093,MT,8,34915,0.016,Green
+"Stillwater County, MT",30095,MT,8,9642,0.071,Yellow
+"Sweet Grass County, MT",30097,MT,8,3737,0.039,Green
+"Teton County, MT",30099,MT,8,6147,0.067,Yellow
+"Toole County, MT",30101,MT,8,4736,0.054,Yellow
+"Treasure County, MT",30103,MT,8,696,<10 tests,Green
+"Valley County, MT",30105,MT,8,7396,0.1,Yellow
+"Wheatland County, MT",30107,MT,8,2126,<10 tests,Green
+"Wibaux County, MT",30109,MT,8,969,<10 tests,Green
+"Yellowstone County, MT",30111,MT,8,161300,0.155,Red
+"Alamance County, NC",37001,NC,4,169509,0.077,Yellow
+"Alexander County, NC",37003,NC,4,37497,0.059,Yellow
+"Alleghany County, NC",37005,NC,4,11137,0.094,Yellow
+"Anson County, NC",37007,NC,4,24446,0.079,Yellow
+"Ashe County, NC",37009,NC,4,27203,0.062,Yellow
+"Avery County, NC",37011,NC,4,17557,0.067,Yellow
+"Beaufort County, NC",37013,NC,4,46994,0.062,Yellow
+"Bertie County, NC",37015,NC,4,18947,0.176,Red
+"Bladen County, NC",37017,NC,4,32722,0.092,Yellow
+"Brunswick County, NC",37019,NC,4,142820,0.025,Green
+"Buncombe County, NC",37021,NC,4,261191,0.036,Green
+"Burke County, NC",37023,NC,4,90485,0.051,Yellow
+"Cabarrus County, NC",37025,NC,4,216453,0.066,Yellow
+"Caldwell County, NC",37027,NC,4,82178,0.048,Green
+"Camden County, NC",37029,NC,4,10867,0.137,Red
+"Carteret County, NC",37031,NC,4,69473,0.059,Yellow
+"Caswell County, NC",37033,NC,4,22604,0.08,Yellow
+"Catawba County, NC",37035,NC,4,159551,0.052,Yellow
+"Chatham County, NC",37037,NC,4,74470,0.057,Yellow
+"Cherokee County, NC",37039,NC,4,28612,0.07,Yellow
+"Chowan County, NC",37041,NC,4,13943,0.094,Yellow
+"Clay County, NC",37043,NC,4,11231,0.05,Yellow
+"Cleveland County, NC",37045,NC,4,97947,0.068,Yellow
+"Columbus County, NC",37047,NC,4,55508,0.104,Red
+"Craven County, NC",37049,NC,4,102139,0.046,Green
+"Cumberland County, NC",37051,NC,4,335509,0.1,Yellow
+"Currituck County, NC",37053,NC,4,27763,0.06,Yellow
+"Dare County, NC",37055,NC,4,37009,0.036,Green
+"Davidson County, NC",37057,NC,4,167609,0.062,Yellow
+"Davie County, NC",37059,NC,4,42846,0.059,Yellow
+"Duplin County, NC",37061,NC,4,58741,0.035,Green
+"Durham County, NC",37063,NC,4,321488,0.033,Green
+"Edgecombe County, NC",37065,NC,4,51472,0.121,Red
+"Forsyth County, NC",37067,NC,4,382295,0.063,Yellow
+"Franklin County, NC",37069,NC,4,69685,0.076,Yellow
+"Gaston County, NC",37071,NC,4,224529,0.084,Yellow
+"Gates County, NC",37073,NC,4,11562,0.152,Red
+"Graham County, NC",37075,NC,4,8441,0.023,Green
+"Granville County, NC",37077,NC,4,60443,0.07,Yellow
+"Greene County, NC",37079,NC,4,21069,0.067,Yellow
+"Guilford County, NC",37081,NC,4,537174,0.061,Yellow
+"Halifax County, NC",37083,NC,4,50010,0.127,Red
+"Harnett County, NC",37085,NC,4,135976,0.089,Yellow
+"Haywood County, NC",37087,NC,4,62317,0.037,Green
+"Henderson County, NC",37089,NC,4,117417,0.039,Green
+"Hertford County, NC",37091,NC,4,23677,0.192,Red
+"Hoke County, NC",37093,NC,4,55234,0.124,Red
+"Hyde County, NC",37095,NC,4,4937,0.138,Red
+"Iredell County, NC",37097,NC,4,181806,0.069,Yellow
+"Jackson County, NC",37099,NC,4,43938,0.026,Green
+"Johnston County, NC",37101,NC,4,209339,0.073,Yellow
+"Jones County, NC",37103,NC,4,9419,0.051,Yellow
+"Lee County, NC",37105,NC,4,61779,0.086,Yellow
+"Lenoir County, NC",37107,NC,4,55949,0.068,Yellow
+"Lincoln County, NC",37109,NC,4,86111,0.066,Yellow
+"Macon County, NC",37113,NC,4,35858,0.072,Yellow
+"Madison County, NC",37115,NC,4,21755,0.065,Yellow
+"Martin County, NC",37117,NC,4,22440,0.089,Yellow
+"McDowell County, NC",37111,NC,4,45756,0.052,Yellow
+"Mecklenburg County, NC",37119,NC,4,1110356,0.071,Yellow
+"Mitchell County, NC",37121,NC,4,14964,0.034,Green
+"Montgomery County, NC",37123,NC,4,27173,0.173,Red
+"Moore County, NC",37125,NC,4,100880,0.101,Red
+"Nash County, NC",37127,NC,4,94298,0.109,Red
+"New Hanover County, NC",37129,NC,4,234473,0.05,Yellow
+"Northampton County, NC",37131,NC,4,19483,0.072,Yellow
+"Onslow County, NC",37133,NC,4,197938,0.087,Yellow
+"Orange County, NC",37135,NC,4,148476,0.084,Yellow
+"Pamlico County, NC",37137,NC,4,12726,0.149,Red
+"Pasquotank County, NC",37139,NC,4,39824,0.098,Yellow
+"Pender County, NC",37141,NC,4,63060,0.039,Green
+"Perquimans County, NC",37143,NC,4,13463,0.15,Red
+"Person County, NC",37145,NC,4,39490,0.051,Yellow
+"Pitt County, NC",37147,NC,4,180742,0.154,Red
+"Polk County, NC",37149,NC,4,20724,0.105,Red
+"Randolph County, NC",37151,NC,4,143667,0.074,Yellow
+"Richmond County, NC",37153,NC,4,44829,0.104,Red
+"Robeson County, NC",37155,NC,4,130625,0.186,Red
+"Rockingham County, NC",37157,NC,4,91010,0.084,Yellow
+"Rowan County, NC",37159,NC,4,142088,0.089,Yellow
+"Rutherford County, NC",37161,NC,4,67029,0.102,Red
+"Sampson County, NC",37163,NC,4,63531,0.062,Yellow
+"Scotland County, NC",37165,NC,4,34823,0.083,Yellow
+"Stanly County, NC",37167,NC,4,62806,0.082,Yellow
+"Stokes County, NC",37169,NC,4,45591,0.02,Green
+"Surry County, NC",37171,NC,4,71783,0.077,Yellow
+"Swain County, NC",37173,NC,4,14271,0.128,Red
+"Transylvania County, NC",37175,NC,4,34385,0.08,Yellow
+"Tyrrell County, NC",37177,NC,4,4016,0.057,Yellow
+"Union County, NC",37179,NC,4,239859,0.077,Yellow
+"Vance County, NC",37181,NC,4,44535,0.054,Yellow
+"Wake County, NC",37183,NC,4,1111761,0.072,Yellow
+"Warren County, NC",37185,NC,4,19731,0.03,Green
+"Washington County, NC",37187,NC,4,11580,0.054,Yellow
+"Watauga County, NC",37189,NC,4,56177,0.04,Green
+"Wayne County, NC",37191,NC,4,123131,0.069,Yellow
+"Wilkes County, NC",37193,NC,4,68412,0.082,Yellow
+"Wilson County, NC",37195,NC,4,81801,0.06,Yellow
+"Yadkin County, NC",37197,NC,4,37667,0.091,Yellow
+"Yancey County, NC",37199,NC,4,18069,0.015,Green
+"Adams County, ND",38001,ND,8,2216,0.011,Green
+"Barnes County, ND",38003,ND,8,10415,0.081,Yellow
+"Benson County, ND",38005,ND,8,6832,0.059,Yellow
+"Billings County, ND",38007,ND,8,928,0.019,Green
+"Bottineau County, ND",38009,ND,8,6282,0.017,Green
+"Bowman County, ND",38011,ND,8,3024,0.009,Green
+"Burke County, ND",38013,ND,8,2115,0.021,Green
+"Burleigh County, ND",38015,ND,8,95626,0.061,Yellow
+"Cass County, ND",38017,ND,8,181923,0.031,Green
+"Cavalier County, ND",38019,ND,8,3762,0.012,Green
+"Dickey County, ND",38021,ND,8,4872,0.1,Yellow
+"Divide County, ND",38023,ND,8,2264,0,Green
+"Dunn County, ND",38025,ND,8,4424,0.056,Yellow
+"Eddy County, ND",38027,ND,8,2287,0.034,Green
+"Emmons County, ND",38029,ND,8,3241,0.031,Green
+"Foster County, ND",38031,ND,8,3210,0.017,Green
+"Golden Valley County, ND",38033,ND,8,1761,0.146,Red
+"Grand Forks County, ND",38035,ND,8,69451,0.091,Yellow
+"Grant County, ND",38037,ND,8,2274,0.132,Red
+"Griggs County, ND",38039,ND,8,2231,0,Green
+"Hettinger County, ND",38041,ND,8,2499,0.025,Green
+"Kidder County, ND",38043,ND,8,2480,0.118,Red
+"LaMoure County, ND",38045,ND,8,4046,0.023,Green
+"Logan County, ND",38047,ND,8,1850,0.026,Green
+"McHenry County, ND",38049,ND,8,5745,0.042,Green
+"McIntosh County, ND",38051,ND,8,2497,0.011,Green
+"McKenzie County, ND",38053,ND,8,15024,0.058,Yellow
+"McLean County, ND",38055,ND,8,9450,0.088,Yellow
+"Mercer County, ND",38057,ND,8,8187,0.04,Green
+"Morton County, ND",38059,ND,8,31364,0.06,Yellow
+"Mountrail County, ND",38061,ND,8,10545,0.065,Yellow
+"Nelson County, ND",38063,ND,8,2879,0.006,Green
+"Oliver County, ND",38065,ND,8,1959,0.12,Red
+"Pembina County, ND",38067,ND,8,6801,0.012,Green
+"Pierce County, ND",38069,ND,8,3975,0.036,Green
+"Ramsey County, ND",38071,ND,8,11519,0.035,Green
+"Ransom County, ND",38073,ND,8,5218,0.071,Yellow
+"Renville County, ND",38075,ND,8,2327,0.01,Green
+"Richland County, ND",38077,ND,8,16177,0.038,Green
+"Rolette County, ND",38079,ND,8,14176,0.047,Green
+"Sargent County, ND",38081,ND,8,3898,0.036,Green
+"Sheridan County, ND",38083,ND,8,1315,0.053,Yellow
+"Sioux County, ND",38085,ND,8,4230,0.062,Yellow
+"Slope County, ND",38087,ND,8,750,<10 tests,Green
+"Stark County, ND",38089,ND,8,31489,0.081,Yellow
+"Steele County, ND",38091,ND,8,1890,0.024,Green
+"Stutsman County, ND",38093,ND,8,20704,0.022,Green
+"Towner County, ND",38095,ND,8,2189,0,Green
+"Traill County, ND",38097,ND,8,8036,0.009,Green
+"Walsh County, ND",38099,ND,8,10641,0.033,Green
+"Ward County, ND",38101,ND,8,67641,0.056,Yellow
+"Wells County, ND",38103,ND,8,3834,0.017,Green
+"Williams County, ND",38105,ND,8,37589,0.064,Yellow
+"Adams County, NE",31001,NE,7,31363,0.132,Red
+"Antelope County, NE",31003,NE,7,6298,0.05,Yellow
+"Arthur County, NE",31005,NE,7,463,<10 tests,Green
+"Banner County, NE",31007,NE,7,745,<10 tests,Green
+"Blaine County, NE",31009,NE,7,465,<10 tests,Green
+"Boone County, NE",31011,NE,7,5192,0.077,Yellow
+"Box Butte County, NE",31013,NE,7,10783,0.056,Yellow
+"Boyd County, NE",31015,NE,7,1919,0,Green
+"Brown County, NE",31017,NE,7,2955,0.017,Green
+"Buffalo County, NE",31019,NE,7,49659,0.102,Red
+"Burt County, NE",31021,NE,7,6459,0.167,Red
+"Butler County, NE",31023,NE,7,8016,0.167,Red
+"Cass County, NE",31025,NE,7,26248,0.1,Yellow
+"Cedar County, NE",31027,NE,7,8402,0.224,Red
+"Chase County, NE",31029,NE,7,3924,0.071,Yellow
+"Cherry County, NE",31031,NE,7,5689,0.04,Green
+"Cheyenne County, NE",31033,NE,7,8910,0.034,Green
+"Clay County, NE",31035,NE,7,6203,0.079,Yellow
+"Colfax County, NE",31037,NE,7,10709,0.127,Red
+"Cuming County, NE",31039,NE,7,8846,0.125,Red
+"Custer County, NE",31041,NE,7,10777,0.044,Green
+"Dakota County, NE",31043,NE,7,20026,0.084,Yellow
+"Dawes County, NE",31045,NE,7,8589,0.094,Yellow
+"Dawson County, NE",31047,NE,7,23595,0.102,Red
+"Deuel County, NE",31049,NE,7,1794,<10 tests,Green
+"Dixon County, NE",31051,NE,7,5636,0.08,Yellow
+"Dodge County, NE",31053,NE,7,36565,0.082,Yellow
+"Douglas County, NE",31055,NE,7,571327,0.086,Yellow
+"Dundy County, NE",31057,NE,7,1693,0.105,Red
+"Fillmore County, NE",31059,NE,7,5462,0.088,Yellow
+"Franklin County, NE",31061,NE,7,2979,0.071,Yellow
+"Frontier County, NE",31063,NE,7,2627,0,Green
+"Furnas County, NE",31065,NE,7,4676,0.061,Yellow
+"Gage County, NE",31067,NE,7,21513,0.076,Yellow
+"Garden County, NE",31069,NE,7,1837,0.054,Yellow
+"Garfield County, NE",31071,NE,7,1969,<10 tests,Green
+"Gosper County, NE",31073,NE,7,1990,0.045,Green
+"Grant County, NE",31075,NE,7,623,<10 tests,Green
+"Greeley County, NE",31077,NE,7,2356,0.062,Yellow
+"Hall County, NE",31079,NE,7,61353,0.062,Yellow
+"Hamilton County, NE",31081,NE,7,9324,0.065,Yellow
+"Harlan County, NE",31083,NE,7,3380,0.059,Yellow
+"Hayes County, NE",31085,NE,7,922,<10 tests,Green
+"Hitchcock County, NE",31087,NE,7,2762,0.111,Red
+"Holt County, NE",31089,NE,7,10067,0.051,Yellow
+"Hooker County, NE",31091,NE,7,682,<10 tests,Green
+"Howard County, NE",31093,NE,7,6445,0.208,Red
+"Jefferson County, NE",31095,NE,7,7046,0,Green
+"Johnson County, NE",31097,NE,7,5071,0.036,Green
+"Kearney County, NE",31099,NE,7,6495,0.155,Red
+"Keith County, NE",31101,NE,7,8034,0.121,Red
+"Keya Paha County, NE",31103,NE,7,806,<10 tests,Green
+"Kimball County, NE",31105,NE,7,3632,<10 tests,Green
+"Knox County, NE",31107,NE,7,8332,0.211,Red
+"Lancaster County, NE",31109,NE,7,319090,0.11,Red
+"Lincoln County, NE",31111,NE,7,34914,0.095,Yellow
+"Logan County, NE",31113,NE,7,748,<10 tests,Green
+"Loup County, NE",31115,NE,7,664,<10 tests,Green
+"Madison County, NE",31119,NE,7,35099,0.103,Red
+"McPherson County, NE",31117,NE,7,494,<10 tests,Green
+"Merrick County, NE",31121,NE,7,7755,0.027,Green
+"Morrill County, NE",31123,NE,7,4642,0,Green
+"Nance County, NE",31125,NE,7,3519,0,Green
+"Nemaha County, NE",31127,NE,7,6972,0.095,Yellow
+"Nuckolls County, NE",31129,NE,7,4148,0,Green
+"Otoe County, NE",31131,NE,7,16012,0.136,Red
+"Pawnee County, NE",31133,NE,7,2613,0,Green
+"Perkins County, NE",31135,NE,7,2891,0.14,Red
+"Phelps County, NE",31137,NE,7,9034,0.116,Red
+"Pierce County, NE",31139,NE,7,7148,0.333,Red
+"Platte County, NE",31141,NE,7,33470,0.097,Yellow
+"Polk County, NE",31143,NE,7,5213,0.125,Red
+"Red Willow County, NE",31145,NE,7,10724,0,Green
+"Richardson County, NE",31147,NE,7,7865,0.068,Yellow
+"Rock County, NE",31149,NE,7,1357,0.083,Yellow
+"Saline County, NE",31151,NE,7,14224,0.16,Red
+"Sarpy County, NE",31153,NE,7,187196,0.074,Yellow
+"Saunders County, NE",31155,NE,7,21578,0.144,Red
+"Scotts Bluff County, NE",31157,NE,7,35618,0.1,Yellow
+"Seward County, NE",31159,NE,7,17284,0.172,Red
+"Sheridan County, NE",31161,NE,7,5246,0.354,Red
+"Sherman County, NE",31163,NE,7,3001,0,Green
+"Sioux County, NE",31165,NE,7,1166,<10 tests,Green
+"Stanton County, NE",31167,NE,7,5920,0.05,Yellow
+"Thayer County, NE",31169,NE,7,5003,0,Green
+"Thomas County, NE",31171,NE,7,722,<10 tests,Green
+"Thurston County, NE",31173,NE,7,7224,0.022,Green
+"Valley County, NE",31175,NE,7,4158,0.357,Red
+"Washington County, NE",31177,NE,7,20729,0.164,Red
+"Wayne County, NE",31179,NE,7,9385,0.2,Red
+"Webster County, NE",31181,NE,7,3487,0,Green
+"Wheeler County, NE",31183,NE,7,783,<10 tests,Green
+"York County, NE",31185,NE,7,13679,0.089,Yellow
+"Belknap County, NH",33001,NH,1,61303,0.002,Green
+"Carroll County, NH",33003,NH,1,48910,0.01,Green
+"Cheshire County, NH",33005,NH,1,76085,0.007,Green
+"Coos County, NH",33007,NH,1,31563,0.003,Green
+"Grafton County, NH",33009,NH,1,89886,0.003,Green
+"Hillsborough County, NH",33011,NH,1,417025,0.01,Green
+"Merrimack County, NH",33013,NH,1,151391,0.011,Green
+"Rockingham County, NH",33015,NH,1,309769,0.012,Green
+"Strafford County, NH",33017,NH,1,130633,0.011,Green
+"Sullivan County, NH",33019,NH,1,43146,0.007,Green
+"Atlantic County, NJ",34001,NJ,2,263670,0.021,Green
+"Bergen County, NJ",34003,NJ,2,932202,0.016,Green
+"Burlington County, NJ",34005,NJ,2,445349,0.022,Green
+"Camden County, NJ",34007,NJ,2,506471,0.025,Green
+"Cape May County, NJ",34009,NJ,2,92039,0.016,Green
+"Cumberland County, NJ",34011,NJ,2,149527,0.021,Green
+"Essex County, NJ",34013,NJ,2,798975,0.012,Green
+"Gloucester County, NJ",34015,NJ,2,291636,0.034,Green
+"Hudson County, NJ",34017,NJ,2,672391,0.01,Green
+"Hunterdon County, NJ",34019,NJ,2,124371,0.011,Green
+"Mercer County, NJ",34021,NJ,2,367430,0.012,Green
+"Middlesex County, NJ",34023,NJ,2,825062,0.017,Green
+"Monmouth County, NJ",34025,NJ,2,618795,0.011,Green
+"Morris County, NJ",34027,NJ,2,491845,0.007,Green
+"Ocean County, NJ",34029,NJ,2,607186,0.02,Green
+"Passaic County, NJ",34031,NJ,2,501826,0.032,Green
+"Salem County, NJ",34033,NJ,2,62385,0.045,Green
+"Somerset County, NJ",34035,NJ,2,328934,0.011,Green
+"Sussex County, NJ",34037,NJ,2,140488,0.013,Green
+"Union County, NJ",34039,NJ,2,556341,0.012,Green
+"Warren County, NJ",34041,NJ,2,105267,0.013,Green
+"Bernalillo County, NM",35001,NM,6,679121,0.021,Green
+"Catron County, NM",35003,NM,6,3527,0,Green
+"Chaves County, NM",35005,NM,6,64615,0.054,Yellow
+"Cibola County, NM",35006,NM,6,26675,0.018,Green
+"Colfax County, NM",35007,NM,6,11941,0,Green
+"Curry County, NM",35009,NM,6,48954,0.033,Green
+"De Baca County, NM",35011,NM,6,1748,<10 tests,Green
+"Doña Ana County, NM",35013,NM,6,218195,0.027,Green
+"Eddy County, NM",35015,NM,6,58460,0.038,Green
+"Grant County, NM",35017,NM,6,26998,0.01,Green
+"Guadalupe County, NM",35019,NM,6,4300,0.009,Green
+"Harding County, NM",35021,NM,6,625,<10 tests,Green
+"Hidalgo County, NM",35023,NM,6,4198,0.118,Red
+"Lea County, NM",35025,NM,6,71070,0.071,Yellow
+"Lincoln County, NM",35027,NM,6,19572,0.051,Yellow
+"Los Alamos County, NM",35028,NM,6,19369,0.01,Green
+"Luna County, NM",35029,NM,6,23709,0.141,Red
+"McKinley County, NM",35031,NM,6,71367,0.032,Green
+"Mora County, NM",35033,NM,6,4521,0,Green
+"Otero County, NM",35035,NM,6,67490,0.021,Green
+"Quay County, NM",35037,NM,6,8253,0.046,Green
+"Rio Arriba County, NM",35039,NM,6,38921,0.026,Green
+"Roosevelt County, NM",35041,NM,6,18500,0.036,Green
+"San Juan County, NM",35045,NM,6,123958,0.035,Green
+"San Miguel County, NM",35047,NM,6,27277,0.012,Green
+"Sandoval County, NM",35043,NM,6,146748,0.013,Green
+"Santa Fe County, NM",35049,NM,6,150358,0.027,Green
+"Sierra County, NM",35051,NM,6,10791,0.008,Green
+"Socorro County, NM",35053,NM,6,16637,0.004,Green
+"Taos County, NM",35055,NM,6,32723,0,Green
+"Torrance County, NM",35057,NM,6,15461,0,Green
+"Union County, NM",35059,NM,6,4059,0,Green
+"Valencia County, NM",35061,NM,6,76688,0.032,Green
+"Carson City, NV",32510,NV,9,55916,0.024,Green
+"Churchill County, NV",32001,NV,9,24909,0.153,Red
+"Clark County, NV",32003,NV,9,2266715,0.119,Red
+"Douglas County, NV",32005,NV,9,48905,0.032,Green
+"Elko County, NV",32007,NV,9,52778,0.173,Red
+"Esmeralda County, NV",32009,NV,9,873,<10 tests,Green
+"Eureka County, NV",32011,NV,9,2029,0,Green
+"Humboldt County, NV",32013,NV,9,16831,0.074,Yellow
+"Lander County, NV",32015,NV,9,5532,0.12,Red
+"Lincoln County, NV",32017,NV,9,5183,0.053,Yellow
+"Lyon County, NV",32019,NV,9,57510,0.063,Yellow
+"Mineral County, NV",32021,NV,9,4505,0.05,Yellow
+"Nye County, NV",32023,NV,9,46523,0.045,Green
+"Pershing County, NV",32027,NV,9,6725,0.01,Green
+"Storey County, NV",32029,NV,9,4123,<10 tests,Green
+"Washoe County, NV",32031,NV,9,471519,0.093,Yellow
+"White Pine County, NV",32033,NV,9,9580,0.059,Yellow
+"Albany County, NY",36001,NY,2,305506,0.008,Green
+"Allegany County, NY",36003,NY,2,46091,0.007,Green
+"Bronx County, NY",36005,NY,2,1418207,0.014,Green
+"Broome County, NY",36007,NY,2,190488,0.014,Green
+"Cattaraugus County, NY",36009,NY,2,76117,0.014,Green
+"Cayuga County, NY",36011,NY,2,76576,0.006,Green
+"Chautauqua County, NY",36013,NY,2,126903,0.023,Green
+"Chemung County, NY",36015,NY,2,83456,0.003,Green
+"Chenango County, NY",36017,NY,2,47207,0.005,Green
+"Clinton County, NY",36019,NY,2,80485,0.012,Green
+"Columbia County, NY",36021,NY,2,59461,0.005,Green
+"Cortland County, NY",36023,NY,2,47581,0.003,Green
+"Delaware County, NY",36025,NY,2,44135,0.002,Green
+"Dutchess County, NY",36027,NY,2,294218,0.01,Green
+"Erie County, NY",36029,NY,2,918702,0.021,Green
+"Essex County, NY",36031,NY,2,36885,0.036,Green
+"Franklin County, NY",36033,NY,2,50022,0.003,Green
+"Fulton County, NY",36035,NY,2,53383,0.004,Green
+"Genesee County, NY",36037,NY,2,57280,0.003,Green
+"Greene County, NY",36039,NY,2,47188,0.005,Green
+"Hamilton County, NY",36041,NY,2,4416,0.029,Green
+"Herkimer County, NY",36043,NY,2,61319,0.003,Green
+"Jefferson County, NY",36045,NY,2,109834,0.003,Green
+"Kings County, NY",36047,NY,2,2559903,0.01,Green
+"Lewis County, NY",36049,NY,2,26296,0.005,Green
+"Livingston County, NY",36051,NY,2,62914,0.008,Green
+"Madison County, NY",36053,NY,2,70941,0.004,Green
+"Monroe County, NY",36055,NY,2,741770,0.008,Green
+"Montgomery County, NY",36057,NY,2,49221,0.016,Green
+"Nassau County, NY",36059,NY,2,1356924,0.01,Green
+"New York County, NY",36061,NY,2,1628706,0.007,Green
+"Niagara County, NY",36063,NY,2,209281,0.013,Green
+"Oneida County, NY",36065,NY,2,228671,0.008,Green
+"Onondaga County, NY",36067,NY,2,460528,0.009,Green
+"Ontario County, NY",36069,NY,2,109777,0.004,Green
+"Orange County, NY",36071,NY,2,384940,0.011,Green
+"Orleans County, NY",36073,NY,2,40352,0.005,Green
+"Oswego County, NY",36075,NY,2,117124,0.005,Green
+"Otsego County, NY",36077,NY,2,59493,0.002,Green
+"Putnam County, NY",36079,NY,2,98320,0.01,Green
+"Queens County, NY",36081,NY,2,2253858,0.01,Green
+"Rensselaer County, NY",36083,NY,2,158714,0.014,Green
+"Richmond County, NY",36085,NY,2,476143,0.01,Green
+"Rockland County, NY",36087,NY,2,325789,0.015,Green
+"Saratoga County, NY",36091,NY,2,229863,0.004,Green
+"Schenectady County, NY",36093,NY,2,155299,0.023,Green
+"Schoharie County, NY",36095,NY,2,30999,0.003,Green
+"Schuyler County, NY",36097,NY,2,17807,0.004,Green
+"Seneca County, NY",36099,NY,2,34016,0.006,Green
+"St. Lawrence County, NY",36089,NY,2,107740,0.001,Green
+"Steuben County, NY",36101,NY,2,95379,0.003,Green
+"Suffolk County, NY",36103,NY,2,1476601,0.01,Green
+"Sullivan County, NY",36105,NY,2,75432,0.01,Green
+"Tioga County, NY",36107,NY,2,48203,0.006,Green
+"Tompkins County, NY",36109,NY,2,102180,0.002,Green
+"Ulster County, NY",36111,NY,2,177573,0.01,Green
+"Warren County, NY",36113,NY,2,63944,0.007,Green
+"Washington County, NY",36115,NY,2,61204,0.002,Green
+"Wayne County, NY",36117,NY,2,89918,0.003,Green
+"Westchester County, NY",36119,NY,2,967506,0.009,Green
+"Wyoming County, NY",36121,NY,2,39859,0.004,Green
+"Yates County, NY",36123,NY,2,24913,0.003,Green
+"Adams County, OH",39001,OH,5,27698,0.054,Yellow
+"Allen County, OH",39003,OH,5,102351,0.032,Green
+"Ashland County, OH",39005,OH,5,53484,0.067,Yellow
+"Ashtabula County, OH",39007,OH,5,97241,0.007,Green
+"Athens County, OH",39009,OH,5,65327,0.013,Green
+"Auglaize County, OH",39011,OH,5,45656,0.035,Green
+"Belmont County, OH",39013,OH,5,67006,0.014,Green
+"Brown County, OH",39015,OH,5,43432,0.032,Green
+"Butler County, OH",39017,OH,5,383134,0.044,Green
+"Carroll County, OH",39019,OH,5,26914,0,Green
+"Champaign County, OH",39021,OH,5,38885,0.08,Yellow
+"Clark County, OH",39023,OH,5,134083,0.035,Green
+"Clermont County, OH",39025,OH,5,206428,0.048,Green
+"Clinton County, OH",39027,OH,5,41968,0.029,Green
+"Columbiana County, OH",39029,OH,5,101883,0.083,Yellow
+"Coshocton County, OH",39031,OH,5,36600,0.011,Green
+"Crawford County, OH",39033,OH,5,41494,0.006,Green
+"Cuyahoga County, OH",39035,OH,5,1235072,0.036,Green
+"Darke County, OH",39037,OH,5,51113,0.151,Red
+"Defiance County, OH",39039,OH,5,38087,0.055,Yellow
+"Delaware County, OH",39041,OH,5,209177,0.054,Yellow
+"Erie County, OH",39043,OH,5,74266,0.03,Green
+"Fairfield County, OH",39045,OH,5,157574,0.042,Green
+"Fayette County, OH",39047,OH,5,28525,0.013,Green
+"Franklin County, OH",39049,OH,5,1316756,0.042,Green
+"Fulton County, OH",39051,OH,5,42126,0.012,Green
+"Gallia County, OH",39053,OH,5,29898,0.127,Red
+"Geauga County, OH",39055,OH,5,93649,0.007,Green
+"Greene County, OH",39057,OH,5,168937,0.065,Yellow
+"Guernsey County, OH",39059,OH,5,38875,0.003,Green
+"Hamilton County, OH",39061,OH,5,817473,0.036,Green
+"Hancock County, OH",39063,OH,5,75783,0.089,Yellow
+"Hardin County, OH",39065,OH,5,31365,0.063,Yellow
+"Harrison County, OH",39067,OH,5,15040,<10 tests,Green
+"Henry County, OH",39069,OH,5,27006,0.153,Red
+"Highland County, OH",39071,OH,5,43161,0.003,Green
+"Hocking County, OH",39073,OH,5,28264,0.038,Green
+"Holmes County, OH",39075,OH,5,43960,0.158,Red
+"Huron County, OH",39077,OH,5,58266,0.008,Green
+"Jackson County, OH",39079,OH,5,32413,0.104,Red
+"Jefferson County, OH",39081,OH,5,65325,0.02,Green
+"Knox County, OH",39083,OH,5,62322,0.03,Green
+"Lake County, OH",39085,OH,5,230149,0.031,Green
+"Lawrence County, OH",39087,OH,5,59463,0.065,Yellow
+"Licking County, OH",39089,OH,5,176862,0.03,Green
+"Logan County, OH",39091,OH,5,45672,0.039,Green
+"Lorain County, OH",39093,OH,5,309833,0.021,Green
+"Lucas County, OH",39095,OH,5,428348,0.065,Yellow
+"Madison County, OH",39097,OH,5,44731,0.03,Green
+"Mahoning County, OH",39099,OH,5,228683,0.03,Green
+"Marion County, OH",39101,OH,5,65093,0.023,Green
+"Medina County, OH",39103,OH,5,179746,0.044,Green
+"Meigs County, OH",39105,OH,5,22907,0.024,Green
+"Mercer County, OH",39107,OH,5,41172,0.026,Green
+"Miami County, OH",39109,OH,5,106987,0.092,Yellow
+"Monroe County, OH",39111,OH,5,13654,0.022,Green
+"Montgomery County, OH",39113,OH,5,531687,0.035,Green
+"Morgan County, OH",39115,OH,5,14508,0.081,Yellow
+"Morrow County, OH",39117,OH,5,35328,0.032,Green
+"Muskingum County, OH",39119,OH,5,86215,0.015,Green
+"Noble County, OH",39121,OH,5,14424,0,Green
+"Ottawa County, OH",39123,OH,5,40525,0.013,Green
+"Paulding County, OH",39125,OH,5,18672,0.025,Green
+"Perry County, OH",39127,OH,5,36134,0.106,Red
+"Pickaway County, OH",39129,OH,5,58457,0.057,Yellow
+"Pike County, OH",39131,OH,5,27772,0.058,Yellow
+"Portage County, OH",39133,OH,5,162466,0.009,Green
+"Preble County, OH",39135,OH,5,40882,0.113,Red
+"Putnam County, OH",39137,OH,5,33861,0.075,Yellow
+"Richland County, OH",39139,OH,5,121154,0.031,Green
+"Ross County, OH",39141,OH,5,76666,0.067,Yellow
+"Sandusky County, OH",39143,OH,5,58518,0.042,Green
+"Scioto County, OH",39145,OH,5,75314,0.058,Yellow
+"Seneca County, OH",39147,OH,5,55178,0.041,Green
+"Shelby County, OH",39149,OH,5,48590,0.116,Red
+"Stark County, OH",39151,OH,5,370606,0.062,Yellow
+"Summit County, OH",39153,OH,5,541013,0.068,Yellow
+"Trumbull County, OH",39155,OH,5,197974,0.017,Green
+"Tuscarawas County, OH",39157,OH,5,91987,0,Green
+"Union County, OH",39159,OH,5,58988,0.054,Yellow
+"Van Wert County, OH",39161,OH,5,28275,0.036,Green
+"Vinton County, OH",39163,OH,5,13085,0,Green
+"Warren County, OH",39165,OH,5,234602,0.039,Green
+"Washington County, OH",39167,OH,5,59911,0.021,Green
+"Wayne County, OH",39169,OH,5,115710,0.086,Yellow
+"Williams County, OH",39171,OH,5,36692,0.03,Green
+"Wood County, OH",39173,OH,5,130817,0.062,Yellow
+"Wyandot County, OH",39175,OH,5,21772,0.009,Green
+"Adair County, OK",40001,OK,6,22194,0.133,Red
+"Alfalfa County, OK",40003,OK,6,5702,0.074,Yellow
+"Atoka County, OK",40005,OK,6,13758,0.12,Red
+"Beaver County, OK",40007,OK,6,5311,<10 tests,Green
+"Beckham County, OK",40009,OK,6,21859,0.058,Yellow
+"Blaine County, OK",40011,OK,6,9429,0.098,Yellow
+"Bryan County, OK",40013,OK,6,47995,0.122,Red
+"Caddo County, OK",40015,OK,6,28762,0.124,Red
+"Canadian County, OK",40017,OK,6,148306,0.064,Yellow
+"Carter County, OK",40019,OK,6,48111,0.025,Green
+"Cherokee County, OK",40021,OK,6,48657,0.079,Yellow
+"Choctaw County, OK",40023,OK,6,14672,0.122,Red
+"Cimarron County, OK",40025,OK,6,2137,<10 tests,Green
+"Cleveland County, OK",40027,OK,6,284014,0.08,Yellow
+"Coal County, OK",40029,OK,6,5495,0.024,Green
+"Comanche County, OK",40031,OK,6,120749,0.09,Yellow
+"Cotton County, OK",40033,OK,6,5666,<10 tests,Green
+"Craig County, OK",40035,OK,6,14142,0.065,Yellow
+"Creek County, OK",40037,OK,6,71522,0.088,Yellow
+"Custer County, OK",40039,OK,6,29003,0.159,Red
+"Delaware County, OK",40041,OK,6,43009,0.1,Yellow
+"Dewey County, OK",40043,OK,6,4891,0.062,Yellow
+"Ellis County, OK",40045,OK,6,3859,<10 tests,Green
+"Garfield County, OK",40047,OK,6,61056,0.19,Red
+"Garvin County, OK",40049,OK,6,27711,0.014,Green
+"Grady County, OK",40051,OK,6,55834,0.013,Green
+"Grant County, OK",40053,OK,6,4333,0.071,Yellow
+"Greer County, OK",40055,OK,6,5712,0.087,Yellow
+"Harmon County, OK",40057,OK,6,2653,<10 tests,Green
+"Harper County, OK",40059,OK,6,3688,0.1,Yellow
+"Haskell County, OK",40061,OK,6,12627,0.057,Yellow
+"Hughes County, OK",40063,OK,6,13279,0.051,Yellow
+"Jackson County, OK",40065,OK,6,24530,0.026,Green
+"Jefferson County, OK",40067,OK,6,6002,0,Green
+"Johnston County, OK",40069,OK,6,11085,0.07,Yellow
+"Kay County, OK",40071,OK,6,43538,0.037,Green
+"Kingfisher County, OK",40073,OK,6,15765,0.064,Yellow
+"Kiowa County, OK",40075,OK,6,8708,0.071,Yellow
+"Latimer County, OK",40077,OK,6,10073,0.044,Green
+"Le Flore County, OK",40079,OK,6,49853,0.129,Red
+"Lincoln County, OK",40081,OK,6,34877,0.101,Red
+"Logan County, OK",40083,OK,6,48011,0.031,Green
+"Love County, OK",40085,OK,6,10253,0.052,Yellow
+"Major County, OK",40093,OK,6,7629,0.052,Yellow
+"Marshall County, OK",40095,OK,6,16931,0.075,Yellow
+"Mayes County, OK",40097,OK,6,41100,0.054,Yellow
+"McClain County, OK",40087,OK,6,40474,0.098,Yellow
+"McCurtain County, OK",40089,OK,6,32832,0.176,Red
+"McIntosh County, OK",40091,OK,6,19596,0.158,Red
+"Murray County, OK",40099,OK,6,14073,0.023,Green
+"Muskogee County, OK",40101,OK,6,67997,0.097,Yellow
+"Noble County, OK",40103,OK,6,11131,0.25,Red
+"Nowata County, OK",40105,OK,6,10076,0.194,Red
+"Okfuskee County, OK",40107,OK,6,11993,0.062,Yellow
+"Oklahoma County, OK",40109,OK,6,797434,0.071,Yellow
+"Okmulgee County, OK",40111,OK,6,38465,0.161,Red
+"Osage County, OK",40113,OK,6,46963,0.17,Red
+"Ottawa County, OK",40115,OK,6,31127,0.115,Red
+"Pawnee County, OK",40117,OK,6,16376,0.15,Red
+"Payne County, OK",40119,OK,6,81784,0.11,Red
+"Pittsburg County, OK",40121,OK,6,43654,0.136,Red
+"Pontotoc County, OK",40123,OK,6,38284,0.034,Green
+"Pottawatomie County, OK",40125,OK,6,72592,0.052,Yellow
+"Pushmataha County, OK",40127,OK,6,11096,0.091,Yellow
+"Roger Mills County, OK",40129,OK,6,3583,0.083,Yellow
+"Rogers County, OK",40131,OK,6,92459,0.117,Red
+"Seminole County, OK",40133,OK,6,24258,0.091,Yellow
+"Sequoyah County, OK",40135,OK,6,41569,0.104,Red
+"Stephens County, OK",40137,OK,6,43143,0.053,Yellow
+"Texas County, OK",40139,OK,6,19983,0.071,Yellow
+"Tillman County, OK",40141,OK,6,7250,<10 tests,Green
+"Tulsa County, OK",40143,OK,6,651552,0.142,Red
+"Wagoner County, OK",40145,OK,6,81289,0.157,Red
+"Washington County, OK",40147,OK,6,51527,0.085,Yellow
+"Washita County, OK",40149,OK,6,10916,0.111,Red
+"Woods County, OK",40151,OK,6,8793,0,Green
+"Woodward County, OK",40153,OK,6,20211,0.115,Red
+"Baker County, OR",41001,OR,10,16124,0.117,Red
+"Benton County, OR",41003,OR,10,93053,0.02,Green
+"Clackamas County, OR",41005,OR,10,418187,0.03,Green
+"Clatsop County, OR",41007,OR,10,40224,0.006,Green
+"Columbia County, OR",41009,OR,10,52354,0.013,Green
+"Coos County, OR",41011,OR,10,64487,0.021,Green
+"Crook County, OR",41013,OR,10,24404,0.012,Green
+"Curry County, OR",41015,OR,10,22925,0,Green
+"Deschutes County, OR",41017,OR,10,197692,0.05,Yellow
+"Douglas County, OR",41019,OR,10,110980,0.007,Green
+"Gilliam County, OR",41021,OR,10,1912,0,Green
+"Grant County, OR",41023,OR,10,7199,0.06,Yellow
+"Harney County, OR",41025,OR,10,7393,0,Green
+"Hood River County, OR",41027,OR,10,23382,0.013,Green
+"Jackson County, OR",41029,OR,10,220944,0.032,Green
+"Jefferson County, OR",41031,OR,10,24658,0.074,Yellow
+"Josephine County, OR",41033,OR,10,87487,0.011,Green
+"Klamath County, OR",41035,OR,10,68238,0.032,Green
+"Lake County, OR",41037,OR,10,7869,0,Green
+"Lane County, OR",41039,OR,10,382067,0.004,Green
+"Lincoln County, OR",41041,OR,10,49962,0.034,Green
+"Linn County, OR",41043,OR,10,129749,0.017,Green
+"Malheur County, OR",41045,OR,10,30571,0.235,Red
+"Marion County, OR",41047,OR,10,347818,0.07,Yellow
+"Morrow County, OR",41049,OR,10,11603,0.118,Red
+"Multnomah County, OR",41051,OR,10,812855,0.035,Green
+"Polk County, OR",41053,OR,10,86085,0.019,Green
+"Sherman County, OR",41055,OR,10,1780,0,Green
+"Tillamook County, OR",41057,OR,10,27036,0.003,Green
+"Umatilla County, OR",41059,OR,10,77950,0.095,Yellow
+"Union County, OR",41061,OR,10,26835,0.01,Green
+"Wallowa County, OR",41063,OR,10,7208,0,Green
+"Wasco County, OR",41065,OR,10,26682,0.013,Green
+"Washington County, OR",41067,OR,10,601592,0.037,Green
+"Wheeler County, OR",41069,OR,10,1332,<10 tests,Green
+"Yamhill County, OR",41071,OR,10,107100,0.034,Green
+"Adams County, PA",42001,PA,3,103009,0.021,Green
+"Allegheny County, PA",42003,PA,3,1216045,0.03,Green
+"Armstrong County, PA",42005,PA,3,64735,0.095,Yellow
+"Beaver County, PA",42007,PA,3,163929,0.078,Yellow
+"Bedford County, PA",42009,PA,3,47888,0.015,Green
+"Berks County, PA",42011,PA,3,421164,0.051,Yellow
+"Blair County, PA",42013,PA,3,121829,0.033,Green
+"Bradford County, PA",42015,PA,3,60323,0.009,Green
+"Bucks County, PA",42017,PA,3,628270,0.029,Green
+"Butler County, PA",42019,PA,3,187853,0.022,Green
+"Cambria County, PA",42021,PA,3,130192,0.015,Green
+"Cameron County, PA",42023,PA,3,4447,0,Green
+"Carbon County, PA",42025,PA,3,64182,0.029,Green
+"Centre County, PA",42027,PA,3,162385,0.015,Green
+"Chester County, PA",42029,PA,3,524989,0.029,Green
+"Clarion County, PA",42031,PA,3,38438,0.005,Green
+"Clearfield County, PA",42033,PA,3,79255,0.027,Green
+"Clinton County, PA",42035,PA,3,38632,0.008,Green
+"Columbia County, PA",42037,PA,3,64964,0.093,Yellow
+"Crawford County, PA",42039,PA,3,84629,0.107,Red
+"Cumberland County, PA",42041,PA,3,253370,0.039,Green
+"Dauphin County, PA",42043,PA,3,278299,0.058,Yellow
+"Delaware County, PA",42045,PA,3,566747,0.035,Green
+"Elk County, PA",42047,PA,3,29910,0,Green
+"Erie County, PA",42049,PA,3,269728,0.038,Green
+"Fayette County, PA",42051,PA,3,129274,0.021,Green
+"Forest County, PA",42053,PA,3,7247,0.029,Green
+"Franklin County, PA",42055,PA,3,155027,0.045,Green
+"Fulton County, PA",42057,PA,3,14530,0.052,Yellow
+"Greene County, PA",42059,PA,3,36233,0.022,Green
+"Huntingdon County, PA",42061,PA,3,45144,0.038,Green
+"Indiana County, PA",42063,PA,3,84073,0.031,Green
+"Jefferson County, PA",42065,PA,3,43425,0.034,Green
+"Juniata County, PA",42067,PA,3,24763,0.035,Green
+"Lackawanna County, PA",42069,PA,3,209674,0.024,Green
+"Lancaster County, PA",42071,PA,3,545724,0.042,Green
+"Lawrence County, PA",42073,PA,3,85512,0.029,Green
+"Lebanon County, PA",42075,PA,3,141793,0.031,Green
+"Lehigh County, PA",42077,PA,3,369318,0.018,Green
+"Luzerne County, PA",42079,PA,3,317417,0.036,Green
+"Lycoming County, PA",42081,PA,3,113299,0.047,Green
+"McKean County, PA",42083,PA,3,40625,0.011,Green
+"Mercer County, PA",42085,PA,3,109424,0.035,Green
+"Mifflin County, PA",42087,PA,3,46138,0.036,Green
+"Monroe County, PA",42089,PA,3,170271,0.02,Green
+"Montgomery County, PA",42091,PA,3,830915,0.034,Green
+"Montour County, PA",42093,PA,3,18230,0.053,Yellow
+"Northampton County, PA",42095,PA,3,305285,0.019,Green
+"Northumberland County, PA",42097,PA,3,90843,0.069,Yellow
+"Perry County, PA",42099,PA,3,46272,0.086,Yellow
+"Philadelphia County, PA",42101,PA,3,1584064,0.032,Green
+"Pike County, PA",42103,PA,3,55809,0.023,Green
+"Potter County, PA",42105,PA,3,16526,0.055,Yellow
+"Schuylkill County, PA",42107,PA,3,141359,0.018,Green
+"Snyder County, PA",42109,PA,3,40372,0.035,Green
+"Somerset County, PA",42111,PA,3,73447,0.024,Green
+"Sullivan County, PA",42113,PA,3,6066,0,Green
+"Susquehanna County, PA",42115,PA,3,40328,0.038,Green
+"Tioga County, PA",42117,PA,3,40591,0.008,Green
+"Union County, PA",42119,PA,3,44923,0.058,Yellow
+"Venango County, PA",42121,PA,3,50668,0.007,Green
+"Warren County, PA",42123,PA,3,39191,0.003,Green
+"Washington County, PA",42125,PA,3,206865,0.034,Green
+"Wayne County, PA",42127,PA,3,51361,0.025,Green
+"Westmoreland County, PA",42129,PA,3,348899,0.039,Green
+"Wyoming County, PA",42131,PA,3,26794,0.011,Green
+"York County, PA",42133,PA,3,449058,0.05,Yellow
+"Bristol County, RI",44001,RI,1,48479,0.004,Green
+"Kent County, RI",44003,RI,1,164292,0.025,Green
+"Newport County, RI",44005,RI,1,82082,0.021,Green
+"Providence County, RI",44007,RI,1,638931,0.03,Green
+"Washington County, RI",44009,RI,1,125577,0.01,Green
+"Abbeville County, SC",45001,SC,4,24527,0.176,Red
+"Aiken County, SC",45003,SC,4,170872,0.124,Red
+"Allendale County, SC",45005,SC,4,8688,0.198,Red
+"Anderson County, SC",45007,SC,4,202558,0.275,Red
+"Bamberg County, SC",45009,SC,4,14066,0.13,Red
+"Barnwell County, SC",45011,SC,4,20866,0.112,Red
+"Beaufort County, SC",45013,SC,4,192122,0.141,Red
+"Berkeley County, SC",45015,SC,4,227907,0.104,Red
+"Calhoun County, SC",45017,SC,4,14553,0.08,Yellow
+"Charleston County, SC",45019,SC,4,411406,0.096,Yellow
+"Cherokee County, SC",45021,SC,4,57300,0.121,Red
+"Chester County, SC",45023,SC,4,32244,0.188,Red
+"Chesterfield County, SC",45025,SC,4,45650,0.13,Red
+"Clarendon County, SC",45027,SC,4,33745,0.107,Red
+"Colleton County, SC",45029,SC,4,37677,0.088,Yellow
+"Darlington County, SC",45031,SC,4,66618,0.11,Red
+"Dillon County, SC",45033,SC,4,30479,0.111,Red
+"Dorchester County, SC",45035,SC,4,162809,0.13,Red
+"Edgefield County, SC",45037,SC,4,27260,0.313,Red
+"Fairfield County, SC",45039,SC,4,22347,0.18,Red
+"Florence County, SC",45041,SC,4,138293,0.121,Red
+"Georgetown County, SC",45043,SC,4,62680,0.089,Yellow
+"Greenville County, SC",45045,SC,4,523542,0.074,Yellow
+"Greenwood County, SC",45047,SC,4,70811,0.281,Red
+"Hampton County, SC",45049,SC,4,19222,0.179,Red
+"Horry County, SC",45051,SC,4,354081,0.084,Yellow
+"Jasper County, SC",45053,SC,4,30073,0.174,Red
+"Kershaw County, SC",45055,SC,4,66551,0.211,Red
+"Lancaster County, SC",45057,SC,4,98012,0.17,Red
+"Laurens County, SC",45059,SC,4,67493,0.157,Red
+"Lee County, SC",45061,SC,4,16828,0.163,Red
+"Lexington County, SC",45063,SC,4,298750,0.13,Red
+"Marion County, SC",45067,SC,4,30657,0.125,Red
+"Marlboro County, SC",45069,SC,4,26118,0.142,Red
+"McCormick County, SC",45065,SC,4,9463,0.003,Green
+"Newberry County, SC",45071,SC,4,38440,0.117,Red
+"Oconee County, SC",45073,SC,4,79546,0.096,Yellow
+"Orangeburg County, SC",45075,SC,4,86175,0.102,Red
+"Pickens County, SC",45077,SC,4,126884,0.089,Yellow
+"Richland County, SC",45079,SC,4,415759,0.141,Red
+"Saluda County, SC",45081,SC,4,20473,0.35,Red
+"Spartanburg County, SC",45083,SC,4,319785,0.128,Red
+"Sumter County, SC",45085,SC,4,106721,0.247,Red
+"Union County, SC",45087,SC,4,27316,0.128,Red
+"Williamsburg County, SC",45089,SC,4,30368,0.117,Red
+"York County, SC",45091,SC,4,280979,0.117,Red
+"Aurora County, SD",46003,SD,8,2751,0.048,Green
+"Beadle County, SD",46005,SD,8,18453,0.083,Yellow
+"Bennett County, SD",46007,SD,8,3365,<10 tests,Green
+"Bon Homme County, SD",46009,SD,8,6901,0.122,Red
+"Brookings County, SD",46011,SD,8,35077,0.071,Yellow
+"Brown County, SD",46013,SD,8,38839,0.183,Red
+"Brule County, SD",46015,SD,8,5297,0.022,Green
+"Buffalo County, SD",46017,SD,8,1962,<10 tests,Green
+"Butte County, SD",46019,SD,8,10429,0.115,Red
+"Campbell County, SD",46021,SD,8,1376,<10 tests,Green
+"Charles Mix County, SD",46023,SD,8,9292,0.057,Yellow
+"Clark County, SD",46025,SD,8,3736,<10 tests,Green
+"Clay County, SD",46027,SD,8,14070,0.246,Red
+"Codington County, SD",46029,SD,8,28009,0.111,Red
+"Corson County, SD",46031,SD,8,4086,<10 tests,Green
+"Custer County, SD",46033,SD,8,8972,0.366,Red
+"Davison County, SD",46035,SD,8,19775,0.128,Red
+"Day County, SD",46037,SD,8,5424,0.045,Green
+"Deuel County, SD",46039,SD,8,4351,0.263,Red
+"Dewey County, SD",46041,SD,8,5892,<10 tests,Green
+"Douglas County, SD",46043,SD,8,2921,0.071,Yellow
+"Edmunds County, SD",46045,SD,8,3829,0.174,Red
+"Fall River County, SD",46047,SD,8,6713,0.139,Red
+"Faulk County, SD",46049,SD,8,2299,0.091,Yellow
+"Grant County, SD",46051,SD,8,7052,0.082,Yellow
+"Gregory County, SD",46053,SD,8,4185,0.121,Red
+"Haakon County, SD",46055,SD,8,1899,0.125,Red
+"Hamlin County, SD",46057,SD,8,6164,0.028,Green
+"Hand County, SD",46059,SD,8,3191,0.047,Green
+"Hanson County, SD",46061,SD,8,3453,0.077,Yellow
+"Harding County, SD",46063,SD,8,1298,<10 tests,Green
+"Hughes County, SD",46065,SD,8,17526,0.065,Yellow
+"Hutchinson County, SD",46067,SD,8,7291,0.062,Yellow
+"Hyde County, SD",46069,SD,8,1301,0.045,Green
+"Jackson County, SD",46071,SD,8,3344,0,Green
+"Jerauld County, SD",46073,SD,8,2013,<10 tests,Green
+"Jones County, SD",46075,SD,8,903,<10 tests,Green
+"Kingsbury County, SD",46077,SD,8,4939,0.053,Yellow
+"Lake County, SD",46079,SD,8,12797,0.011,Green
+"Lawrence County, SD",46081,SD,8,25844,0.166,Red
+"Lincoln County, SD",46083,SD,8,61128,0.098,Yellow
+"Lyman County, SD",46085,SD,8,3781,0,Green
+"Marshall County, SD",46091,SD,8,4935,0.13,Red
+"McCook County, SD",46087,SD,8,5586,0.13,Red
+"McPherson County, SD",46089,SD,8,2379,0.083,Yellow
+"Meade County, SD",46093,SD,8,28332,0.326,Red
+"Mellette County, SD",46095,SD,8,2061,<10 tests,Green
+"Miner County, SD",46097,SD,8,2216,<10 tests,Green
+"Minnehaha County, SD",46099,SD,8,193134,0.095,Yellow
+"Moody County, SD",46101,SD,8,6576,0.083,Yellow
+"Oglala Lakota County, SD",46102,SD,8,14177,<10 tests,Green
+"Pennington County, SD",46103,SD,8,113775,0.248,Red
+"Perkins County, SD",46105,SD,8,2865,0.027,Green
+"Potter County, SD",46107,SD,8,2153,0.195,Red
+"Roberts County, SD",46109,SD,8,10394,0.047,Green
+"Sanborn County, SD",46111,SD,8,2344,0,Green
+"Spink County, SD",46115,SD,8,6376,0.183,Red
+"Stanley County, SD",46117,SD,8,3098,0,Green
+"Sully County, SD",46119,SD,8,1391,0.176,Red
+"Todd County, SD",46121,SD,8,10177,<10 tests,Green
+"Tripp County, SD",46123,SD,8,5441,0,Green
+"Turner County, SD",46125,SD,8,8384,0.226,Red
+"Union County, SD",46127,SD,8,15932,0.123,Red
+"Walworth County, SD",46129,SD,8,5435,0.077,Yellow
+"Yankton County, SD",46135,SD,8,22814,0.132,Red
+"Ziebach County, SD",46137,SD,8,2756,<10 tests,Green
+"Anderson County, TN",47001,TN,4,76978,0.01,Green
+"Bedford County, TN",47003,TN,4,49713,0.113,Red
+"Benton County, TN",47005,TN,4,16160,0.112,Red
+"Bledsoe County, TN",47007,TN,4,15064,0,Green
+"Blount County, TN",47009,TN,4,133088,0.153,Red
+"Bradley County, TN",47011,TN,4,108110,0.083,Yellow
+"Campbell County, TN",47013,TN,4,39842,0.027,Green
+"Cannon County, TN",47015,TN,4,14678,0.058,Yellow
+"Carroll County, TN",47017,TN,4,27767,0.109,Red
+"Carter County, TN",47019,TN,4,56391,0.06,Yellow
+"Cheatham County, TN",47021,TN,4,40667,0.067,Yellow
+"Chester County, TN",47023,TN,4,17297,0.118,Red
+"Claiborne County, TN",47025,TN,4,31959,0.073,Yellow
+"Clay County, TN",47027,TN,4,7615,0.083,Yellow
+"Cocke County, TN",47029,TN,4,36004,0.064,Yellow
+"Coffee County, TN",47031,TN,4,56520,0.078,Yellow
+"Crockett County, TN",47033,TN,4,14230,0.146,Red
+"Cumberland County, TN",47035,TN,4,60520,0.056,Yellow
+"Davidson County, TN",47037,TN,4,694144,0.054,Yellow
+"Decatur County, TN",47039,TN,4,11663,0.027,Green
+"DeKalb County, TN",47041,TN,4,20490,0.115,Red
+"Dickson County, TN",47043,TN,4,53948,0.074,Yellow
+"Dyer County, TN",47045,TN,4,37159,0.172,Red
+"Fayette County, TN",47047,TN,4,41133,0.09,Yellow
+"Fentress County, TN",47049,TN,4,18523,0.079,Yellow
+"Franklin County, TN",47051,TN,4,42208,0.058,Yellow
+"Gibson County, TN",47053,TN,4,49133,0.108,Red
+"Giles County, TN",47055,TN,4,29464,0.042,Green
+"Grainger County, TN",47057,TN,4,23320,0.091,Yellow
+"Greene County, TN",47059,TN,4,69069,0.11,Red
+"Grundy County, TN",47061,TN,4,13427,<10 tests,Green
+"Hamblen County, TN",47063,TN,4,64934,0.056,Yellow
+"Hamilton County, TN",47065,TN,4,367804,0.056,Yellow
+"Hancock County, TN",47067,TN,4,6620,<10 tests,Green
+"Hardeman County, TN",47069,TN,4,25050,0.119,Red
+"Hardin County, TN",47071,TN,4,25652,0.088,Yellow
+"Hawkins County, TN",47073,TN,4,56786,0.062,Yellow
+"Haywood County, TN",47075,TN,4,17304,0.27,Red
+"Henderson County, TN",47077,TN,4,28117,0.059,Yellow
+"Henry County, TN",47079,TN,4,32345,0.075,Yellow
+"Hickman County, TN",47081,TN,4,25178,0.027,Green
+"Houston County, TN",47083,TN,4,8201,0.075,Yellow
+"Humphreys County, TN",47085,TN,4,18582,0.143,Red
+"Jackson County, TN",47087,TN,4,11786,0.214,Red
+"Jefferson County, TN",47089,TN,4,54495,0.039,Green
+"Johnson County, TN",47091,TN,4,17788,0.111,Red
+"Knox County, TN",47093,TN,4,470313,0.062,Yellow
+"Lake County, TN",47095,TN,4,7016,0.11,Red
+"Lauderdale County, TN",47097,TN,4,25633,0.143,Red
+"Lawrence County, TN",47099,TN,4,44142,0.087,Yellow
+"Lewis County, TN",47101,TN,4,12268,0.2,Red
+"Lincoln County, TN",47103,TN,4,34366,0.056,Yellow
+"Loudon County, TN",47105,TN,4,54068,0.106,Red
+"Macon County, TN",47111,TN,4,24602,0.171,Red
+"Madison County, TN",47113,TN,4,97984,0.142,Red
+"Marion County, TN",47115,TN,4,28907,0.1,Yellow
+"Marshall County, TN",47117,TN,4,34375,0.156,Red
+"Maury County, TN",47119,TN,4,96387,0.085,Yellow
+"McMinn County, TN",47107,TN,4,53794,0.062,Yellow
+"McNairy County, TN",47109,TN,4,25694,0.115,Red
+"Meigs County, TN",47121,TN,4,12422,0.188,Red
+"Monroe County, TN",47123,TN,4,46545,0.041,Green
+"Montgomery County, TN",47125,TN,4,208993,0.099,Yellow
+"Moore County, TN",47127,TN,4,6488,<10 tests,Green
+"Morgan County, TN",47129,TN,4,21403,0.047,Green
+"Obion County, TN",47131,TN,4,30069,0.098,Yellow
+"Overton County, TN",47133,TN,4,22241,0.06,Yellow
+"Perry County, TN",47135,TN,4,8076,<10 tests,Green
+"Pickett County, TN",47137,TN,4,5048,<10 tests,Green
+"Polk County, TN",47139,TN,4,16832,0.079,Yellow
+"Putnam County, TN",47141,TN,4,80245,0.13,Red
+"Rhea County, TN",47143,TN,4,33167,0,Green
+"Roane County, TN",47145,TN,4,53382,0.076,Yellow
+"Robertson County, TN",47147,TN,4,71813,0.126,Red
+"Rutherford County, TN",47149,TN,4,332285,0.085,Yellow
+"Scott County, TN",47151,TN,4,22068,0,Green
+"Sequatchie County, TN",47153,TN,4,15026,0,Green
+"Sevier County, TN",47155,TN,4,98250,0.026,Green
+"Shelby County, TN",47157,TN,4,937166,0.099,Yellow
+"Smith County, TN",47159,TN,4,20157,0.045,Green
+"Stewart County, TN",47161,TN,4,13715,0.02,Green
+"Sullivan County, TN",47163,TN,4,158348,0.175,Red
+"Sumner County, TN",47165,TN,4,191283,0.092,Yellow
+"Tipton County, TN",47167,TN,4,61599,0.098,Yellow
+"Trousdale County, TN",47169,TN,4,11284,0.103,Red
+"Unicoi County, TN",47171,TN,4,17883,0.138,Red
+"Union County, TN",47173,TN,4,19972,0.053,Yellow
+"Van Buren County, TN",47175,TN,4,5872,0.133,Red
+"Warren County, TN",47177,TN,4,41277,0.079,Yellow
+"Washington County, TN",47179,TN,4,129375,0.06,Yellow
+"Wayne County, TN",47181,TN,4,16673,0.095,Yellow
+"Weakley County, TN",47183,TN,4,33328,0.09,Yellow
+"White County, TN",47185,TN,4,27345,0.083,Yellow
+"Williamson County, TN",47187,TN,4,238412,0.065,Yellow
+"Wilson County, TN",47189,TN,4,144657,0.1,Yellow
+"Anderson County, TX",48001,TX,6,57735,0.193,Red
+"Andrews County, TX",48003,TX,6,18705,0.211,Red
+"Angelina County, TX",48005,TX,6,86715,0.098,Yellow
+"Aransas County, TX",48007,TX,6,23510,0.034,Green
+"Archer County, TX",48009,TX,6,8553,0.231,Red
+"Armstrong County, TX",48011,TX,6,1887,<10 tests,Green
+"Atascosa County, TX",48013,TX,6,51153,0.174,Red
+"Austin County, TX",48015,TX,6,30032,0.092,Yellow
+"Bailey County, TX",48017,TX,6,7000,<10 tests,Green
+"Bandera County, TX",48019,TX,6,23112,0.128,Red
+"Bastrop County, TX",48021,TX,6,88723,0.091,Yellow
+"Baylor County, TX",48023,TX,6,3509,<10 tests,Green
+"Bee County, TX",48025,TX,6,32565,0.229,Red
+"Bell County, TX",48027,TX,6,362924,0.067,Yellow
+"Bexar County, TX",48029,TX,6,2003554,0.132,Red
+"Blanco County, TX",48031,TX,6,11931,0.107,Red
+"Borden County, TX",48033,TX,6,654,<10 tests,Green
+"Bosque County, TX",48035,TX,6,18685,0.099,Yellow
+"Bowie County, TX",48037,TX,6,93245,0.115,Red
+"Brazoria County, TX",48039,TX,6,374264,0.074,Yellow
+"Brazos County, TX",48041,TX,6,229211,0.107,Red
+"Brewster County, TX",48043,TX,6,9203,0.008,Green
+"Briscoe County, TX",48045,TX,6,1546,<10 tests,Green
+"Brooks County, TX",48047,TX,6,7093,0.144,Red
+"Brown County, TX",48049,TX,6,37864,0.131,Red
+"Burleson County, TX",48051,TX,6,18443,0.107,Red
+"Burnet County, TX",48053,TX,6,48155,0.431,Red
+"Caldwell County, TX",48055,TX,6,43664,0.161,Red
+"Calhoun County, TX",48057,TX,6,21290,0.152,Red
+"Callahan County, TX",48059,TX,6,13943,0.1,Yellow
+"Cameron County, TX",48061,TX,6,423163,0.216,Red
+"Camp County, TX",48063,TX,6,13094,0.043,Green
+"Carson County, TX",48065,TX,6,5926,<10 tests,Green
+"Cass County, TX",48067,TX,6,30026,0.117,Red
+"Castro County, TX",48069,TX,6,7530,0.417,Red
+"Chambers County, TX",48071,TX,6,43837,0.121,Red
+"Cherokee County, TX",48073,TX,6,52646,0.154,Red
+"Childress County, TX",48075,TX,6,7306,<10 tests,Green
+"Clay County, TX",48077,TX,6,10471,0.059,Yellow
+"Cochran County, TX",48079,TX,6,2853,<10 tests,Green
+"Coke County, TX",48081,TX,6,3387,0.133,Red
+"Coleman County, TX",48083,TX,6,8175,0.143,Red
+"Collin County, TX",48085,TX,6,1034730,0.051,Yellow
+"Collingsworth County, TX",48087,TX,6,2920,0.2,Red
+"Colorado County, TX",48089,TX,6,21493,0.058,Yellow
+"Comal County, TX",48091,TX,6,156209,0.058,Yellow
+"Comanche County, TX",48093,TX,6,13635,0.077,Yellow
+"Concho County, TX",48095,TX,6,2726,0.45,Red
+"Cooke County, TX",48097,TX,6,41257,0.125,Red
+"Coryell County, TX",48099,TX,6,75951,0.227,Red
+"Cottle County, TX",48101,TX,6,1398,<10 tests,Green
+"Crane County, TX",48103,TX,6,4797,0.025,Green
+"Crockett County, TX",48105,TX,6,3464,0.2,Red
+"Crosby County, TX",48107,TX,6,5737,<10 tests,Green
+"Culberson County, TX",48109,TX,6,2171,<10 tests,Green
+"Dallam County, TX",48111,TX,6,7287,0.154,Red
+"Dallas County, TX",48113,TX,6,2635516,0.105,Red
+"Dawson County, TX",48115,TX,6,12728,0.069,Yellow
+"Deaf Smith County, TX",48117,TX,6,18546,0.361,Red
+"Delta County, TX",48119,TX,6,5331,0,Green
+"Denton County, TX",48121,TX,6,887207,0.066,Yellow
+"DeWitt County, TX",48123,TX,6,20160,0.359,Red
+"Dickens County, TX",48125,TX,6,2211,<10 tests,Green
+"Dimmit County, TX",48127,TX,6,10124,0.242,Red
+"Donley County, TX",48129,TX,6,3278,0.13,Red
+"Duval County, TX",48131,TX,6,11157,0.158,Red
+"Eastland County, TX",48133,TX,6,18360,0.062,Yellow
+"Ector County, TX",48135,TX,6,166223,0.211,Red
+"Edwards County, TX",48137,TX,6,1932,<10 tests,Green
+"El Paso County, TX",48141,TX,6,839238,0.062,Yellow
+"Ellis County, TX",48139,TX,6,184826,0.077,Yellow
+"Erath County, TX",48143,TX,6,42698,0.058,Yellow
+"Falls County, TX",48145,TX,6,17297,0.15,Red
+"Fannin County, TX",48147,TX,6,35514,0.032,Green
+"Fayette County, TX",48149,TX,6,25346,0.037,Green
+"Fisher County, TX",48151,TX,6,3830,<10 tests,Green
+"Floyd County, TX",48153,TX,6,5712,<10 tests,Green
+"Foard County, TX",48155,TX,6,1155,<10 tests,Green
+"Fort Bend County, TX",48157,TX,6,811688,0.057,Yellow
+"Franklin County, TX",48159,TX,6,10725,0.025,Green
+"Freestone County, TX",48161,TX,6,19717,0.228,Red
+"Frio County, TX",48163,TX,6,20306,0.197,Red
+"Gaines County, TX",48165,TX,6,21492,<10 tests,Green
+"Galveston County, TX",48167,TX,6,342139,0.079,Yellow
+"Garza County, TX",48169,TX,6,6229,<10 tests,Green
+"Gillespie County, TX",48171,TX,6,26988,0.048,Green
+"Glasscock County, TX",48173,TX,6,1409,<10 tests,Green
+"Goliad County, TX",48175,TX,6,7658,0.227,Red
+"Gonzales County, TX",48177,TX,6,20837,0.185,Red
+"Gray County, TX",48179,TX,6,21886,0.065,Yellow
+"Grayson County, TX",48181,TX,6,136212,0.105,Red
+"Gregg County, TX",48183,TX,6,123945,0.121,Red
+"Grimes County, TX",48185,TX,6,28880,0.043,Green
+"Guadalupe County, TX",48187,TX,6,166847,0.095,Yellow
+"Hale County, TX",48189,TX,6,33406,0.03,Green
+"Hall County, TX",48191,TX,6,2964,<10 tests,Green
+"Hamilton County, TX",48193,TX,6,8461,0,Green
+"Hansford County, TX",48195,TX,6,5399,<10 tests,Green
+"Hardeman County, TX",48197,TX,6,3933,<10 tests,Green
+"Hardin County, TX",48199,TX,6,57602,0.117,Red
+"Harris County, TX",48201,TX,6,4713325,0.078,Yellow
+"Harrison County, TX",48203,TX,6,66553,0.076,Yellow
+"Hartley County, TX",48205,TX,6,5576,<10 tests,Green
+"Haskell County, TX",48207,TX,6,5658,<10 tests,Green
+"Hays County, TX",48209,TX,6,230191,0.077,Yellow
+"Hemphill County, TX",48211,TX,6,3819,0.089,Yellow
+"Henderson County, TX",48213,TX,6,82737,0.165,Red
+"Hidalgo County, TX",48215,TX,6,868707,0.194,Red
+"Hill County, TX",48217,TX,6,36649,0.102,Red
+"Hockley County, TX",48219,TX,6,23021,0,Green
+"Hood County, TX",48221,TX,6,61643,0.071,Yellow
+"Hopkins County, TX",48223,TX,6,37084,0.051,Yellow
+"Houston County, TX",48225,TX,6,22968,0.204,Red
+"Howard County, TX",48227,TX,6,36664,0.328,Red
+"Hudspeth County, TX",48229,TX,6,4886,0,Green
+"Hunt County, TX",48231,TX,6,98594,0.078,Yellow
+"Hutchinson County, TX",48233,TX,6,20938,0.069,Yellow
+"Irion County, TX",48235,TX,6,1536,0.182,Red
+"Jack County, TX",48237,TX,6,8935,0.176,Red
+"Jackson County, TX",48239,TX,6,14760,0.261,Red
+"Jasper County, TX",48241,TX,6,35529,0.144,Red
+"Jeff Davis County, TX",48243,TX,6,2274,<10 tests,Green
+"Jefferson County, TX",48245,TX,6,251565,0.108,Red
+"Jim Hogg County, TX",48247,TX,6,5200,0.125,Red
+"Jim Wells County, TX",48249,TX,6,40482,0.199,Red
+"Johnson County, TX",48251,TX,6,175817,0.089,Yellow
+"Jones County, TX",48253,TX,6,20083,0.167,Red
+"Karnes County, TX",48255,TX,6,15601,0.197,Red
+"Kaufman County, TX",48257,TX,6,136154,0.044,Green
+"Kendall County, TX",48259,TX,6,47431,0.029,Green
+"Kenedy County, TX",48261,TX,6,404,<10 tests,Green
+"Kent County, TX",48263,TX,6,762,<10 tests,Green
+"Kerr County, TX",48265,TX,6,52600,0.033,Green
+"Kimble County, TX",48267,TX,6,4337,0,Green
+"King County, TX",48269,TX,6,272,<10 tests,Green
+"Kinney County, TX",48271,TX,6,3667,<10 tests,Green
+"Kleberg County, TX",48273,TX,6,30680,0.099,Yellow
+"Knox County, TX",48275,TX,6,3664,<10 tests,Green
+"La Salle County, TX",48283,TX,6,7520,0.071,Yellow
+"Lamar County, TX",48277,TX,6,49859,0.107,Red
+"Lamb County, TX",48279,TX,6,12893,0.111,Red
+"Lampasas County, TX",48281,TX,6,21428,0.041,Green
+"Lavaca County, TX",48285,TX,6,20154,0.131,Red
+"Lee County, TX",48287,TX,6,17239,0.146,Red
+"Leon County, TX",48289,TX,6,17404,0.113,Red
+"Liberty County, TX",48291,TX,6,88219,0.297,Red
+"Limestone County, TX",48293,TX,6,23437,0.159,Red
+"Lipscomb County, TX",48295,TX,6,3233,<10 tests,Green
+"Live Oak County, TX",48297,TX,6,12207,0.063,Yellow
+"Llano County, TX",48299,TX,6,21795,0.041,Green
+"Loving County, TX",48301,TX,6,169,<10 tests,Green
+"Lubbock County, TX",48303,TX,6,310569,0.056,Yellow
+"Lynn County, TX",48305,TX,6,5951,<10 tests,Green
+"Madison County, TX",48313,TX,6,14284,0.12,Red
+"Marion County, TX",48315,TX,6,9854,0.038,Green
+"Martin County, TX",48317,TX,6,5771,0.308,Red
+"Mason County, TX",48319,TX,6,4274,0.192,Red
+"Matagorda County, TX",48321,TX,6,36643,0.087,Yellow
+"Maverick County, TX",48323,TX,6,58722,0.271,Red
+"McCulloch County, TX",48307,TX,6,7984,0.182,Red
+"McLennan County, TX",48309,TX,6,256623,0.132,Red
+"McMullen County, TX",48311,TX,6,743,<10 tests,Green
+"Medina County, TX",48325,TX,6,51584,0.159,Red
+"Menard County, TX",48327,TX,6,2138,0.062,Yellow
+"Midland County, TX",48329,TX,6,176832,0.059,Yellow
+"Milam County, TX",48331,TX,6,24823,0.087,Yellow
+"Mills County, TX",48333,TX,6,4873,<10 tests,Green
+"Mitchell County, TX",48335,TX,6,8545,<10 tests,Green
+"Montague County, TX",48337,TX,6,19818,0.106,Red
+"Montgomery County, TX",48339,TX,6,607391,0.081,Yellow
+"Moore County, TX",48341,TX,6,20940,0.058,Yellow
+"Morris County, TX",48343,TX,6,12388,0.014,Green
+"Motley County, TX",48345,TX,6,1200,<10 tests,Green
+"Nacogdoches County, TX",48347,TX,6,65204,0.206,Red
+"Navarro County, TX",48349,TX,6,50113,0.2,Red
+"Newton County, TX",48351,TX,6,13595,0.115,Red
+"Nolan County, TX",48353,TX,6,14714,0.467,Red
+"Nueces County, TX",48355,TX,6,362294,0.11,Red
+"Ochiltree County, TX",48357,TX,6,9836,<10 tests,Green
+"Oldham County, TX",48359,TX,6,2112,<10 tests,Green
+"Orange County, TX",48361,TX,6,83396,0.071,Yellow
+"Palo Pinto County, TX",48363,TX,6,29189,0.137,Red
+"Panola County, TX",48365,TX,6,23194,0.053,Yellow
+"Parker County, TX",48367,TX,6,142878,0.087,Yellow
+"Parmer County, TX",48369,TX,6,9605,0.048,Green
+"Pecos County, TX",48371,TX,6,15823,0.093,Yellow
+"Polk County, TX",48373,TX,6,51353,0.077,Yellow
+"Potter County, TX",48375,TX,6,117415,0.089,Yellow
+"Presidio County, TX",48377,TX,6,6704,0.021,Green
+"Rains County, TX",48379,TX,6,12514,0.125,Red
+"Randall County, TX",48381,TX,6,137713,0.106,Red
+"Reagan County, TX",48383,TX,6,3849,0.071,Yellow
+"Real County, TX",48385,TX,6,3452,<10 tests,Green
+"Red River County, TX",48387,TX,6,12023,0.008,Green
+"Reeves County, TX",48389,TX,6,15976,0.059,Yellow
+"Refugio County, TX",48391,TX,6,6948,0.243,Red
+"Roberts County, TX",48393,TX,6,854,<10 tests,Green
+"Robertson County, TX",48395,TX,6,17074,0.096,Yellow
+"Rockwall County, TX",48397,TX,6,104915,0.059,Yellow
+"Runnels County, TX",48399,TX,6,10264,0.123,Red
+"Rusk County, TX",48401,TX,6,54406,0.256,Red
+"Sabine County, TX",48403,TX,6,10542,0.029,Green
+"San Augustine County, TX",48405,TX,6,8237,0.357,Red
+"San Jacinto County, TX",48407,TX,6,28859,0.081,Yellow
+"San Patricio County, TX",48409,TX,6,66730,0.188,Red
+"San Saba County, TX",48411,TX,6,6055,0.105,Red
+"Schleicher County, TX",48413,TX,6,2793,<10 tests,Green
+"Scurry County, TX",48415,TX,6,16703,<10 tests,Green
+"Shackelford County, TX",48417,TX,6,3265,<10 tests,Green
+"Shelby County, TX",48419,TX,6,25274,0.212,Red
+"Sherman County, TX",48421,TX,6,3022,<10 tests,Green
+"Smith County, TX",48423,TX,6,232751,0.184,Red
+"Somervell County, TX",48425,TX,6,9128,0.091,Yellow
+"Starr County, TX",48427,TX,6,64633,0.172,Red
+"Stephens County, TX",48429,TX,6,9366,0.182,Red
+"Sterling County, TX",48431,TX,6,1291,<10 tests,Green
+"Stonewall County, TX",48433,TX,6,1350,<10 tests,Green
+"Sutton County, TX",48435,TX,6,3776,0.172,Red
+"Swisher County, TX",48437,TX,6,7397,0.206,Red
+"Tarrant County, TX",48439,TX,6,2102515,0.086,Yellow
+"Taylor County, TX",48441,TX,6,138034,0.118,Red
+"Terrell County, TX",48443,TX,6,776,<10 tests,Green
+"Terry County, TX",48445,TX,6,12337,0.167,Red
+"Throckmorton County, TX",48447,TX,6,1501,<10 tests,Green
+"Titus County, TX",48449,TX,6,32750,0.037,Green
+"Tom Green County, TX",48451,TX,6,119200,0.147,Red
+"Travis County, TX",48453,TX,6,1273954,0.063,Yellow
+"Trinity County, TX",48455,TX,6,14651,0.104,Red
+"Tyler County, TX",48457,TX,6,21672,0.343,Red
+"Upshur County, TX",48459,TX,6,41753,0.142,Red
+"Upton County, TX",48461,TX,6,3657,0.071,Yellow
+"Uvalde County, TX",48463,TX,6,26741,0.231,Red
+"Val Verde County, TX",48465,TX,6,49025,0.289,Red
+"Van Zandt County, TX",48467,TX,6,56590,0.067,Yellow
+"Victoria County, TX",48469,TX,6,92084,0.19,Red
+"Walker County, TX",48471,TX,6,72971,0.147,Red
+"Waller County, TX",48473,TX,6,55246,0.086,Yellow
+"Ward County, TX",48475,TX,6,11998,0.062,Yellow
+"Washington County, TX",48477,TX,6,35882,0.021,Green
+"Webb County, TX",48479,TX,6,276652,0.183,Red
+"Wharton County, TX",48481,TX,6,41556,0.089,Yellow
+"Wheeler County, TX",48483,TX,6,5056,0.05,Yellow
+"Wichita County, TX",48485,TX,6,132230,0.047,Green
+"Wilbarger County, TX",48487,TX,6,12769,0.205,Red
+"Willacy County, TX",48489,TX,6,21358,0.226,Red
+"Williamson County, TX",48491,TX,6,590551,0.057,Yellow
+"Wilson County, TX",48493,TX,6,51070,0.101,Red
+"Winkler County, TX",48495,TX,6,8010,<10 tests,Green
+"Wise County, TX",48497,TX,6,69984,0.044,Green
+"Wood County, TX",48499,TX,6,45539,0.254,Red
+"Yoakum County, TX",48501,TX,6,8713,<10 tests,Green
+"Young County, TX",48503,TX,6,18010,0.048,Green
+"Zapata County, TX",48505,TX,6,14179,0.164,Red
+"Zavala County, TX",48507,TX,6,11840,0.351,Red
+"Beaver County, UT",49001,UT,8,6710,0.055,Yellow
+"Box Elder County, UT",49003,UT,8,56046,0.108,Red
+"Cache County, UT",49005,UT,8,128289,0.152,Red
+"Carbon County, UT",49007,UT,8,20463,0.095,Yellow
+"Daggett County, UT",49009,UT,8,950,<10 tests,Green
+"Davis County, UT",49011,UT,8,355481,0.076,Yellow
+"Duchesne County, UT",49013,UT,8,19938,0.014,Green
+"Emery County, UT",49015,UT,8,10012,0,Green
+"Garfield County, UT",49017,UT,8,5051,0,Green
+"Grand County, UT",49019,UT,8,9754,0.008,Green
+"Iron County, UT",49021,UT,8,54839,0.113,Red
+"Juab County, UT",49023,UT,8,12017,0.093,Yellow
+"Kane County, UT",49025,UT,8,7886,0.027,Green
+"Millard County, UT",49027,UT,8,13188,0.129,Red
+"Morgan County, UT",49029,UT,8,12124,0.1,Yellow
+"Piute County, UT",49031,UT,8,1479,<10 tests,Green
+"Rich County, UT",49033,UT,8,2483,0,Green
+"Salt Lake County, UT",49035,UT,8,1160437,0.082,Yellow
+"San Juan County, UT",49037,UT,8,15308,0.054,Yellow
+"Sanpete County, UT",49039,UT,8,30939,0.112,Red
+"Sevier County, UT",49041,UT,8,21620,0.049,Green
+"Summit County, UT",49043,UT,8,42145,0.078,Yellow
+"Tooele County, UT",49045,UT,8,72259,0.073,Yellow
+"Uintah County, UT",49047,UT,8,35734,0.032,Green
+"Utah County, UT",49049,UT,8,636235,0.146,Red
+"Wasatch County, UT",49051,UT,8,34091,0.082,Yellow
+"Washington County, UT",49053,UT,8,177556,0.14,Red
+"Wayne County, UT",49055,UT,8,2711,0,Green
+"Weber County, UT",49057,UT,8,260213,0.078,Yellow
+"Accomack County, VA",51001,VA,3,32316,0.024,Green
+"Albemarle County, VA",51003,VA,3,109330,0.079,Yellow
+"Alexandria City, VA",51510,VA,3,159428,0.066,Yellow
+"Alleghany County, VA",51005,VA,3,14860,0.083,Yellow
+"Amelia County, VA",51007,VA,3,13145,0.035,Green
+"Amherst County, VA",51009,VA,3,31605,0.146,Red
+"Appomattox County, VA",51011,VA,3,15911,0.189,Red
+"Arlington County, VA",51013,VA,3,236842,0.051,Yellow
+"Augusta County, VA",51015,VA,3,75558,0.052,Yellow
+"Bath County, VA",51017,VA,3,4147,0,Green
+"Bedford County, VA",51019,VA,3,78997,0.147,Red
+"Bland County, VA",51021,VA,3,6280,0.045,Green
+"Botetourt County, VA",51023,VA,3,33419,0.238,Red
+"Bristol City, VA",51520,VA,3,16762,0.146,Red
+"Brunswick County, VA",51025,VA,3,16231,0.176,Red
+"Buchanan County, VA",51027,VA,3,21004,0,Green
+"Buckingham County, VA",51029,VA,3,17148,0.123,Red
+"Buena Vista City, VA",51530,VA,3,6478,0.062,Yellow
+"Campbell County, VA",51031,VA,3,54885,0.168,Red
+"Caroline County, VA",51033,VA,3,30725,0.095,Yellow
+"Carroll County, VA",51035,VA,3,29791,0.183,Red
+"Charles City County, VA",51036,VA,3,6963,0.123,Red
+"Charlotte County, VA",51037,VA,3,11880,0.06,Yellow
+"Charlottesville City, VA",51540,VA,3,47266,0.049,Green
+"Chesapeake City, VA",51550,VA,3,244835,0.126,Red
+"Chesterfield County, VA",51041,VA,3,352802,0.089,Yellow
+"Clarke County, VA",51043,VA,3,14619,0.01,Green
+"Colonial Heights City, VA",51570,VA,3,17370,0.047,Green
+"Covington City, VA",51580,VA,3,5538,<10 tests,Green
+"Craig County, VA",51045,VA,3,5131,0,Green
+"Culpeper County, VA",51047,VA,3,52605,0.123,Red
+"Cumberland County, VA",51049,VA,3,9932,0.13,Red
+"Danville City, VA",51590,VA,3,40044,0.142,Red
+"Dickenson County, VA",51051,VA,3,14318,0.115,Red
+"Dinwiddie County, VA",51053,VA,3,28544,0.247,Red
+"Emporia City, VA",51595,VA,3,5346,0.8,Red
+"Essex County, VA",51057,VA,3,10953,0.026,Green
+"Fairfax City, VA",51600,VA,3,24019,<10 tests,Green
+"Fairfax County, VA",51059,VA,3,1147532,0.103,Red
+"Falls Church City, VA",51610,VA,3,14617,0.035,Green
+"Fauquier County, VA",51061,VA,3,71222,0.045,Green
+"Floyd County, VA",51063,VA,3,15749,0.251,Red
+"Fluvanna County, VA",51065,VA,3,27270,0.062,Yellow
+"Franklin City, VA",51620,VA,3,7967,0.195,Red
+"Franklin County, VA",51067,VA,3,56042,0.045,Green
+"Frederick County, VA",51069,VA,3,89313,0.088,Yellow
+"Fredericksburg City, VA",51630,VA,3,29036,0.155,Red
+"Galax City, VA",51640,VA,3,6347,0.091,Yellow
+"Giles County, VA",51071,VA,3,16720,0.072,Yellow
+"Gloucester County, VA",51073,VA,3,37348,0.091,Yellow
+"Goochland County, VA",51075,VA,3,23753,0.176,Red
+"Grayson County, VA",51077,VA,3,15550,0.322,Red
+"Greene County, VA",51079,VA,3,19819,0.075,Yellow
+"Greensville County, VA",51081,VA,3,11336,0.099,Yellow
+"Halifax County, VA",51083,VA,3,33911,0.078,Yellow
+"Hampton City, VA",51650,VA,3,134510,0.106,Red
+"Hanover County, VA",51085,VA,3,107766,0.047,Green
+"Harrisonburg City, VA",51660,VA,3,53016,0.158,Red
+"Henrico County, VA",51087,VA,3,330818,0.068,Yellow
+"Henry County, VA",51089,VA,3,50557,0.186,Red
+"Highland County, VA",51091,VA,3,2190,<10 tests,Green
+"Hopewell City, VA",51670,VA,3,22529,0.095,Yellow
+"Isle of Wight County, VA",51093,VA,3,37109,0.159,Red
+"James City County, VA",51095,VA,3,76523,0.072,Yellow
+"King and Queen County, VA",51097,VA,3,7025,0.067,Yellow
+"King George County, VA",51099,VA,3,26836,0.118,Red
+"King William County, VA",51101,VA,3,17148,0.066,Yellow
+"Lancaster County, VA",51103,VA,3,10603,0.164,Red
+"Lee County, VA",51105,VA,3,23423,0.069,Yellow
+"Lexington City, VA",51678,VA,3,7446,0.088,Yellow
+"Loudoun County, VA",51107,VA,3,413538,0.071,Yellow
+"Louisa County, VA",51109,VA,3,37591,0.046,Green
+"Lunenburg County, VA",51111,VA,3,12196,0.18,Red
+"Lynchburg City, VA",51680,VA,3,82168,0.139,Red
+"Madison County, VA",51113,VA,3,13261,0.096,Yellow
+"Manassas City, VA",51683,VA,3,41085,0.128,Red
+"Manassas Park City, VA",51685,VA,3,17478,0.48,Red
+"Martinsville City, VA",51690,VA,3,12554,0.714,Red
+"Mathews County, VA",51115,VA,3,8834,0,Green
+"Mecklenburg County, VA",51117,VA,3,30587,0.067,Yellow
+"Middlesex County, VA",51119,VA,3,10582,0.011,Green
+"Montgomery County, VA",51121,VA,3,98535,0.03,Green
+"Nelson County, VA",51125,VA,3,14930,0.085,Yellow
+"New Kent County, VA",51127,VA,3,23091,0.063,Yellow
+"Newport News City, VA",51700,VA,3,179225,0.092,Yellow
+"Norfolk City, VA",51710,VA,3,242742,0.115,Red
+"Northampton County, VA",51131,VA,3,11710,0.034,Green
+"Northumberland County, VA",51133,VA,3,12095,0.087,Yellow
+"Norton City, VA",51720,VA,3,3981,0.013,Green
+"Nottoway County, VA",51135,VA,3,15232,0.066,Yellow
+"Orange County, VA",51137,VA,3,37051,0.071,Yellow
+"Page County, VA",51139,VA,3,23902,0.014,Green
+"Patrick County, VA",51141,VA,3,17608,0.12,Red
+"Petersburg City, VA",51730,VA,3,31346,0.082,Yellow
+"Pittsylvania County, VA",51143,VA,3,60354,0.257,Red
+"Poquoson City, VA",51735,VA,3,12271,0.116,Red
+"Portsmouth City, VA",51740,VA,3,94398,0.147,Red
+"Powhatan County, VA",51145,VA,3,29652,0.073,Yellow
+"Prince Edward County, VA",51147,VA,3,22802,0.097,Yellow
+"Prince George County, VA",51149,VA,3,38353,0.17,Red
+"Prince William County, VA",51153,VA,3,470335,0.102,Red
+"Pulaski County, VA",51155,VA,3,34027,0.132,Red
+"Radford City, VA",51750,VA,3,18249,0.454,Red
+"Rappahannock County, VA",51157,VA,3,7370,0.024,Green
+"Richmond City, VA",51760,VA,3,230436,0.099,Yellow
+"Richmond County, VA",51159,VA,3,9023,0.03,Green
+"Roanoke City, VA",51770,VA,3,99143,0.078,Yellow
+"Roanoke County, VA",51161,VA,3,94186,0.122,Red
+"Rockbridge County, VA",51163,VA,3,22573,0.108,Red
+"Rockingham County, VA",51165,VA,3,81948,0.085,Yellow
+"Russell County, VA",51167,VA,3,26586,0.138,Red
+"Salem City, VA",51775,VA,3,25301,0.156,Red
+"Scott County, VA",51169,VA,3,21566,0.09,Yellow
+"Shenandoah County, VA",51171,VA,3,43616,0.036,Green
+"Smyth County, VA",51173,VA,3,30104,0.156,Red
+"Southampton County, VA",51175,VA,3,17631,0.137,Red
+"Spotsylvania County, VA",51177,VA,3,136215,0.089,Yellow
+"Stafford County, VA",51179,VA,3,152882,0.078,Yellow
+"Staunton City, VA",51790,VA,3,24932,0.015,Green
+"Suffolk City, VA",51800,VA,3,92108,0.114,Red
+"Surry County, VA",51181,VA,3,6422,0.077,Yellow
+"Sussex County, VA",51183,VA,3,11159,0.127,Red
+"Tazewell County, VA",51185,VA,3,40595,0.027,Green
+"Virginia Beach City, VA",51810,VA,3,449974,0.074,Yellow
+"Warren County, VA",51187,VA,3,40164,0.06,Yellow
+"Washington County, VA",51191,VA,3,53740,0.123,Red
+"Waynesboro City, VA",51820,VA,3,22630,0.045,Green
+"Westmoreland County, VA",51193,VA,3,18015,0.067,Yellow
+"Williamsburg City, VA",51830,VA,3,14954,0.474,Red
+"Winchester City, VA",51840,VA,3,28078,0.017,Green
+"Wise County, VA",51195,VA,3,37383,0.098,Yellow
+"Wythe County, VA",51197,VA,3,28684,0.119,Red
+"York County, VA",51199,VA,3,68280,0.09,Yellow
+"Addison County, VT",50001,VT,1,36777,0.008,Green
+"Bennington County, VT",50003,VT,1,35470,0.02,Green
+"Caledonia County, VT",50005,VT,1,29993,0.001,Green
+"Chittenden County, VT",50007,VT,1,163774,0.002,Green
+"Essex County, VT",50009,VT,1,6163,0,Green
+"Franklin County, VT",50011,VT,1,49402,0.006,Green
+"Grand Isle County, VT",50013,VT,1,7235,0,Green
+"Lamoille County, VT",50015,VT,1,25362,0,Green
+"Orange County, VT",50017,VT,1,28892,0.004,Green
+"Orleans County, VT",50019,VT,1,27037,0,Green
+"Rutland County, VT",50021,VT,1,58191,0.012,Green
+"Washington County, VT",50023,VT,1,58409,0.005,Green
+"Windham County, VT",50025,VT,1,42222,0.015,Green
+"Windsor County, VT",50027,VT,1,55062,0.003,Green
+"Adams County, WA",53001,WA,10,19983,0.125,Red
+"Asotin County, WA",53003,WA,10,22582,0.03,Green
+"Benton County, WA",53005,WA,10,204390,0.075,Yellow
+"Chelan County, WA",53007,WA,10,77200,0.095,Yellow
+"Clallam County, WA",53009,WA,10,77331,0.065,Yellow
+"Clark County, WA",53011,WA,10,488241,0.034,Green
+"Columbia County, WA",53013,WA,10,3985,0,Green
+"Cowlitz County, WA",53015,WA,10,110593,0.011,Green
+"Douglas County, WA",53017,WA,10,43429,0.125,Red
+"Ferry County, WA",53019,WA,10,7627,0.1,Yellow
+"Franklin County, WA",53021,WA,10,95222,0.111,Red
+"Garfield County, WA",53023,WA,10,2225,<10 tests,Green
+"Grant County, WA",53025,WA,10,97733,0.087,Yellow
+"Grays Harbor County, WA",53027,WA,10,75061,0.071,Yellow
+"Island County, WA",53029,WA,10,85141,0,Green
+"Jefferson County, WA",53031,WA,10,32221,0,Green
+"King County, WA",53033,WA,10,2252782,0.027,Green
+"Kitsap County, WA",53035,WA,10,271473,0.025,Green
+"Kittitas County, WA",53037,WA,10,47935,0.087,Yellow
+"Klickitat County, WA",53039,WA,10,22425,0.022,Green
+"Lewis County, WA",53041,WA,10,80707,0.055,Yellow
+"Lincoln County, WA",53043,WA,10,10939,0,Green
+"Mason County, WA",53045,WA,10,66768,0.076,Yellow
+"Okanogan County, WA",53047,WA,10,42243,0.02,Green
+"Pacific County, WA",53049,WA,10,22471,0.017,Green
+"Pend Oreille County, WA",53051,WA,10,13724,0.016,Green
+"Pierce County, WA",53053,WA,10,904980,0.038,Green
+"San Juan County, WA",53055,WA,10,17582,0,Green
+"Skagit County, WA",53057,WA,10,129205,0.018,Green
+"Skamania County, WA",53059,WA,10,12083,0,Green
+"Snohomish County, WA",53061,WA,10,822083,0.022,Green
+"Spokane County, WA",53063,WA,10,522798,0.047,Green
+"Stevens County, WA",53065,WA,10,45723,0.015,Green
+"Thurston County, WA",53067,WA,10,290536,0.02,Green
+"Wahkiakum County, WA",53069,WA,10,4488,<10 tests,Green
+"Walla Walla County, WA",53071,WA,10,60760,0.061,Yellow
+"Whatcom County, WA",53073,WA,10,229247,0.008,Green
+"Whitman County, WA",53075,WA,10,50104,0,Green
+"Yakima County, WA",53077,WA,10,250873,0.084,Yellow
+"Adams County, WI",55001,WI,5,20220,0.079,Yellow
+"Ashland County, WI",55003,WI,5,15562,0.029,Green
+"Barron County, WI",55005,WI,5,45244,0.022,Green
+"Bayfield County, WI",55007,WI,5,15036,0.012,Green
+"Brown County, WI",55009,WI,5,264542,0.089,Yellow
+"Buffalo County, WI",55011,WI,5,13031,0.038,Green
+"Burnett County, WI",55013,WI,5,15414,0.017,Green
+"Calumet County, WI",55015,WI,5,50089,0.046,Green
+"Chippewa County, WI",55017,WI,5,64658,0.055,Yellow
+"Clark County, WI",55019,WI,5,34774,0.079,Yellow
+"Columbia County, WI",55021,WI,5,57532,0.029,Green
+"Crawford County, WI",55023,WI,5,16131,0.016,Green
+"Dane County, WI",55025,WI,5,546695,0.023,Green
+"Dodge County, WI",55027,WI,5,87839,0.05,Yellow
+"Door County, WI",55029,WI,5,27668,0.036,Green
+"Douglas County, WI",55031,WI,5,43150,0.027,Green
+"Dunn County, WI",55033,WI,5,45368,0.039,Green
+"Eau Claire County, WI",55035,WI,5,104646,0.06,Yellow
+"Florence County, WI",55037,WI,5,4295,0.098,Yellow
+"Fond du Lac County, WI",55039,WI,5,103403,0.1,Yellow
+"Forest County, WI",55041,WI,5,9004,0.049,Green
+"Grant County, WI",55043,WI,5,51439,0.028,Green
+"Green County, WI",55045,WI,5,36960,0.064,Yellow
+"Green Lake County, WI",55047,WI,5,18913,0.054,Yellow
+"Iowa County, WI",55049,WI,5,23678,0.016,Green
+"Iron County, WI",55051,WI,5,5687,0.196,Red
+"Jackson County, WI",55053,WI,5,20643,0.021,Green
+"Jefferson County, WI",55055,WI,5,84769,0.059,Yellow
+"Juneau County, WI",55057,WI,5,26687,0.083,Yellow
+"Kenosha County, WI",55059,WI,5,169561,0.054,Yellow
+"Kewaunee County, WI",55061,WI,5,20434,0.082,Yellow
+"La Crosse County, WI",55063,WI,5,118016,0.059,Yellow
+"Lafayette County, WI",55065,WI,5,16665,0.04,Green
+"Langlade County, WI",55067,WI,5,19189,0.026,Green
+"Lincoln County, WI",55069,WI,5,27593,0.032,Green
+"Manitowoc County, WI",55071,WI,5,78981,0.073,Yellow
+"Marathon County, WI",55073,WI,5,135692,0.028,Green
+"Marinette County, WI",55075,WI,5,40350,0.095,Yellow
+"Marquette County, WI",55077,WI,5,15574,0.04,Green
+"Menominee County, WI",55078,WI,5,4556,0.037,Green
+"Milwaukee County, WI",55079,WI,5,945726,0.053,Yellow
+"Monroe County, WI",55081,WI,5,46253,0.043,Green
+"Oconto County, WI",55083,WI,5,37930,0.156,Red
+"Oneida County, WI",55085,WI,5,35595,0.044,Green
+"Outagamie County, WI",55087,WI,5,187885,0.073,Yellow
+"Ozaukee County, WI",55089,WI,5,89221,0.058,Yellow
+"Pepin County, WI",55091,WI,5,7287,0,Green
+"Pierce County, WI",55093,WI,5,42754,0.053,Yellow
+"Polk County, WI",55095,WI,5,43783,0.041,Green
+"Portage County, WI",55097,WI,5,70772,0.064,Yellow
+"Price County, WI",55099,WI,5,13351,0.02,Green
+"Racine County, WI",55101,WI,5,196311,0.065,Yellow
+"Richland County, WI",55103,WI,5,17252,0.031,Green
+"Rock County, WI",55105,WI,5,163354,0.043,Green
+"Rusk County, WI",55107,WI,5,14178,0.015,Green
+"Sauk County, WI",55111,WI,5,64442,0.045,Green
+"Sawyer County, WI",55113,WI,5,16558,0.039,Green
+"Shawano County, WI",55115,WI,5,40899,0.039,Green
+"Sheboygan County, WI",55117,WI,5,115340,0.061,Yellow
+"St. Croix County, WI",55109,WI,5,90687,0.062,Yellow
+"Taylor County, WI",55119,WI,5,20343,0.084,Yellow
+"Trempealeau County, WI",55121,WI,5,29649,0.061,Yellow
+"Vernon County, WI",55123,WI,5,30822,0.057,Yellow
+"Vilas County, WI",55125,WI,5,22195,0.029,Green
+"Walworth County, WI",55127,WI,5,103868,0.107,Red
+"Washburn County, WI",55129,WI,5,15720,0.067,Yellow
+"Washington County, WI",55131,WI,5,136034,0.104,Red
+"Waukesha County, WI",55133,WI,5,404198,0.072,Yellow
+"Waupaca County, WI",55135,WI,5,50990,0.085,Yellow
+"Waushara County, WI",55137,WI,5,24443,0.044,Green
+"Winnebago County, WI",55139,WI,5,171907,0.052,Yellow
+"Wood County, WI",55141,WI,5,72999,0.042,Green
+"Barbour County, WV",54001,WV,3,16441,0,Green
+"Berkeley County, WV",54003,WV,3,119171,0.032,Green
+"Boone County, WV",54005,WV,3,21457,0.037,Green
+"Braxton County, WV",54007,WV,3,13957,0,Green
+"Brooke County, WV",54009,WV,3,21939,0.003,Green
+"Cabell County, WV",54011,WV,3,91945,0.019,Green
+"Calhoun County, WV",54013,WV,3,7109,0.006,Green
+"Clay County, WV",54015,WV,3,8508,0.017,Green
+"Doddridge County, WV",54017,WV,3,8448,0,Green
+"Fayette County, WV",54019,WV,3,42406,0.033,Green
+"Gilmer County, WV",54021,WV,3,7823,0,Green
+"Grant County, WV",54023,WV,3,11568,0.026,Green
+"Greenbrier County, WV",54025,WV,3,34662,0.016,Green
+"Hampshire County, WV",54027,WV,3,23175,0.006,Green
+"Hancock County, WV",54029,WV,3,28810,0.027,Green
+"Hardy County, WV",54031,WV,3,13776,0.094,Yellow
+"Harrison County, WV",54033,WV,3,67256,0.023,Green
+"Jackson County, WV",54035,WV,3,28576,0.071,Yellow
+"Jefferson County, WV",54037,WV,3,57146,0.021,Green
+"Kanawha County, WV",54039,WV,3,178124,0.062,Yellow
+"Lewis County, WV",54041,WV,3,15907,0.011,Green
+"Lincoln County, WV",54043,WV,3,20409,0.074,Yellow
+"Logan County, WV",54045,WV,3,32019,0.14,Red
+"Marion County, WV",54049,WV,3,56072,0.007,Green
+"Marshall County, WV",54051,WV,3,30531,0.009,Green
+"Mason County, WV",54053,WV,3,26516,0.05,Yellow
+"McDowell County, WV",54047,WV,3,17624,0.034,Green
+"Mercer County, WV",54055,WV,3,58758,0.045,Green
+"Mineral County, WV",54057,WV,3,26868,0.023,Green
+"Mingo County, WV",54059,WV,3,23424,0.046,Green
+"Monongalia County, WV",54061,WV,3,105612,0.018,Green
+"Monroe County, WV",54063,WV,3,13275,0.154,Red
+"Morgan County, WV",54065,WV,3,17884,0.008,Green
+"Nicholas County, WV",54067,WV,3,24496,0.047,Green
+"Ohio County, WV",54069,WV,3,41411,0.009,Green
+"Pendleton County, WV",54071,WV,3,6969,0,Green
+"Pleasants County, WV",54073,WV,3,7460,0,Green
+"Pocahontas County, WV",54075,WV,3,8247,0,Green
+"Preston County, WV",54077,WV,3,33432,0.015,Green
+"Putnam County, WV",54079,WV,3,56450,0.038,Green
+"Raleigh County, WV",54081,WV,3,73361,0.018,Green
+"Randolph County, WV",54083,WV,3,28695,0.014,Green
+"Ritchie County, WV",54085,WV,3,9554,0,Green
+"Roane County, WV",54087,WV,3,13688,0.029,Green
+"Summers County, WV",54089,WV,3,12573,0,Green
+"Taylor County, WV",54091,WV,3,16695,0.057,Yellow
+"Tucker County, WV",54093,WV,3,6839,0,Green
+"Tyler County, WV",54095,WV,3,8591,0,Green
+"Upshur County, WV",54097,WV,3,24176,0.024,Green
+"Wayne County, WV",54099,WV,3,39402,0.081,Yellow
+"Webster County, WV",54101,WV,3,8114,0,Green
+"Wetzel County, WV",54103,WV,3,15065,0,Green
+"Wirt County, WV",54105,WV,3,5821,0.067,Yellow
+"Wood County, WV",54107,WV,3,83518,0.021,Green
+"Wyoming County, WV",54109,WV,3,20394,0.047,Green
+"Albany County, WY",56001,WY,8,38880,0.013,Green
+"Big Horn County, WY",56003,WY,8,11790,0,Green
+"Campbell County, WY",56005,WY,8,46341,0.118,Red
+"Carbon County, WY",56007,WY,8,14800,0,Green
+"Converse County, WY",56009,WY,8,13822,<10 tests,Green
+"Crook County, WY",56011,WY,8,7584,0,Green
+"Fremont County, WY",56013,WY,8,39261,0.025,Green
+"Goshen County, WY",56015,WY,8,13211,0.103,Red
+"Hot Springs County, WY",56017,WY,8,4413,<10 tests,Green
+"Johnson County, WY",56019,WY,8,8445,<10 tests,Green
+"Laramie County, WY",56021,WY,8,99500,0.007,Green
+"Lincoln County, WY",56023,WY,8,19830,<10 tests,Green
+"Natrona County, WY",56025,WY,8,79858,0.016,Green
+"Niobrara County, WY",56027,WY,8,2356,<10 tests,Green
+"Park County, WY",56029,WY,8,29194,0,Green
+"Platte County, WY",56031,WY,8,8393,<10 tests,Green
+"Sheridan County, WY",56033,WY,8,30485,0.028,Green
+"Sublette County, WY",56035,WY,8,9831,0.083,Yellow
+"Sweetwater County, WY",56037,WY,8,42343,0.037,Green
+"Teton County, WY",56039,WY,8,23464,0.057,Yellow
+"Uinta County, WY",56041,WY,8,20226,0.018,Green
+"Washakie County, WY",56043,WY,8,7805,0.083,Yellow
+"Weston County, WY",56045,WY,8,6927,0.143,Red
