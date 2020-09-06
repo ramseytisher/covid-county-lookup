@@ -34,8 +34,8 @@ const Layout = ({ children }) => {
         }}
       >
         <main>{children}</main>
-        <footer>
-          prototype 💡
+        <footer style={{ padding: `20px`}}>
+          💡 prototype
         </footer>
       </div>
     </>

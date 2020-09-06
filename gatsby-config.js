@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `Ramsey & Cindy's Easy To Use Data Thing`,
+    title: `COVID-19 Information by County`,
     description: `Kick off your next, great Gatsby project with this default starter. This barebones starter ships with the main Gatsby configuration files you might need.`,
     author: `@gatsbyjs`,
   },

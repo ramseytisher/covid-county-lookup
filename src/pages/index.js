@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from "react"
 import { useStaticQuery, graphql } from "gatsby"
 
-import { Select } from "antd"
+import { Select, Button, Row, Col } from "antd"
 import Layout from "../components/layout"
 import Detail from "../components/detail"
 
@@ -33,20 +33,28 @@ const IndexPage = () => {
     console.log(`selected ${value}`)
   }
 
+  function resetData() {
+    setValue(null)
+    setSearch("")
+    setDetail(null)
+  }
+
   useEffect(() => {
     const selected = data.allCountyTestRatesCsv.nodes.filter(({ County }) => {
       return County === value
     })
-    console.log("Selected", selected)
     setDetail(selected[0])
   }, [value])
 
   return (
     <Layout>
+
       <Select
         showSearch
+        allowClear
         size="large"
-        style={{ width: "80vw", margin: `0 auto` }}
+        value={value}
+        style={{ width: "100%", margin: `0 auto` }}
         placeholder="Select a county"
         onChange={value => setValue(value)}
       >
@@ -54,6 +62,7 @@ const IndexPage = () => {
           <Option value={County}>{County}</Option>
         ))}
       </Select>
+
       {detail && <Detail detail={detail} />}
     </Layout>
   )
