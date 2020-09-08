@@ -33,12 +33,6 @@ const IndexPage = () => {
     console.log(`selected ${value}`)
   }
 
-  function resetData() {
-    setValue(null)
-    setSearch("")
-    setDetail(null)
-  }
-
   useEffect(() => {
     const selected = data.allCountyTestRatesCsv.nodes.filter(({ County }) => {
       return County === value
