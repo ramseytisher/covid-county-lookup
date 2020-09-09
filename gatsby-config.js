@@ -27,8 +27,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `gatsby-starter-default`,
-        short_name: `starter`,
+        name: `covid-by-county`,
+        short_name: `covidByCounty`,
         start_url: `/`,
         background_color: `#f0f2f5`,
         theme_color: `#f0f2f5`,
