@@ -3,7 +3,7 @@ import React from "react"
 import { Statistic, Card, Row, Col } from "antd"
 
 const Detail = ({ detail }) => (
-  <Card style={{ margin: 10 }}>
+  <Card style={{ background: "#ebebeb", margin: 10 }}>
     <Row gutter={[8, 8]}>
       <Col span={24}>
         <Card>
@@ -28,7 +28,7 @@ const Detail = ({ detail }) => (
         <Card>
           <Statistic
             title="% Positive Prior 7 Days"
-            value={detail.Percent_Positive_in_prior_7_days * 100}
+            value={detail.Percent_Positive_in_prior_7_days}
             precision={2}
             suffix="%"
           />

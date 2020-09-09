@@ -6,18 +6,17 @@
  */
 
 import React from "react"
-import PropTypes from "prop-types"
 import { useStaticQuery, graphql } from "gatsby"
 
-import { Button, Typography, Space } from "antd"
+import { Layout, Button, Typography, Space } from "antd"
 import { InfoCircleOutlined } from "@ant-design/icons"
-
 import Header from "./header"
 import "./layout.css"
 
+const { Content, Footer } = Layout;
 const { Text } = Typography
 
-const Layout = ({ children }) => {
+export default ({ children }) => {
   const data = useStaticQuery(graphql`
     query SiteTitleQuery {
       site {
@@ -29,7 +28,7 @@ const Layout = ({ children }) => {
   `)
 
   return (
-    <>
+    <Layout>
       <Header siteTitle={data.site.siteMetadata.title} />
       <div
         style={{
@@ -38,8 +37,8 @@ const Layout = ({ children }) => {
           padding: `0 1.0875rem 1.45rem`,
         }}
       >
-        <main>{children}</main>
-        <footer style={{ float: 'right', padding: 20}}>
+        <Content>{children}</Content>
+        <Footer style={{ float: 'right', padding: 20}}>
           <Space>
             <Text>Information Sourced from CMS COVID-19 Nursing Home Data</Text>
             <Button
@@ -50,14 +49,8 @@ const Layout = ({ children }) => {
               icon={<InfoCircleOutlined />}
             />
           </Space>
-        </footer>
+        </Footer>
       </div>
-    </>
+    </Layout>
   )
 }
-
-Layout.propTypes = {
-  children: PropTypes.node.isRequired,
-}
-
-export default Layout

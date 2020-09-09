@@ -50,7 +50,7 @@ const IndexPage = () => {
         onChange={value => setValue(value)}
       >
         {data.allCountyTestRatesCsv.nodes.map(({ County }) => (
-          <Option value={County}>{County}</Option>
+          <Option value={County} key={County}>{County}</Option>
         ))}
       </Select>
 
