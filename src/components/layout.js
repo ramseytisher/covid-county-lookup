@@ -30,19 +30,20 @@ export default ({ children }) => {
     <Layout>
       <Header
         style={{
-          background: `#5378b5`,
-        padding: `0.9rem 1.2rem`,
+          background: `#f0f2f5`,
+          padding: `0.9rem 1.2rem`,
+          margin: "0 auto"
         }}
       >
-        <Title level={3} style={{ color: "white", margin: 0 }}>
+        <Title level={3} >
           {data.site.siteMetadata.title}
         </Title>
       </Header>
       <Content
         style={{
           margin: "0 auto",
+          padding: 20,
           maxWidth: 960,
-          padding: `1.45rem 1.0875rem`,
         }}
       >
         {children}

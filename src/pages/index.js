@@ -1,7 +1,9 @@
 import React, { useState, useEffect } from "react"
 import { useStaticQuery, graphql } from "gatsby"
 
-import { Select, Typography } from "antd"
+import { ArrowUpOutlined } from "@ant-design/icons"
+
+import { Select, Typography, Empty } from "antd"
 import Layout from "../components/layout"
 import Detail from "../components/detail"
 
@@ -50,11 +52,21 @@ const IndexPage = () => {
         onChange={value => setValue(value)}
       >
         {data.allCountyTestRatesCsv.nodes.map(({ County }) => (
-          <Option value={County} key={County}>{County}</Option>
+          <Option value={County} key={County}>
+            {County}
+          </Option>
         ))}
       </Select>
 
-      {detail && <Detail detail={detail} />}
+      {detail ? (
+        <Detail detail={detail} />
+      ) : (
+        <Empty
+          image={<ArrowUpOutlined  style={{ fontSize: '4rem', padding: 20 }} />}
+          style={{ padding: 30 }}
+          description="No county selected"
+        />
+      )}
     </Layout>
   )
 }

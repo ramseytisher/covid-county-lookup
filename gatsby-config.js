@@ -30,12 +30,13 @@ module.exports = {
         name: `gatsby-starter-default`,
         short_name: `starter`,
         start_url: `/`,
-        background_color: `#000000`,
-        theme_color: `#000000`,
+        background_color: `#f0f2f5`,
+        theme_color: `#f0f2f5`,
         display: `standalone`,
         icon: `src/images/county-icon.png`, // This path is relative to the root of the site.
       },
     },
+    `gatsby-plugin-offline`,
 
     // this (optional) plugin enables Progressive Web App + Offline functionality
     // To learn more, visit: https://gatsby.dev/offline
