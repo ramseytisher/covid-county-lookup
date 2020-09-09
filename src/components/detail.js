@@ -10,6 +10,7 @@ const Detail = ({ detail }) => (
           <Statistic
             title="Classification"
             value={detail.Test_Positivity_Classification}
+            extra={<div>asdfsafd</div>}
           />
         </Card>
       </Col>

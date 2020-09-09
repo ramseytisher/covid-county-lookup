@@ -1,11 +1,12 @@
 import React, { useState, useEffect } from "react"
 import { useStaticQuery, graphql } from "gatsby"
 
-import { Select, Button, Row, Col } from "antd"
+import { Select, Typography } from "antd"
 import Layout from "../components/layout"
 import Detail from "../components/detail"
 
 const { Option } = Select
+const { Text } = Typography
 
 const IndexPage = () => {
   const data = useStaticQuery(graphql`
@@ -25,24 +26,20 @@ const IndexPage = () => {
   `)
 
   const [value, setValue] = useState(null)
-  const [options, setOptions] = useState([])
-  const [search, setSearch] = useState("")
   const [detail, setDetail] = useState(null)
-
-  function handleChange(value) {
-    console.log(`selected ${value}`)
-  }
 
   useEffect(() => {
     const selected = data.allCountyTestRatesCsv.nodes.filter(({ County }) => {
       return County === value
     })
     setDetail(selected[0])
-  }, [value])
+  }, [value, data])
 
   return (
     <Layout>
-
+      <Text type="secondary" style={{ margin: 10 }}>
+        Data from: August 27 - September 02
+      </Text>
       <Select
         showSearch
         allowClear

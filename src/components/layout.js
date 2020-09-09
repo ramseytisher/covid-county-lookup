@@ -9,8 +9,13 @@ import React from "react"
 import PropTypes from "prop-types"
 import { useStaticQuery, graphql } from "gatsby"
 
+import { Button, Typography, Space } from "antd"
+import { InfoCircleOutlined } from "@ant-design/icons"
+
 import Header from "./header"
 import "./layout.css"
+
+const { Text } = Typography
 
 const Layout = ({ children }) => {
   const data = useStaticQuery(graphql`
@@ -34,8 +39,17 @@ const Layout = ({ children }) => {
         }}
       >
         <main>{children}</main>
-        <footer style={{ padding: `20px`}}>
-          💡 prototype
+        <footer style={{ float: 'right', padding: 20}}>
+          <Space>
+            <Text>Information Sourced from CMS COVID-19 Nursing Home Data</Text>
+            <Button
+              href="https://data.cms.gov/stories/s/COVID-19-Nursing-Home-Data/bkwz-xpvg"
+              target="_blank"
+              shape="circle"
+              type="primary"
+              icon={<InfoCircleOutlined />}
+            />
+          </Space>
         </footer>
       </div>
     </>
