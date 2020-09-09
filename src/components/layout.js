@@ -10,11 +10,10 @@ import { useStaticQuery, graphql } from "gatsby"
 
 import { Layout, Button, Typography, Space } from "antd"
 import { InfoCircleOutlined } from "@ant-design/icons"
-import Header from "./header"
 import "./layout.css"
 
-const { Content, Footer } = Layout;
-const { Text } = Typography
+const { Header, Content, Footer } = Layout
+const { Title, Text } = Typography
 
 export default ({ children }) => {
   const data = useStaticQuery(graphql`
@@ -29,28 +28,37 @@ export default ({ children }) => {
 
   return (
     <Layout>
-      <Header siteTitle={data.site.siteMetadata.title} />
-      <div
+      <Header
         style={{
-          margin: `0 auto`,
-          maxWidth: 960,
-          padding: `0 1.0875rem 1.45rem`,
+          background: `#5378b5`,
+        padding: `0.9rem 1.2rem`,
         }}
       >
-        <Content>{children}</Content>
-        <Footer style={{ float: 'right', padding: 20}}>
-          <Space>
-            <Text>Information Sourced from CMS COVID-19 Nursing Home Data</Text>
-            <Button
-              href="https://data.cms.gov/stories/s/COVID-19-Nursing-Home-Data/bkwz-xpvg"
-              target="_blank"
-              shape="circle"
-              type="primary"
-              icon={<InfoCircleOutlined />}
-            />
-          </Space>
-        </Footer>
-      </div>
+        <Title level={3} style={{ color: "white", margin: 0 }}>
+          {data.site.siteMetadata.title}
+        </Title>
+      </Header>
+      <Content
+        style={{
+          margin: "0 auto",
+          maxWidth: 960,
+          padding: `1.45rem 1.0875rem`,
+        }}
+      >
+        {children}
+      </Content>
+      <Footer style={{ margin: "0 auto", padding: 20 }}>
+        <Space>
+          <Text>Information Sourced from CMS COVID-19 Nursing Home Data</Text>
+          <Button
+            href="https://data.cms.gov/stories/s/COVID-19-Nursing-Home-Data/bkwz-xpvg"
+            target="_blank"
+            shape="circle"
+            type="primary"
+            icon={<InfoCircleOutlined />}
+          />
+        </Space>
+      </Footer>
     </Layout>
   )
 }
