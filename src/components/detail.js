@@ -30,7 +30,6 @@ const Detail = ({ detail }) => (
             title="% Positive Prior 7 Days"
             value={detail.Percent_Positive_in_prior_7_days}
             precision={2}
-            suffix="%"
           />
         </Card>
       </Col>
