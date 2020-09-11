@@ -1,9 +1,10 @@
 module.exports = {
   siteMetadata: {
-    title: `COVID-19 Information by County`,
+    title: `COVID-19 County Tracker`,
     description: `Kick off your next, great Gatsby project with this default starter. This barebones starter ships with the main Gatsby configuration files you might need.`,
     author: `@gatsbyjs`,
   },
+  pathPrefix: `/CovidCountyTracker`,
   plugins: [
     `gatsby-plugin-react-helmet`,
     {
@@ -27,8 +28,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `covid-by-county`,
-        short_name: `covidByCounty`,
+        name: `COVID-19 County Tracker`,
+        short_name: `covidCountyTr`,
         start_url: `/`,
         background_color: `#f0f2f5`,
         theme_color: `#f0f2f5`,
