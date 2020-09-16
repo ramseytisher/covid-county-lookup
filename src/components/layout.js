@@ -35,7 +35,7 @@ export default ({ children }) => {
           margin: "0 auto"
         }}
       >
-        <Title level={3} >
+        <Title level={3} style={{ fontFamily: 'Open Sans'}} >
           {data.site.siteMetadata.title}
         </Title>
       </Header>
