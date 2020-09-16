@@ -2,7 +2,7 @@ module.exports = {
   siteMetadata: {
     title: `COVID-19 CountyTracker`,
     description: `Simple to review CMS published data by county for COVID-19.`,
-    author: `@ramseytisher`,
+    author: `ramsey.tisher@cerner.com`,
   },
   pathPrefix: `/CovidCountyTracker`,
   plugins: [
