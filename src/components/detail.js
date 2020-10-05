@@ -5,7 +5,6 @@ import { Statistic, Card, Row, Col, Tag } from "antd"
 import CustomCard from "./custom-card"
 
 function getDescription(color) {
-  console.log("color", color)
   if (color.toUpperCase() === "GREEN") {
     return <Tag>Test staff 1 time per month</Tag>
   } else if (color.toUpperCase() === "YELLOW") {
