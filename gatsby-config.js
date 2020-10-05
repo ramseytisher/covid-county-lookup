@@ -6,6 +6,12 @@ module.exports = {
   },
   pathPrefix: `/CovidCountyTracker`,
   plugins: [
+    {
+      resolve: `gatsby-plugin-google-analytics`,
+      options: {
+        trackingId: "UA-144985329-2",
+      },
+    },
     `gatsby-plugin-react-helmet`,
     {
       resolve: "gatsby-plugin-web-font-loader",
@@ -29,8 +35,16 @@ module.exports = {
         path: `${__dirname}/src/data/`,
       },
     },
+    {
+      resolve: `gatsby-source-filesystem`,
+      options: {
+        name: `markdown`,
+        path: `${__dirname}/src/markdown`
+      }
+    },
     `gatsby-transformer-csv`,
     `gatsby-transformer-sharp`,
+    `gatsby-transformer-remark`,
     `gatsby-plugin-antd`,
     `gatsby-plugin-sharp`,
     {
@@ -46,11 +60,5 @@ module.exports = {
       },
     },
     `gatsby-plugin-offline`,
-    {
-      resolve: `gatsby-plugin-google-analytics`,
-      options: {
-        trackingId: "UA-144985329-2",
-      },
-    },
   ],
 }
