@@ -1,6 +1,6 @@
 ---
 title: cms-info
-date: "September 23, 2020"
+date: "Data from September 17-September 30"
 ---
 
 ### Test Positivity Classification: 

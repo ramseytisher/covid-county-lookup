@@ -14,7 +14,7 @@ const { Text } = Typography
 const IndexPage = () => {
   const data = useStaticQuery(graphql`
     query GetCountyData {
-      allCountyTestRates105Csv {
+      allTestPositivityRatesCsv {
         nodes {
           County
           FEMA_Region
@@ -44,7 +44,7 @@ const IndexPage = () => {
   const [info, setInfo] = useState(false)
 
   useEffect(() => {
-    const selected = data.allCountyTestRates105Csv.nodes.filter(
+    const selected = data.allTestPositivityRatesCsv.nodes.filter(
       ({ County }) => {
         return County === value
       }
@@ -56,7 +56,6 @@ const IndexPage = () => {
     <Layout>
       <SEO />
       <Text type="secondary" style={{ margin: 10 }}>
-        Based on data provided by CMS on{" "}
         {data.allMarkdownRemark.nodes.map(({ frontmatter }) => (
           <>{frontmatter.date}</>
         ))}
@@ -70,7 +69,7 @@ const IndexPage = () => {
         placeholder="Select a county"
         onChange={value => setValue(value)}
       >
-        {data.allCountyTestRates105Csv.nodes.map(({ County }) => (
+        {data.allTestPositivityRatesCsv.nodes.map(({ County }) => (
           <Option value={County} key={County}>
             {County}
           </Option>
