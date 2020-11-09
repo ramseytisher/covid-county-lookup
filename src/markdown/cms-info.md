@@ -1,6 +1,6 @@
 ---
 title: cms-info
-date: "Data from October 8-October 21"
+date: "Data from October 15-October 28"
 ---
 
 ### Test Positivity Classification: 
