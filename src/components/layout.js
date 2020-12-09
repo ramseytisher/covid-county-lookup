@@ -8,7 +8,7 @@
 import React from "react"
 import { useStaticQuery, graphql } from "gatsby"
 
-import { Layout, Button, Typography, Space } from "antd"
+import { Layout, Button, Typography, Space, Alert } from "antd"
 import { InfoCircleOutlined } from "@ant-design/icons"
 import "./layout.css"
 
@@ -28,14 +28,20 @@ export default ({ children }) => {
 
   return (
     <Layout>
+      <Alert
+        message="Due to low utilization of this website, it will be discontinued on 12/31/2020"
+        description="If find this service valuable, please email ramsey.tisher@cerner.com"
+        type="warning"
+        showIcon
+      />
       <Header
         style={{
           background: `#f0f2f5`,
           padding: `0.9rem 1.2rem`,
-          margin: "0 auto"
+          margin: "0 auto",
         }}
       >
-        <Title level={3} style={{ fontFamily: 'Open Sans'}} >
+        <Title level={3} style={{ fontFamily: "Open Sans" }}>
           {data.site.siteMetadata.title}
         </Title>
       </Header>
